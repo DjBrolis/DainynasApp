@@ -74,7 +74,7 @@ public class Daina extends Model{
                 String[] pavadinimasIrZodziai = daina.trim().split("\t");
                 Daina dainaTemp = new Daina();
                 dainaTemp.pavadinimas = pavadinimasIrZodziai[0].trim();
-                String[] zodziaiTemp = pavadinimasIrZodziai[1].trim().split("\r\n");
+                String[] zodziaiTemp = pavadinimasIrZodziai[3].trim().split("\r\n");
                 Posmelis posmelisTemp = new Posmelis();
                 posmelisTemp.daina = dainaTemp;
                 dainaTemp.save();

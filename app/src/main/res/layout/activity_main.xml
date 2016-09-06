@@ -42,9 +42,60 @@
 
     <ImageView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="200dp"
         android:src="@drawable/natos"
         android:id="@+id/imageView2"
         android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Rikiuoti dainas pagal:"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/imageView2"
         android:layout_centerHorizontal="true" />
+
+
+
+    <RadioGroup
+        android:id="@+id/rikiuotiDainas"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pavadinima"
+            android:id="@+id/buttonSortByPavadinimas" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Atlikėją"
+            android:id="@+id/buttonSortByAtlikejas" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Puslapį"
+            android:id="@+id/buttonSortByPuslapis" />
+    </RadioGroup>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nustatymai"
+        android:id="@+id/settings"
+        android:layout_alignTop="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:onClick="settings"/>
+
+
 </RelativeLayout>

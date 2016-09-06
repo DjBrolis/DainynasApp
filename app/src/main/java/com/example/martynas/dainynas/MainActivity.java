@@ -7,11 +7,14 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
 import android.widget.Toast;
 
 import com.activeandroid.ActiveAndroid;
 import com.example.martynas.dainynas.Pages.AddDaina;
 import com.example.martynas.dainynas.Pages.ListDaina;
+import com.example.martynas.dainynas.Pages.Settings;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -21,6 +24,8 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
     private Resources resources;
     private String output;
+    private RadioGroup rikiuotiDainas;
+    private RadioButton radioButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,6 +35,34 @@ public class MainActivity extends AppCompatActivity {
 
         checkFirstRun();
 
+        rikiuotiDainas = (RadioGroup) findViewById(R.id.rikiuotiDainas);
+        radioButton = (RadioButton) findViewById(R.id.buttonSortByPavadinimas);
+        radioButton.setActivated(true);
+
+        rikiuotiDainas.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener(){
+            @Override
+            public void onCheckedChanged (RadioGroup group, int checkedId) {
+               if (checkedId == 0){
+                   radioButton = (RadioButton) findViewById(R.id.buttonSortByAtlikejas);
+                   radioButton.setActivated(false);
+                   radioButton = (RadioButton) findViewById(R.id.buttonSortByPuslapis);
+                   radioButton.setActivated(false);
+               }
+                else if (checkedId == 1) {
+                   radioButton = (RadioButton) findViewById(R.id.buttonSortByPavadinimas);
+                   radioButton.setActivated(false);
+                   radioButton = (RadioButton) findViewById(R.id.buttonSortByPuslapis);
+                   radioButton.setActivated(false);
+               }
+                else {
+                   radioButton = (RadioButton) findViewById(R.id.buttonSortByPavadinimas);
+                   radioButton.setActivated(false);
+                   radioButton = (RadioButton) findViewById(R.id.buttonSortByAtlikejas);
+                   radioButton.setActivated(false);
+               }
+            }
+        });
+
     }
     public void addDainaPage (View view){
         Intent intent = new Intent(this, AddDaina.class);
@@ -38,6 +71,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void listDaina (View view){
         Intent intent = new Intent(this, ListDaina.class);
+        startActivity(intent);
+    }
+
+    public void settings (View view){
+        Intent intent = new Intent(this, Settings.class);
         startActivity(intent);
     }
 
@@ -70,6 +108,9 @@ public class MainActivity extends AppCompatActivity {
 
         } else if (savedVersionCode == DOESNT_EXIST) {
             fillDatabase();
+            SettingsDB settingsDB = new SettingsDB();
+            settingsDB.zodziaiDydis = 20;
+            settingsDB.save();
 
             // TODO This is a new install (or the user cleared the shared preferences)
 

@@ -29,7 +29,9 @@
         android:layout_below="@+id/viewDainaPavadinimas"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_alignEnd="@+id/viewDainaPavadinimas" />
+        android:layout_alignEnd="@+id/viewDainaPavadinimas"
+        android:textSize="20dp"
+        android:textColor="@color/abc_input_method_navigation_guard" />
     </ScrollView>
 
 </RelativeLayout>

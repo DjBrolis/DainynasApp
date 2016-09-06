@@ -12,6 +12,7 @@ import android.widget.TextView;
 import com.example.martynas.dainynas.Daina;
 import com.example.martynas.dainynas.Posmelis;
 import com.example.martynas.dainynas.R;
+import com.example.martynas.dainynas.SettingsDB;
 
 import java.util.List;
 
@@ -36,6 +37,9 @@ public class ViewDaina extends AppCompatActivity {
 
         Intent intent = getIntent();
         Daina daina = Daina.load(Daina.class, intent.getLongExtra("Daina", 1));
+        SettingsDB settingsDB = SettingsDB.load(SettingsDB.class, 1);
+        TextView textView = (TextView) findViewById(R.id.viewDainaZodziai);
+        textView.setTextSize(settingsDB.zodziaiDydis);
 
         //Pakeicia toolbar uzrasa i dainos pavadinima
         Toolbar viewDainaToolbar = (Toolbar) findViewById(R.id.toolbar);
