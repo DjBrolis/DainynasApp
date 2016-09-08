@@ -22,18 +22,6 @@ public class ViewDaina extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_view_daina);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         Intent intent = getIntent();
         Daina daina = Daina.load(Daina.class, intent.getLongExtra("Daina", 1));
@@ -45,8 +33,7 @@ public class ViewDaina extends AppCompatActivity {
         Toolbar viewDainaToolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(viewDainaToolbar);
         getSupportActionBar().setTitle(daina.pavadinimas);
-
-        TextView textViewZodziai = (TextView) findViewById(R.id.viewDainaZodziai);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         List<Posmelis> posmeliai = daina.posmeliai();
         String zodziai = new String();
