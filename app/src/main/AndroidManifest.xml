@@ -29,15 +29,6 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Pages.AddDaina"
-            android:label="@string/title_activity_add_daina"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.martynas.dainynas.MainActivity" />
-        </activity>
-        <activity
             android:name=".Pages.ListDaina"
             android:label="@string/title_activity_list_daina"
             android:parentActivityName=".MainActivity"
@@ -55,15 +46,29 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.martynas.dainynas.Pages.ListDaina" />
         </activity>
-        <activity android:name=".Pages.Settings"></activity>
-        <activity android:name=".Pages.SearchList"
-                  android:launchMode="singleTop">
+        <activity android:name=".Pages.Settings">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.martynas.dainynas.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Pages.SearchList"
+            android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="android.intent.action.SEARCH" />
             </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.martynas.dainynas.MainActivity" />
             <meta-data
                 android:name="android.app.searchable"
                 android:resource="@xml/searchable" />
+        </activity>
+        <activity android:name=".Pages.AddDaina">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.martynas.dainynas.MainActivity" />
         </activity>
     </application>
 
