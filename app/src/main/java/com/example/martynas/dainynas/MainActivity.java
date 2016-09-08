@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 import com.activeandroid.ActiveAndroid;
 import com.example.martynas.dainynas.Pages.AddDaina;
-import com.example.martynas.dainynas.Pages.ListDaina;
+import com.example.martynas.dainynas.Pages.SearchList;
 import com.example.martynas.dainynas.Pages.Settings;
 
 import java.io.ByteArrayOutputStream;
@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private String output;
     private RadioGroup rikiuotiDainas;
     private RadioButton radioButton;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,15 +63,15 @@ public class MainActivity extends AppCompatActivity {
                }
             }
         });
-
     }
+
     public void addDainaPage (View view){
         Intent intent = new Intent(this, AddDaina.class);
         startActivity(intent);
     }
 
     public void listDaina (View view){
-        Intent intent = new Intent(this, ListDaina.class);
+        Intent intent = new Intent(this, SearchList.class);
         startActivity(intent);
     }
 
