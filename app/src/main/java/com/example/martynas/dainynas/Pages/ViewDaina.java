@@ -25,9 +25,11 @@ public class ViewDaina extends AppCompatActivity {
 
         Intent intent = getIntent();
         Daina daina = Daina.load(Daina.class, intent.getLongExtra("Daina", 1));
+
         SettingsDB settingsDB = SettingsDB.load(SettingsDB.class, 1);
         TextView textView = (TextView) findViewById(R.id.viewDainaZodziai);
         textView.setTextSize(settingsDB.zodziaiDydis);
+        TextView textView1 = (TextView) findViewById(R.id.viewVertimas);
 
         //Pakeicia toolbar uzrasa i dainos pavadinima
         Toolbar viewDainaToolbar = (Toolbar) findViewById(R.id.toolbar);
@@ -41,7 +43,13 @@ public class ViewDaina extends AppCompatActivity {
              ) {
             zodziai += posmelis.zodziai + "\n";
         }
-        textViewZodziai.setText(zodziai);
+        textView.setText(zodziai);
+        if (!daina.vertimas.isEmpty()) {
+            textView1.setText(daina.vertimas);
+        }
+        else {
+            textView1.setVisibility(View.GONE);
+        }
     }
 
 }

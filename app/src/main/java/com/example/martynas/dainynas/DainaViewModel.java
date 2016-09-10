@@ -7,5 +7,6 @@ public class DainaViewModel {
     public int dainaId;
     public String pavadinimas;
     public String zodziai;
+    public String vertimas;
 
 }

@@ -16,6 +16,8 @@ public class Daina extends Model{
     public String pavadinimas;
     @Column(name = "Zodziai")
     public String zodziai;
+    @Column (name = "Vertimas")
+    public String vertimas;
 
     public List<Posmelis> posmeliai () {
         return getMany(Posmelis.class,"Daina");
@@ -29,6 +31,7 @@ public class Daina extends Model{
         super();
         Daina dainaTemp = new Daina();
         dainaTemp.pavadinimas = dainaViewModel.pavadinimas;
+        dainaTemp.vertimas = dainaViewModel.vertimas;
         String[] zodziaiTemp = dainaViewModel.zodziai.trim().split("\n");
         Posmelis posmelisTemp = new Posmelis();
         posmelisTemp.daina = dainaTemp;
@@ -74,6 +77,12 @@ public class Daina extends Model{
                 String[] pavadinimasIrZodziai = daina.trim().split("\t");
                 Daina dainaTemp = new Daina();
                 dainaTemp.pavadinimas = pavadinimasIrZodziai[0].trim();
+                if (pavadinimasIrZodziai.length > 4) {
+                    dainaTemp.vertimas = pavadinimasIrZodziai[4].trim();
+                }
+                else {
+                    dainaTemp.vertimas = "";
+                }
                 String[] zodziaiTemp = pavadinimasIrZodziai[3].trim().split("\r\n");
                 Posmelis posmelisTemp = new Posmelis();
                 posmelisTemp.daina = dainaTemp;

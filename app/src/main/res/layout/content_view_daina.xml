@@ -18,6 +18,10 @@
         android:fillViewport="true"
         android:layout_alignParentStart="false"
         android:layout_alignParentTop="false">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
 
     <TextView
         android:layout_width="wrap_content"
@@ -25,12 +29,21 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Medium Text"
         android:id="@+id/viewDainaZodziai"
-        android:layout_below="@+id/viewDainaPavadinimas"
+
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
         android:layout_alignEnd="@+id/viewDainaPavadinimas"
         android:textSize="20dp"
         android:textColor="@color/abc_input_method_navigation_guard" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/viewVertimas"
+        />
+        </LinearLayout>
     </ScrollView>
 
 </RelativeLayout>
