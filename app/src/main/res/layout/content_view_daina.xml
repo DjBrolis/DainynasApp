@@ -10,7 +10,7 @@
     tools:context="com.example.martynas.dainynas.Pages.ViewDaina"
     tools:showIn="@layout/activity_view_daina">
 
-    <ScrollView
+    <android.support.v4.widget.NestedScrollView
         android:id="@+id/SCROLLER_ID"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -44,6 +44,6 @@
         android:id="@+id/viewVertimas"
         />
         </LinearLayout>
-    </ScrollView>
+    </android.support.v4.widget.NestedScrollView>
 
 </RelativeLayout>
