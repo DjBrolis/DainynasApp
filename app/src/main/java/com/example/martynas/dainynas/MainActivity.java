@@ -3,6 +3,7 @@ package com.example.martynas.dainynas;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Resources;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -107,7 +108,9 @@ public class MainActivity extends AppCompatActivity {
             return;
 
         } else if (savedVersionCode == DOESNT_EXIST) {
-            fillDatabase();
+            boolean newInstall = true;
+            int [] newVersions = new int [1];
+            fillDatabase(newVersions, newInstall);
             SettingsDB settingsDB = new SettingsDB();
             settingsDB.zodziaiDydis = 20;
             settingsDB.save();
@@ -115,6 +118,14 @@ public class MainActivity extends AppCompatActivity {
             // TODO This is a new install (or the user cleared the shared preferences)
 
         } else if (currentVersionCode > savedVersionCode) {
+            boolean newInstall = false;
+            int [] newVersions = new int[currentVersionCode-savedVersionCode];
+            int j = 0;
+            for (int i = savedVersionCode + 1; i <= currentVersionCode; i++){
+                newVersions[j] = i;
+                j++;
+            }
+            fillDatabase(newVersions, newInstall);
 
             // TODO This is an upgrade
 
@@ -125,7 +136,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void fillDatabase (){
+    private void fillDatabase (int [] newVersions, boolean newInstall){
         resources = getResources();
         try
         {
@@ -155,7 +166,24 @@ public class MainActivity extends AppCompatActivity {
             toast.show();
         }*/
 
-        Daina fillDainos = new Daina(output);
+        String[] outputTest = output.trim().split("\t\t\t");
+        String outputConcat = "";
+        if (newInstall){
+           for (int i = 1; i < outputTest.length; i = i+2) {
+               Daina fillDainos = new Daina(outputTest[i]);
+           }
+        }
+        else {
+            int j = 0;
+            for (int i = 1; i < outputTest.length; i = i + 2) {
+                if (newVersions[j] == Integer.parseInt(outputTest[i-1].trim())) {
+                    Daina fillDainos = new Daina(outputTest[i]);
+                    j++;
+                }
+            }
+        }
+
+
     }
 
     public String LoadFile(String fileName, boolean loadFromRawFolder) throws IOException{

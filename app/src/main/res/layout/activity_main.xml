@@ -9,6 +9,19 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.martynas.dainynas.MainActivity">
 
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:clickable="true"
+
+        android:src="@android:drawable/ic_input_add"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/fabAddDaina" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -29,7 +42,8 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:clickable="true"
-        android:onClick="addDainaPage"/>
+        android:onClick="addDainaPage"
+        android:visibility="invisible"/>
 
     <Button
         style="?android:attr/buttonStyleSmall"

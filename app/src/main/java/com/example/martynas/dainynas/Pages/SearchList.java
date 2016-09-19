@@ -86,29 +86,29 @@ public class SearchList extends AppCompatActivity {
                     if (s.length() < 4){
                         Log.d(TAG, "onQueryTextSubmit ");
                         cursor=studentRepo.getStudentListByKeyword(s);
-                        if (cursor==null){
+                        /*if (cursor==null){
                             Toast.makeText(SearchList.this,"No records found!",Toast.LENGTH_LONG).show();
                         }else{
                             Toast.makeText(SearchList.this, cursor.getCount() + " records found!",Toast.LENGTH_LONG).show();
-                        }
+                        }*/
                         customAdapter.swapCursor(cursor);}
                     else {
                         Log.d(TAG, "onQueryTextSubmit ");
                         cursor=studentRepo.getStudentListByKeyword(s);
-                        if (cursor==null){
+                        /*if (cursor==null){
                             Toast.makeText(SearchList.this,"No records found!",Toast.LENGTH_LONG).show();
                         }else{
                             Toast.makeText(SearchList.this, cursor.getCount() + " records found!",Toast.LENGTH_LONG).show();
-                        }
+                        }*/
                         customAdapter.swapCursor(cursor);
 
                         Log.d(TAG, "onQueryTextSubmit ");
                         cursorP=posmelisRepo.getPosmeliaiListByKeyword(s);
                         if (cursorP==null){
                             Toast.makeText(SearchList.this,"No records found!",Toast.LENGTH_LONG).show();
-                        }else{
+                        }/*else{
                             Toast.makeText(SearchList.this, cursorP.getCount() + " records found!",Toast.LENGTH_LONG).show();
-                        }
+                        }*/
                         customAdapterP.swapCursor(cursorP);
                     }
 

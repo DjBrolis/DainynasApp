@@ -19,7 +19,7 @@ public class StudentRepo {
 
         String tableName = Cache.getTableInfo(Daina.class).getTableName();
        // String selectQuery = new Select().from(Daina.class).toSql();
-        String selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class).toSql();
+        String selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class).orderBy("Pavadinimas").toSql();
 
         Cursor cursor = Cache.openDatabase().rawQuery(selectQuery, null);
         //Open connection to read only
@@ -43,10 +43,10 @@ public class StudentRepo {
         if (search.length() > 0){
             searchAlt = search.substring(0,1).toUpperCase() + search.substring(1);
             selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
-                    .where("Pavadinimas  LIKE  '%"+search+"%'").or("Pavadinimas  LIKE  '%"+searchAlt+"%'").toSql();}
+                    .where("Pavadinimas  LIKE  '%"+search+"%'").or("Pavadinimas  LIKE  '%"+searchAlt+"%'").orderBy("Pavadinimas").toSql();}
         else{
             selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
-                    .where("Pavadinimas  LIKE  '%"+search+"%'").toSql();}
+                    .where("Pavadinimas  LIKE  '%"+search+"%'").orderBy("Pavadinimas").toSql();}
 
 
         Cursor cursor = Cache.openDatabase().rawQuery(selectQuery, null);
