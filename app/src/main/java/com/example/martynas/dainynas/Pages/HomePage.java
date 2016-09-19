@@ -76,6 +76,13 @@ public class HomePage extends AppCompatActivity {
 
     public void listDaina (View view){
         Intent intent = new Intent(this, SearchList.class);
+        intent.putExtra("FocusSearch", false);
+        startActivity(intent);
+    }
+
+    public void SearchList (View view){
+        Intent intent = new Intent(this, SearchList.class);
+        intent.putExtra("FocusSearch", true);
         startActivity(intent);
     }
 

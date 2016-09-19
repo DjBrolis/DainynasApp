@@ -6,10 +6,13 @@ import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Build;
+import android.support.v4.view.MenuItemCompat;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.SearchView;
 import android.util.Log;
+import android.view.FocusFinder;
 import android.view.Menu;
 import android.view.View;
 import android.widget.AdapterView;
@@ -38,13 +41,14 @@ public class SearchList extends AppCompatActivity {
     ListView listViewP;
     Cursor cursorP;
     PosmelisRepo posmelisRepo;
+    Intent intent;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_search_list);
         ActiveAndroid.initialize(this);
-        Intent intent = getIntent();
+        intent = getIntent();
 
         studentRepo = new StudentRepo();
         cursor=studentRepo.getStudentList();
@@ -73,12 +77,14 @@ public class SearchList extends AppCompatActivity {
 
         getMenuInflater().inflate(R.menu.options_menu, menu);
 
-
         if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
             SearchManager manager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
             SearchView search = (SearchView) menu.findItem(R.id.search).getActionView();
             search.setSearchableInfo(manager.getSearchableInfo(getComponentName()));
 
+            if (intent.getExtras().getBoolean("FocusSearch", true)) {
+                MenuItemCompat.expandActionView(menu.findItem(R.id.search));
+            }
             search.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
 
                 @Override
