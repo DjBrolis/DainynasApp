@@ -1,68 +1,72 @@
-package com.example.martynas.dainynas;
+package com.example.martynas.dainynas.Pages;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Resources;
-import android.support.design.widget.FloatingActionButton;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
+import android.support.design.widget.Snackbar;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
 import com.activeandroid.ActiveAndroid;
-import com.example.martynas.dainynas.Pages.AddDaina;
-import com.example.martynas.dainynas.Pages.SearchList;
-import com.example.martynas.dainynas.Pages.Settings;
+import com.example.martynas.dainynas.Daina;
+import com.example.martynas.dainynas.R;
+import com.example.martynas.dainynas.SettingsDB;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
-public class MainActivity extends AppCompatActivity {
+public class HomePage extends AppCompatActivity {
+
     private Resources resources;
     private String output;
-    private RadioGroup rikiuotiDainas;
-    private RadioButton radioButton;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_home_page);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                addDainaPage(view);
+            }
+        });
+
         ActiveAndroid.initialize(this);
 
         checkFirstRun();
+    }
 
-       /* rikiuotiDainas = (RadioGroup) findViewById(R.id.rikiuotiDainas);
-        radioButton = (RadioButton) findViewById(R.id.buttonSortByPavadinimas);
-        radioButton.setActivated(true);
+    @Override
+    public boolean onCreateOptionsMenu (Menu menu){
 
-        rikiuotiDainas.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener(){
-            @Override
-            public void onCheckedChanged (RadioGroup group, int checkedId) {
-               if (checkedId == 0){
-                   radioButton = (RadioButton) findViewById(R.id.buttonSortByAtlikejas);
-                   radioButton.setActivated(false);
-                   radioButton = (RadioButton) findViewById(R.id.buttonSortByPuslapis);
-                   radioButton.setActivated(false);
-               }
-                else if (checkedId == 1) {
-                   radioButton = (RadioButton) findViewById(R.id.buttonSortByPavadinimas);
-                   radioButton.setActivated(false);
-                   radioButton = (RadioButton) findViewById(R.id.buttonSortByPuslapis);
-                   radioButton.setActivated(false);
-               }
-                else {
-                   radioButton = (RadioButton) findViewById(R.id.buttonSortByPavadinimas);
-                   radioButton.setActivated(false);
-                   radioButton = (RadioButton) findViewById(R.id.buttonSortByAtlikejas);
-                   radioButton.setActivated(false);
-               }
-            }
-        });*/
+        getMenuInflater().inflate(R.menu.home_menu, menu);
+
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()){
+            case R.id.nustatymai:
+                Intent intent = new Intent(this, Settings.class);
+                startActivity(intent);
+                break;
+        }
+        return super.onOptionsItemSelected(item);
     }
 
     public void addDainaPage (View view){
@@ -75,10 +79,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void settings (View view){
+   /* public void settings (View view){
         Intent intent = new Intent(this, Settings.class);
         startActivity(intent);
-    }
+    }*/
 
     private void checkFirstRun() {
 
@@ -169,9 +173,9 @@ public class MainActivity extends AppCompatActivity {
         String[] outputTest = output.trim().split("\t\t\t");
         String outputConcat = "";
         if (newInstall){
-           for (int i = 1; i < outputTest.length; i = i+2) {
-               Daina fillDainos = new Daina(outputTest[i]);
-           }
+            for (int i = 1; i < outputTest.length; i = i+2) {
+                Daina fillDainos = new Daina(outputTest[i]);
+            }
         }
         else {
             int j = 0;

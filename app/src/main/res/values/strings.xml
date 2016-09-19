@@ -10,4 +10,6 @@
     <string name="title_activity_view_daina">ViewDaina</string>
     <string name="search_title">Paieška</string>
     <string name="search_hint">Paiška</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="nustatymai">Nustatymai</string>
 </resources>
