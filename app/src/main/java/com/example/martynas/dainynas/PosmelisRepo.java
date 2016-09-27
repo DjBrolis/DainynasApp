@@ -9,11 +9,17 @@ import com.activeandroid.query.Select;
  * Created by Martynas on 2016-09-08.
  */
 public class PosmelisRepo {
+    private String selectQuery;
     public PosmelisRepo () {super();}
 
-    public Cursor getPosmeliaiList(){
+    public Cursor getPosmeliaiList(boolean favorite){
         String tableName = Cache.getTableInfo(Posmelis.class).getTableName();
-        String selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Posmelis.class).toSql();
+        if (!favorite) {
+            selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Posmelis.class).toSql();
+        }
+        else{
+            selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Posmelis.class).where("Favorite=1").toSql();
+        }
         Cursor cursor = Cache.openDatabase().rawQuery(selectQuery, null);
 
         if (cursor == null) {
@@ -25,10 +31,16 @@ public class PosmelisRepo {
         return cursor;
     }
 
-    public Cursor getPosmeliaiListByKeyword(String search){
+    public Cursor getPosmeliaiListByKeyword(String search, boolean favorite){
         String tableName = Cache.getTableInfo(Posmelis.class).getTableName();
-        String selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id")
-                .from(Posmelis.class).where("Zodziai  LIKE  '%"+search+"%'").toSql();
+        if (!favorite) {
+            selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id")
+                    .from(Posmelis.class).where("Zodziai  LIKE  '%" + search + "%'").toSql();
+        }
+        else {
+            selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id")
+                    .from(Posmelis.class).where("Zodziai  LIKE  '%" + search + "%'").toSql();
+        }
         //tableName = tableName.substring(0,1).toLowerCase() + tableName.substring(1);
         Cursor cursor = Cache.openDatabase().rawQuery(selectQuery, null);
 

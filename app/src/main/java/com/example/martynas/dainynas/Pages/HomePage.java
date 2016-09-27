@@ -86,10 +86,12 @@ public class HomePage extends AppCompatActivity {
         startActivity(intent);
     }
 
-   /* public void settings (View view){
-        Intent intent = new Intent(this, Settings.class);
-        startActivity(intent);
-    }*/
+   public void favorites (View view){
+       Intent intent = new Intent(this, Favorites.class);
+
+       startActivity(intent);
+       //Toast.makeText(this, "Ši programos dalis dar kuriama", Toast.LENGTH_LONG).show();
+   }
 
     private void checkFirstRun() {
 

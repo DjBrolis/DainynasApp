@@ -6,14 +6,17 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.CheckBox;
 import android.widget.CursorAdapter;
 import android.widget.TextView;
+
+import com.example.martynas.dainynas.Pages.SearchList;
 
 /**
  * Created by Martynas on 2016-09-08.
  */
 public class CustomAdapterP extends CursorAdapter {
-    TextView txtId,txtName,txtEmail;
+
     private LayoutInflater mInflater;
 
     public CustomAdapterP(Context context, Cursor c, int flags) {
@@ -28,7 +31,11 @@ public class CustomAdapterP extends CursorAdapter {
         holder.txtId = (TextView) view.findViewById(R.id.txtId);
         holder.txtName = (TextView) view.findViewById(R.id.txtName);
         holder.txtEmail = (TextView) view.findViewById(R.id.txtEmail);
+        holder.favoriteCheckBox = (CheckBox) view.findViewById(R.id.favoriteCheckBox);
         view.setTag(holder);
+
+        holder.favoriteCheckBox.setOnClickListener((SearchList) context);
+        //holder.checkBox.setOnCheckedChangeListener((SearchList) context);
         return view;
     }
 
@@ -54,6 +61,7 @@ public class CustomAdapterP extends CursorAdapter {
         TextView txtId;
         TextView txtName;
         TextView txtEmail;
+        CheckBox favoriteCheckBox;
     }
 
 

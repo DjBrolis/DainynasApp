@@ -18,6 +18,8 @@ public class Daina extends Model{
     public String zodziai;
     @Column (name = "Vertimas")
     public String vertimas;
+    @Column(name = "Favorite")
+    public int favorite;
 
     public List<Posmelis> posmeliai () {
         return getMany(Posmelis.class,"Daina");
@@ -76,6 +78,7 @@ public class Daina extends Model{
                     ) {
                 String[] pavadinimasIrZodziai = daina.trim().split("\t");
                 Daina dainaTemp = new Daina();
+                dainaTemp.favorite = 0;  // pakeisti
                 dainaTemp.pavadinimas = pavadinimasIrZodziai[0].trim();
                 if (pavadinimasIrZodziai.length > 4) {
                     dainaTemp.vertimas = pavadinimasIrZodziai[4].trim();

@@ -6,41 +6,36 @@ import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Build;
-import android.support.v4.view.MenuItemCompat;
-import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.SearchView;
 import android.util.Log;
-import android.view.FocusFinder;
 import android.view.Menu;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.CheckBox;
-import android.widget.CompoundButton;
 import android.widget.ListView;
 import android.widget.Toast;
 
 import com.activeandroid.ActiveAndroid;
-import com.example.martynas.dainynas.CustomAdapterP;
-import com.example.martynas.dainynas.CustomAdapter;
+import com.example.martynas.dainynas.CustomAdapterF;
+import com.example.martynas.dainynas.CustomAdapterPF;
 import com.example.martynas.dainynas.Daina;
 import com.example.martynas.dainynas.Posmelis;
 import com.example.martynas.dainynas.PosmelisRepo;
 import com.example.martynas.dainynas.R;
 import com.example.martynas.dainynas.StudentRepo;
 
-public class SearchList extends AppCompatActivity implements View.OnClickListener{
-
-    private CustomAdapter customAdapter;
+public class Favorites extends AppCompatActivity implements View.OnClickListener {
+    private CustomAdapterF customAdapterF;
     ListView listView;
     Cursor cursor;
     StudentRepo studentRepo ;
-    private final static String TAG= SearchList.class.getName().toString();
+    private final static String TAG= Favorites.class.getName().toString();
     Long dainaId;
     Long posmelisId;
 
-    private CustomAdapterP customAdapterP;
+    private CustomAdapterPF customAdapterPF;
     ListView listViewP;
     Cursor cursorP;
     PosmelisRepo posmelisRepo;
@@ -50,29 +45,24 @@ public class SearchList extends AppCompatActivity implements View.OnClickListene
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_search_list);
+        setContentView(R.layout.activity_favorites);
         ActiveAndroid.initialize(this);
         intent = getIntent();
 
         studentRepo = new StudentRepo();
-        cursor=studentRepo.getStudentList(false);
-        customAdapter = new CustomAdapter(SearchList.this,  cursor, 0);
-        listView = (ListView) findViewById(R.id.lstStudent);
-        listView.setAdapter(customAdapter);
+        cursor=studentRepo.getStudentList(true);
+        customAdapterF = new CustomAdapterF(Favorites.this,  cursor, 0);
+        listView = (ListView) findViewById(R.id.lstFavorite);
+        listView.setAdapter(customAdapterF);
 
         posmelisRepo = new PosmelisRepo();
-       // cursorP = posmelisRepo.getPosmeliaiList();
-        customAdapterP = new CustomAdapterP(SearchList.this, cursorP, 0);
-        listViewP = (ListView) findViewById(R.id.lstPosmeliai);
-        listViewP.setAdapter(customAdapterP);
+        //cursorP = posmelisRepo.getPosmeliaiList(true);
+        customAdapterPF = new CustomAdapterPF(Favorites.this, cursorP, 0);
+        listViewP = (ListView) findViewById(R.id.lstPosmeliaiF);
+        listViewP.setAdapter(customAdapterPF);
 
         registerDainosPasirinkimas();
         registerDainosPasirinkimasP();
-    }
-
-    @Override
-    public void onResume() {
-        super.onResume();
     }
 
     @Override
@@ -86,40 +76,37 @@ public class SearchList extends AppCompatActivity implements View.OnClickListene
             SearchView search = (SearchView) menu.findItem(R.id.search).getActionView();
             search.setSearchableInfo(manager.getSearchableInfo(getComponentName()));
 
-            if (intent.getExtras().getBoolean("FocusSearch", true)) {
-                MenuItemCompat.expandActionView(menu.findItem(R.id.search));
-            }
             search.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
 
                 @Override
                 public boolean onQueryTextSubmit(String s) {
                     if (s.length() < 4){
                         Log.d(TAG, "onQueryTextSubmit ");
-                        cursor=studentRepo.getStudentListByKeyword(s,false);
+                        cursor=studentRepo.getStudentListByKeyword(s,true);
                         /*if (cursor==null){
                             Toast.makeText(SearchList.this,"No records found!",Toast.LENGTH_LONG).show();
                         }else{
                             Toast.makeText(SearchList.this, cursor.getCount() + " records found!",Toast.LENGTH_LONG).show();
                         }*/
-                        customAdapter.swapCursor(cursor);}
+                        customAdapterF.swapCursor(cursor);}
                     else {
                         Log.d(TAG, "onQueryTextSubmit ");
-                        cursor=studentRepo.getStudentListByKeyword(s,false);
+                        cursor=studentRepo.getStudentListByKeyword(s,true);
                         /*if (cursor==null){
                             Toast.makeText(SearchList.this,"No records found!",Toast.LENGTH_LONG).show();
                         }else{
                             Toast.makeText(SearchList.this, cursor.getCount() + " records found!",Toast.LENGTH_LONG).show();
                         }*/
-                        customAdapter.swapCursor(cursor);
+                        customAdapterF.swapCursor(cursor);
 
                         Log.d(TAG, "onQueryTextSubmit ");
-                        cursorP=posmelisRepo.getPosmeliaiListByKeyword(s,false);
+                        cursorP=posmelisRepo.getPosmeliaiListByKeyword(s,true);
                         if (cursorP==null){
-                            Toast.makeText(SearchList.this,"No records found!",Toast.LENGTH_LONG).show();
+                            Toast.makeText(Favorites.this,"No records found!",Toast.LENGTH_LONG).show();
                         }/*else{
                             Toast.makeText(SearchList.this, cursorP.getCount() + " records found!",Toast.LENGTH_LONG).show();
                         }*/
-                        customAdapterP.swapCursor(cursorP);
+                        customAdapterPF.swapCursor(cursorP);
                     }
 
                     return false;
@@ -130,26 +117,26 @@ public class SearchList extends AppCompatActivity implements View.OnClickListene
                     if (s.length() < 4){
 
                         Log.d(TAG, "onQueryTextChange ");
-                        cursor=studentRepo.getStudentListByKeyword(s,false);
+                        cursor=studentRepo.getStudentListByKeyword(s,true);
                         if (cursor!=null){
-                            customAdapter.swapCursor(cursor);
+                            customAdapterF.swapCursor(cursor);
                         }
-                        else {customAdapter.swapCursor(null);}
+                        else {customAdapterF.swapCursor(null);}
                     }
                     else {
                         Log.d(TAG, "onQueryTextChange ");
-                        cursor=studentRepo.getStudentListByKeyword(s,false);
+                        cursor=studentRepo.getStudentListByKeyword(s,true);
                         if (cursor!=null){
-                            customAdapter.swapCursor(cursor);
+                            customAdapterF.swapCursor(cursor);
                         }
-                        else {customAdapter.swapCursor(null);}
+                        else {customAdapterF.swapCursor(null);}
 
                         Log.d(TAG, "onQueryTextChange ");
-                        cursorP=posmelisRepo.getPosmeliaiListByKeyword(s,false);
+                        cursorP=posmelisRepo.getPosmeliaiListByKeyword(s,true);
                         if (cursorP!=null){
-                            customAdapterP.swapCursor(cursorP);
+                            customAdapterPF.swapCursor(cursorP);
                         }
-                        else {customAdapterP.swapCursor(null);}
+                        else {customAdapterPF.swapCursor(null);}
                     }
                     return false;
                 }
@@ -163,15 +150,15 @@ public class SearchList extends AppCompatActivity implements View.OnClickListene
     }
 
     private void registerDainosPasirinkimas(){
-        final ListView list = (ListView) findViewById(R.id.lstStudent);
+        final ListView list = (ListView) findViewById(R.id.lstFavorite);
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 //TextView textView = (TextView) view;
 
-                Intent intent = new Intent(SearchList.this, ViewDaina.class);
+                Intent intent = new Intent(Favorites.this, ViewDaina.class);
                 cursor.moveToPosition(i);
-                dainaId = cursor.getLong(cursor.getColumnIndex("_id"));
+                dainaId = cursor.getLong(4);
                 /*Cursor cursor = (Cursor) customAdapter.getItem(i);
                 int dainaId = cursor.getColumnIndex("Id");*/
 
@@ -182,15 +169,15 @@ public class SearchList extends AppCompatActivity implements View.OnClickListene
     }
 
     private void registerDainosPasirinkimasP(){
-        final ListView list = (ListView) findViewById(R.id.lstPosmeliai);
+        final ListView list = (ListView) findViewById(R.id.lstPosmeliaiF);
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 //TextView textView = (TextView) view;
 
-                Intent intent = new Intent(SearchList.this, ViewDaina.class);
+                Intent intent = new Intent(Favorites.this, ViewDaina.class);
                 cursorP.moveToPosition(i);
-                posmelisId = cursorP.getLong(cursorP.getColumnIndex("_id"));
+                posmelisId = cursorP.getLong(5);
                 dainaId = Posmelis.load(Posmelis.class, posmelisId).daina.getId();
                 /*Cursor cursor = (Cursor) customAdapter.getItem(i);
                 int dainaId = cursor.getColumnIndex("Id");*/

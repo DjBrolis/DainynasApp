@@ -33,8 +33,7 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
         android:layout_alignEnd="@+id/viewDainaPavadinimas"
-        android:textSize="20dp"
-        android:textColor="@color/abc_input_method_navigation_guard" />
+        android:textSize="20dp" />
 
     <TextView
         android:layout_width="match_parent"

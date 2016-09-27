@@ -10,17 +10,23 @@ import com.activeandroid.Cache;
 import com.activeandroid.query.Select;
 
 public class StudentRepo {
+    private String selectQuery;
 
     public StudentRepo() {
         super();
     }
 
-    public Cursor getStudentList() {
+    public Cursor getStudentList(boolean favorite) {
 
         String tableName = Cache.getTableInfo(Daina.class).getTableName();
        // String selectQuery = new Select().from(Daina.class).toSql();
-        String selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class).orderBy("Pavadinimas").toSql();
+        if (!favorite){
+        selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class).orderBy("Pavadinimas").toSql();
+        }
+        else {
+            selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class).where("Favorite=1").orderBy("Pavadinimas").toSql();
 
+        }
         Cursor cursor = Cache.openDatabase().rawQuery(selectQuery, null);
         //Open connection to read only
 
@@ -35,18 +41,29 @@ public class StudentRepo {
         return cursor;
     }
 
-    public Cursor getStudentListByKeyword(String search) {
+    public Cursor getStudentListByKeyword(String search, boolean favorite) {
         //Open connection to read only
         String searchAlt;
-        String selectQuery;
-        String tableName = Cache.getTableInfo(Daina.class).getTableName();
-        if (search.length() > 0){
-            searchAlt = search.substring(0,1).toUpperCase() + search.substring(1);
-            selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
-                    .where("Pavadinimas  LIKE  '%"+search+"%'").or("Pavadinimas  LIKE  '%"+searchAlt+"%'").orderBy("Pavadinimas").toSql();}
-        else{
-            selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
-                    .where("Pavadinimas  LIKE  '%"+search+"%'").orderBy("Pavadinimas").toSql();}
+                String tableName = Cache.getTableInfo(Daina.class).getTableName();
+        if (!favorite){
+
+            if (search.length() > 0){
+                searchAlt = search.substring(0,1).toUpperCase() + search.substring(1);
+                selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
+                        .where("Pavadinimas  LIKE  '%"+search+"%'").or("Pavadinimas  LIKE  '%"+searchAlt+"%'").orderBy("Pavadinimas").toSql();}
+            else{
+                selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
+                        .where("Pavadinimas  LIKE  '%"+search+"%'").orderBy("Pavadinimas").toSql();}
+        }
+        else {
+            if (search.length() > 0){
+                searchAlt = search.substring(0,1).toUpperCase() + search.substring(1);
+                selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
+                        .where("Pavadinimas  LIKE  '%"+search+"%'").or("Pavadinimas  LIKE  '%"+searchAlt+"%'").and("Favorite=1").orderBy("Pavadinimas").toSql();}
+            else{
+                selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
+                        .where("Pavadinimas  LIKE  '%"+search+"%'").and("Favorite=1").orderBy("Pavadinimas").toSql();}
+        }
 
 
         Cursor cursor = Cache.openDatabase().rawQuery(selectQuery, null);

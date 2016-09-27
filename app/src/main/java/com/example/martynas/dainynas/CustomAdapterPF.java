@@ -1,36 +1,39 @@
 package com.example.martynas.dainynas;
+
 import android.content.Context;
 import android.database.Cursor;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CheckBox;
-import android.widget.CursorAdapter;
 import android.widget.TextView;
+
+import com.example.martynas.dainynas.Pages.Favorites;
 import com.example.martynas.dainynas.Pages.SearchList;
 
-public class CustomAdapter extends CursorAdapter {
+/**
+ * Created by Martynas on 2016-09-27.
+ */
+public class CustomAdapterPF extends CustomAdapter {
     private LayoutInflater mInflater;
 
-    public CustomAdapter(Context context, Cursor c, int flags) {
+    public CustomAdapterPF(Context context, Cursor c, int flags) {
         super(context, c, flags);
         mInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
     }
 
-
     @Override
-    public View newView(final Context context, Cursor cursor, ViewGroup parent) {
-        View view    =    mInflater.inflate(R.layout.item, parent, false);
-        final ViewHolder holder  =   new ViewHolder();
-        holder.txtId    =   (TextView)  view.findViewById(R.id.txtId);
-        holder.txtName    =   (TextView)  view.findViewById(R.id.txtName);
-        holder.txtEmail   =   (TextView)  view.findViewById(R.id.txtEmail);
-        holder.favoriteCheckBox = (CheckBox) view.findViewById(R.id.favoriteCheckBox);
+    public View newView(Context context, Cursor cursor, ViewGroup parent) {
+        View view = mInflater.inflate(R.layout.item_favorite, parent, false);
+        ViewHolder holder  =   new ViewHolder();
+        holder.txtId = (TextView) view.findViewById(R.id.txtIdFavorite);
+        holder.txtName = (TextView) view.findViewById(R.id.txtPavadinimas);
+        holder.txtEmail = (TextView) view.findViewById(R.id.txt1);
+        holder.favoriteCheckBox = (CheckBox) view.findViewById(R.id.favoriteCheckBoxF);
         view.setTag(holder);
 
-        holder.favoriteCheckBox.setOnClickListener((SearchList) context);
-
-       // holder.favoriteCheckBox.setOnCheckedChangeListener((SearchList) context);
+        holder.favoriteCheckBox.setOnClickListener((Favorites) context);
+        //holder.checkBox.setOnCheckedChangeListener((SearchList) context);
         return view;
     }
 
@@ -44,19 +47,12 @@ public class CustomAdapter extends CursorAdapter {
         }*/
 
         ViewHolder holder  =   (ViewHolder)    view.getTag();
-       /* holder.txtId.setText("ID");
-        holder.txtName.setText("Pavadinimas");
-        holder.txtEmail.setText("Zodziai");*/
 
         holder.txtId.setText(cursor.getString(cursor.getColumnIndex("Id")));
-        holder.txtName.setText(cursor.getString(cursor.getColumnIndex("Pavadinimas")));
+        holder.txtName.setText(Daina.load(Daina.class, cursor.getLong(cursor.getColumnIndex("Daina"))).pavadinimas);
+
         holder.txtEmail.setText(cursor.getString(cursor.getColumnIndex("Zodziai")));
-        if (cursor.getInt(cursor.getColumnIndex("Favorite")) == 1){
-            holder.favoriteCheckBox.setChecked(true);
-        }
-        else {
-            holder.favoriteCheckBox.setChecked(false);
-        }
+
     }
 
     static class ViewHolder {
