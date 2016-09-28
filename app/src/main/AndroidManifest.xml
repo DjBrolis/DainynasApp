@@ -20,18 +20,6 @@
             android:value="com.example.martynas.dainynas.Daina, com.example.martynas.dainynas.Posmelis, com.example.martynas.dainynas.SettingsDB" />
 
         <activity
-            android:name=".MainActivity"
-            android:launchMode="singleTop"></activity>
-        <activity
-            android:name=".Pages.ListDaina"
-            android:label="@string/title_activity_list_daina"
-            android:parentActivityName=".Pages.HomePage"
-            android:theme="@style/AppTheme.NoActionBar">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.martynas.dainynas.MainActivity" />
-        </activity>
-        <activity
             android:name=".Pages.ViewDaina"
             android:label="@string/title_activity_view_daina"
             android:parentActivityName=".Pages.SearchList"
