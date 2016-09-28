@@ -20,11 +20,10 @@
         android:orientation="horizontal"
         android:gravity="center"
         android:layout_gravity="center"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentRight="true"
+
         android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="false"
-        android:layout_alignParentStart="false"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
         android:layout_alignParentTop="false"
         android:id="@+id/linearLayout">
 
@@ -32,7 +31,7 @@
         android:layout_width="wrap_content"
         android:layout_height="fill_parent"
         android:id="@+id/imageButton2"
-        android:src="@mipmap/fav_final"
+        android:src="@mipmap/final_favorite"
         android:background="@android:color/transparent"
         android:scaleType="fitCenter"
             android:clickable="true"
@@ -48,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
             android:id="@+id/imageButton"
-            android:src="@mipmap/list_final"
+            android:src="@mipmap/final_list"
             android:background="@android:color/transparent"
             android:scaleType="fitCenter"
             android:clickable="true"
@@ -59,7 +58,7 @@
         android:layout_width="wrap_content"
         android:layout_height="fill_parent"
         android:id="@+id/imageButton3"
-        android:src="@mipmap/search_final"
+        android:src="@mipmap/final_search"
         android:background="@android:color/transparent"
         android:scaleType="fitCenter"
             android:clickable="true"
@@ -78,15 +77,12 @@
     android:layout_above="@+id/linearLayout"
     android:layout_alignParentTop="true">
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
         android:id="@+id/imageView"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="30dp"
         android:src="@mipmap/home_icon"
         android:scaleType="fitCenter"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentStart="true" />
+        android:paddingBottom="30dp"/>
 </LinearLayout>
 </RelativeLayout>

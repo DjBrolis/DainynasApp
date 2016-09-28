@@ -25,7 +25,7 @@
         <activity
             android:name=".Pages.ListDaina"
             android:label="@string/title_activity_list_daina"
-            android:parentActivityName=".MainActivity"
+            android:parentActivityName=".Pages.HomePage"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -34,7 +34,7 @@
         <activity
             android:name=".Pages.ViewDaina"
             android:label="@string/title_activity_view_daina"
-            android:parentActivityName=".Pages.ListDaina"
+            android:parentActivityName=".Pages.SearchList"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -67,7 +67,8 @@
         <activity
             android:name=".Pages.HomePage"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -158,7 +158,7 @@ public class Favorites extends AppCompatActivity implements View.OnClickListener
 
                 Intent intent = new Intent(Favorites.this, ViewDaina.class);
                 cursor.moveToPosition(i);
-                dainaId = cursor.getLong(4);
+                dainaId = cursor.getLong(cursor.getColumnIndex("_id"));
                 /*Cursor cursor = (Cursor) customAdapter.getItem(i);
                 int dainaId = cursor.getColumnIndex("Id");*/
 
@@ -177,7 +177,7 @@ public class Favorites extends AppCompatActivity implements View.OnClickListener
 
                 Intent intent = new Intent(Favorites.this, ViewDaina.class);
                 cursorP.moveToPosition(i);
-                posmelisId = cursorP.getLong(5);
+                posmelisId = cursorP.getLong(cursorP.getColumnIndex("_id"));
                 dainaId = Posmelis.load(Posmelis.class, posmelisId).daina.getId();
                 /*Cursor cursor = (Cursor) customAdapter.getItem(i);
                 int dainaId = cursor.getColumnIndex("Id");*/
