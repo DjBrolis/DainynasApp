@@ -90,7 +90,6 @@ public class HomePage extends AppCompatActivity {
        Intent intent = new Intent(this, Favorites.class);
 
        startActivity(intent);
-       //Toast.makeText(this, "Ši programos dalis dar kuriama", Toast.LENGTH_LONG).show();
    }
 
     private void checkFirstRun() {
@@ -121,6 +120,7 @@ public class HomePage extends AppCompatActivity {
             return;
 
         } else if (savedVersionCode == DOESNT_EXIST) {
+
             boolean newInstall = true;
             int [] newVersions = new int [1];
             fillDatabase(newVersions, newInstall);

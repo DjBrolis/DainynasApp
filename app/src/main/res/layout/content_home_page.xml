@@ -64,10 +64,6 @@
             android:clickable="true"
             android:onClick="SearchList"
             android:layout_weight="30" />
-          <!--  android:layout_marginRight="20dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"-->
 
     </LinearLayout>
 <LinearLayout
@@ -83,6 +79,6 @@
         android:layout_marginTop="30dp"
         android:src="@mipmap/home_icon"
         android:scaleType="fitCenter"
-        android:paddingBottom="30dp"/>
+        android:paddingBottom="30dp" />
 </LinearLayout>
 </RelativeLayout>

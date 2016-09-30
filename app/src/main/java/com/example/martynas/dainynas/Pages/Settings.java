@@ -2,7 +2,6 @@ package com.example.martynas.dainynas.Pages;
 
 import android.content.Intent;
 import android.graphics.Paint;
-import android.support.annotation.Dimension;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -20,8 +19,6 @@ import com.example.martynas.dainynas.SettingsDB;
 import java.lang.reflect.Field;
 
 public class Settings extends AppCompatActivity {
-    private Button previewButton;
-    private Button nustaytiButton;
     private TextView preview;
     private NumberPicker numberPicker;
     private SettingsDB settingsDB;
@@ -34,8 +31,8 @@ public class Settings extends AppCompatActivity {
         ActiveAndroid.initialize(this);
 
         settingsDB = SettingsDB.load(SettingsDB.class, 1);
-        previewButton = (Button)findViewById(R.id.tekstoDysisPreview);
-        nustaytiButton = (Button) findViewById(R.id.tekstoDydisSet);
+        Button previewButton = (Button) findViewById(R.id.tekstoDysisPreview);
+        Button nustaytiButton = (Button) findViewById(R.id.tekstoDydisSet);
         numberPicker = (NumberPicker) findViewById(R.id.numberPicker);
         preview = (TextView) findViewById(R.id.tekstasPreview);
         preview.setTextSize(settingsDB.zodziaiDydis);
