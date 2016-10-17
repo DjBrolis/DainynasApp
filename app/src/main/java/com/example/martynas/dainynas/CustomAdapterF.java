@@ -36,7 +36,7 @@ public class CustomAdapterF extends CursorAdapter {
         ViewHolder holder = (ViewHolder) view.getTag();
         holder.txtIdFavorite.setText(cursor.getString(cursor.getColumnIndex("_id")));
         holder.txtPavadinimas.setText(cursor.getString(cursor.getColumnIndex("Pavadinimas")));
-        holder.txt1.setText(cursor.getString(cursor.getColumnIndex("Zodziai")));
+        holder.txt1.setText("");
         if (cursor.getInt(cursor.getColumnIndex("Favorite")) == 1){
             holder.favoriteCheckBoxF.setChecked(true);
         }

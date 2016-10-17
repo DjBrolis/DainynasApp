@@ -44,25 +44,26 @@ public class StudentRepo {
     public Cursor getStudentListByKeyword(String search, boolean favorite) {
         //Open connection to read only
         String searchAlt;
-                String tableName = Cache.getTableInfo(Daina.class).getTableName();
+        String tableName = Cache.getTableInfo(Daina.class).getTableName();
+
         if (!favorite){
 
             if (search.length() > 0){
                 searchAlt = search.substring(0,1).toUpperCase() + search.substring(1);
                 selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
-                        .where("Pavadinimas  LIKE  '%"+search+"%'").or("Pavadinimas  LIKE  '%"+searchAlt+"%'").orderBy("Pavadinimas").toSql();}
+                        .where("(Pavadinimas  LIKE " + searchQuery(search, "Pavadinimas") + ')').or("(Zodziai  LIKE " + searchQuery(search, "Zodziai") + ')').orderBy("Favorite DESC, Pavadinimas ASC").toSql();}
             else{
                 selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
-                        .where("Pavadinimas  LIKE  '%"+search+"%'").orderBy("Pavadinimas").toSql();}
+                        .where("Pavadinimas  LIKE " + searchQuery(search, "Pavadinimas")).orderBy("Pavadinimas").toSql();}
         }
         else {
             if (search.length() > 0){
                 searchAlt = search.substring(0,1).toUpperCase() + search.substring(1);
                 selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
-                        .where("Pavadinimas  LIKE  '%"+search+"%'").or("Pavadinimas  LIKE  '%"+searchAlt+"%'").and("Favorite=1").orderBy("Pavadinimas").toSql();}
+                        .where("(Pavadinimas  LIKE " + searchQuery(search, "Pavadinimas")+ ')').or("(Zodziai  LIKE " + searchQuery(search, "Zodziai") + ')').and("Favorite=1").orderBy("Favorite DESC, Pavadinimas ASC").toSql();}
             else{
                 selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
-                        .where("Pavadinimas  LIKE  '%"+search+"%'").and("Favorite=1").orderBy("Pavadinimas").toSql();}
+                        .where("Pavadinimas  LIKE " + searchQuery(search, "Pavadinimas")).and("Favorite=1").orderBy("Pavadinimas").toSql();}
         }
 
 
@@ -82,5 +83,18 @@ public class StudentRepo {
 
         Daina daina = Daina.load(Daina.class, Id);
         return daina;
+    }
+    public String searchQuery (String search, String columnName){
+        String temp[] = search.trim().split(" |,");
+        StringBuilder builder = new StringBuilder();
+        for (String string : temp){
+            if (builder.length() > 0) {
+                builder.append("and " + columnName + " LIKE '%" + string + "%'");
+            }
+            else {
+                builder.append("'%" + string + "%'");
+            }
+        }
+        return builder.toString();
     }
 }

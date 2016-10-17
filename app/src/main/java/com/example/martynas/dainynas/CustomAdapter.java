@@ -50,7 +50,7 @@ public class CustomAdapter extends CursorAdapter {
 
         holder.txtId.setText(cursor.getString(cursor.getColumnIndex("Id")));
         holder.txtName.setText(cursor.getString(cursor.getColumnIndex("Pavadinimas")));
-        holder.txtEmail.setText(cursor.getString(cursor.getColumnIndex("Zodziai")));
+        holder.txtEmail.setText("");
         if (cursor.getInt(cursor.getColumnIndex("Favorite")) == 1){
             holder.favoriteCheckBox.setChecked(true);
         }

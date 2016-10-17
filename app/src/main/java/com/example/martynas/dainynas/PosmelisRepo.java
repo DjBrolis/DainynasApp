@@ -33,13 +33,25 @@ public class PosmelisRepo {
 
     public Cursor getPosmeliaiListByKeyword(String search, boolean favorite){
         String tableName = Cache.getTableInfo(Posmelis.class).getTableName();
+        String temp[] = search.trim().split(" |,");
+        StringBuilder builder = new StringBuilder();
+        for (String string : temp){
+            if (builder.length() > 0) {
+                builder.append("and Zodziai LIKE '%" + string + "%'");
+            }
+            else {
+                builder.append("'%" + string + "%'");
+            }
+        }
+        String searchQuery = builder.toString();
+
         if (!favorite) {
             selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id")
-                    .from(Posmelis.class).where("Zodziai  LIKE  '%" + search + "%'").toSql();
+                    .from(Posmelis.class).where("Zodziai  LIKE " + searchQuery).toSql();
         }
         else {
             selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id")
-                    .from(Posmelis.class).where("Zodziai  LIKE  '%" + search + "%'").toSql();
+                    .from(Posmelis.class).where("Zodziai  LIKE" +searchQuery).toSql();
         }
         //tableName = tableName.substring(0,1).toLowerCase() + tableName.substring(1);
         Cursor cursor = Cache.openDatabase().rawQuery(selectQuery, null);

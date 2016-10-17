@@ -34,6 +34,7 @@ public class Daina extends Model{
         Daina dainaTemp = new Daina();
         dainaTemp.pavadinimas = dainaViewModel.pavadinimas;
         dainaTemp.vertimas = dainaViewModel.vertimas;
+        dainaTemp.zodziai = LietRaidPanaik(dainaViewModel.pavadinimas);
         String[] zodziaiTemp = dainaViewModel.zodziai.trim().split("\n");
         Posmelis posmelisTemp = new Posmelis();
         posmelisTemp.daina = dainaTemp;
@@ -80,6 +81,7 @@ public class Daina extends Model{
                 Daina dainaTemp = new Daina();
                 dainaTemp.favorite = 0;  // pakeisti
                 dainaTemp.pavadinimas = pavadinimasIrZodziai[0].trim();
+                dainaTemp.zodziai = LietRaidPanaik(dainaTemp.pavadinimas);
                 if (pavadinimasIrZodziai.length > 4) {
                     dainaTemp.vertimas = pavadinimasIrZodziai[4].trim();
                 }
@@ -118,5 +120,44 @@ public class Daina extends Model{
         finally {
             ActiveAndroid.endTransaction();
         }
+    }
+    public String LietRaidPanaik (String pavadinimas){
+        char [] temp = pavadinimas.toLowerCase().toCharArray();
+        StringBuilder builder = new StringBuilder();
+        for (char raide : temp){
+            switch (raide){
+                case 'ą':
+                    builder.append('a');
+                    break;
+                case 'ę':
+                    builder.append('e');
+                    break;
+                case 'ė':
+                    builder.append('e');
+                    break;
+                case 'ū':
+                    builder.append('u');
+                    break;
+                case 'ų':
+                    builder.append('u');
+                    break;
+                case 'č':
+                    builder.append('c');
+                    break;
+                case 'š':
+                    builder.append('s');
+                    break;
+                case 'ž':
+                    builder.append('z');
+                    break;
+                case 'į':
+                    builder.append('i');
+                    break;
+                default:
+                    builder.append(raide);
+                    break;
+            }
+        }
+        return builder.toString();
     }
 }
