@@ -131,6 +131,7 @@ public class SearchList extends AppCompatActivity implements View.OnClickListene
 
                         Log.d(TAG, "onQueryTextChange ");
                         cursor=studentRepo.getStudentListByKeyword(s,false);
+                        customAdapterP.swapCursor(null);
                         if (cursor!=null){
                             customAdapter.swapCursor(cursor);
                         }

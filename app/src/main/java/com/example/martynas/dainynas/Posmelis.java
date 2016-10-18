@@ -20,18 +20,22 @@ public class Posmelis extends Model{
     public int dainaId;
     @Column(name = "Daina")
     public Daina daina;
+    @Column (name = "ZodziaiOnlyENLetters")
+    public String zodziaiOnlyENLetters;
 
 
     public Posmelis (){
         super();
         this.zodziai = "";
+        this.zodziaiOnlyENLetters = "";
     }
 
-    public Posmelis (int posmelisId, String zodziai, int dainaId, Daina daina){
+    public Posmelis (int posmelisId, String zodziai, int dainaId, Daina daina, String zodziaiOnlyENLetters){
         this.posmelisId = posmelisId;
         this.zodziai = zodziai;
         this.dainaId = dainaId;
         this.daina = daina;
+        this.zodziaiOnlyENLetters = zodziaiOnlyENLetters;
     }
 
 }

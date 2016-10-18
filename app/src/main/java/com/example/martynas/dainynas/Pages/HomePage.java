@@ -1,5 +1,6 @@
 package com.example.martynas.dainynas.Pages;
 
+import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Resources;
@@ -183,14 +184,14 @@ public class HomePage extends AppCompatActivity {
         String outputConcat = "";
         if (newInstall){
             for (int i = 1; i < outputTest.length; i = i+2) {
-                Daina fillDainos = new Daina(outputTest[i]);
+                new Daina(outputTest[i], this);
             }
         }
         else {
             int j = 0;
             for (int i = 1; i < outputTest.length; i = i + 2) {
                 if (newVersions[j] == Integer.parseInt(outputTest[i-1].trim())) {
-                    Daina fillDainos = new Daina(outputTest[i]);
+                    new Daina(outputTest[i]);
                     j++;
                 }
             }

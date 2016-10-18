@@ -17,6 +17,7 @@ import com.example.martynas.dainynas.SettingsDB;
 import java.util.List;
 
 public class ViewDaina extends AppCompatActivity {
+    protected Daina daina;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,7 +25,7 @@ public class ViewDaina extends AppCompatActivity {
         setContentView(R.layout.activity_view_daina);
 
         Intent intent = getIntent();
-        Daina daina = Daina.load(Daina.class, intent.getLongExtra("Daina", 1));
+        daina = Daina.load(Daina.class, intent.getLongExtra("Daina", 1));
 
         SettingsDB settingsDB = SettingsDB.load(SettingsDB.class, 1);
         TextView textView = (TextView) findViewById(R.id.viewDainaZodziai);
@@ -50,6 +51,11 @@ public class ViewDaina extends AppCompatActivity {
         else {
             textView1.setVisibility(View.GONE);
         }
+    }
+    public void editDaina (View view) {
+        Intent intent = new Intent(this, EditDaina.class);
+        intent.putExtra("DainaId", daina.getId());
+        startActivity(intent);
     }
 
 }
