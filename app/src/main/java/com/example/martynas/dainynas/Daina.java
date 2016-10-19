@@ -2,6 +2,7 @@ package com.example.martynas.dainynas;
 
 import android.content.Context;
 import android.database.Cursor;
+import android.widget.Toast;
 
 import com.activeandroid.ActiveAndroid;
 import com.activeandroid.Cache;
@@ -10,12 +11,11 @@ import com.activeandroid.annotation.Column;
 import com.activeandroid.annotation.Table;
 import com.activeandroid.query.Select;
 import com.activeandroid.util.Log;
+import com.example.martynas.dainynas.Pages.HomePage;
 
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.OutputStream;
-import java.io.OutputStreamWriter;
 import java.util.List;
 
 /**
@@ -25,8 +25,8 @@ import java.util.List;
 public class Daina extends Model{
     @Column(name = "Pavadinimas")
     public String pavadinimas;
-    @Column(name = "Zodziai")
-    public String zodziai;
+    @Column(name = "PavOnlyENLetters")
+    public String pavOnlyENLetters;
     @Column (name = "Vertimas")
     public String vertimas;
     @Column(name = "Favorite")
@@ -47,7 +47,8 @@ public class Daina extends Model{
         Daina dainaTemp = new Daina();
         dainaTemp.pavadinimas = dainaViewModel.pavadinimas;
         dainaTemp.vertimas = dainaViewModel.vertimas;
-        dainaTemp.zodziai = LietRaidPanaik(dainaViewModel.pavadinimas);
+        dainaTemp.pavOnlyENLetters = LietRaidPanaik(dainaViewModel.pavadinimas);
+        dainaTemp.puslapis = dainaViewModel.puslapis;
         String[] zodziaiTemp = dainaViewModel.zodziai.trim().split("\n");
         Posmelis posmelisTemp = new Posmelis();
         posmelisTemp.daina = dainaTemp;
@@ -66,15 +67,12 @@ public class Daina extends Model{
                 posmelisTemp = new Posmelis();
                 posmelisTemp.daina = dainaTemp;
                 posmelisTemp.zodziai += eilute + "\n";
+                posmelisTemp.zodziaiOnlyENLetters += LietRaidPanaik(eilute) + "\n";
             }
             else if (!eilute.isEmpty()){
                 posmelisTemp.zodziai += eilute + "\n";
+                posmelisTemp.zodziaiOnlyENLetters += LietRaidPanaik(eilute) + "\n";
             }
-            else {
-                posmelisTemp.daina = dainaTemp;
-                posmelisTemp.save();
-            }
-
         }
         posmelisTemp.daina = dainaTemp;
         posmelisTemp.save();
@@ -94,7 +92,7 @@ public class Daina extends Model{
                 Daina dainaTemp = new Daina();
                 dainaTemp.favorite = 0;  // pakeisti
                 dainaTemp.pavadinimas = pavadinimasIrZodziai[0].trim();
-                dainaTemp.zodziai = LietRaidPanaik(dainaTemp.pavadinimas);
+                dainaTemp.pavOnlyENLetters = LietRaidPanaik(dainaTemp.pavadinimas);
                 if (pavadinimasIrZodziai.length > 4) {
                     dainaTemp.vertimas = pavadinimasIrZodziai[4].trim();
                 }
@@ -119,9 +117,11 @@ public class Daina extends Model{
                         posmelisTemp = new Posmelis();
                         posmelisTemp.daina = dainaTemp;
                         posmelisTemp.zodziai += eilute + "\n";
+                        posmelisTemp.zodziaiOnlyENLetters += LietRaidPanaik(eilute) + "\n";
                     }
                     else if (!eilute.isEmpty()){
                         posmelisTemp.zodziai += eilute + "\n";
+                        posmelisTemp.zodziaiOnlyENLetters += LietRaidPanaik(eilute) + "\n";
                     }
                 }
                 posmelisTemp.daina = dainaTemp;
@@ -135,7 +135,7 @@ public class Daina extends Model{
         }
     }
 
-    public Daina (String output, Context context) //this is used only to generate file with all songs
+  public Daina (String output, Context context) //this is used only to generate file with all songs
     {
         String[] dainos = output.split("\t\t");
         ActiveAndroid.beginTransaction();
@@ -146,36 +146,37 @@ public class Daina extends Model{
                 Daina dainaTemp = new Daina();
                 dainaTemp.favorite = 0;  // pakeisti
                 dainaTemp.pavadinimas = pavadinimasIrZodziai[0].trim();
-                dainaTemp.zodziai = LietRaidPanaik(dainaTemp.pavadinimas);
-                if (pavadinimasIrZodziai.length > 4) {
-                    dainaTemp.vertimas = pavadinimasIrZodziai[4].trim();
+                Log.d(dainaTemp.pavadinimas + "sugedo");
+                dainaTemp.pavOnlyENLetters = pavadinimasIrZodziai[1].trim();
+                dainaTemp.vertimas = pavadinimasIrZodziai[2].trim();
+                dainaTemp.puslapis = Integer.parseInt(pavadinimasIrZodziai[3].trim());
+                String[] zodziaiTemp = pavadinimasIrZodziai[4].trim().split("\r\n");
+                String[] zodziaiOnlyENTemp = pavadinimasIrZodziai[5].trim().split("\r\n");
+                if (zodziaiOnlyENTemp.length != zodziaiTemp.length){
+                    Toast.makeText(context, dainaTemp.pavadinimas, Toast.LENGTH_LONG).show();
                 }
-                else {
-                    dainaTemp.vertimas = "";
-                }
-                String[] zodziaiTemp = pavadinimasIrZodziai[3].trim().split("\r\n");
                 Posmelis posmelisTemp = new Posmelis();
                 posmelisTemp.daina = dainaTemp;
                 dainaTemp.save();
 
                 boolean naujasStulpelis = false;
-                for (String eilute: zodziaiTemp
-                        ) {
-                    if (eilute.isEmpty() && !posmelisTemp.zodziai.isEmpty()) {
+
+                for (int i = 0; i<zodziaiTemp.length && i<zodziaiOnlyENTemp.length; i++){
+                    if (zodziaiTemp[i].isEmpty() && !posmelisTemp.zodziai.isEmpty()) {
                         posmelisTemp.daina = dainaTemp;
                         posmelisTemp.save();
                         naujasStulpelis = true;
                     }
-                    else if (naujasStulpelis && !eilute.isEmpty()){
+                    else if (naujasStulpelis && !zodziaiTemp[i].isEmpty()){
                         naujasStulpelis = false;
                         posmelisTemp = new Posmelis();
                         posmelisTemp.daina = dainaTemp;
-                        posmelisTemp.zodziai += eilute + "\n";
-                        posmelisTemp.zodziaiOnlyENLetters += LietRaidPanaik(eilute) + "\n";
+                        posmelisTemp.zodziai += zodziaiTemp[i] + "\n";
+                        posmelisTemp.zodziaiOnlyENLetters += zodziaiOnlyENTemp[i] + "\n";
                     }
-                    else if (!eilute.isEmpty()){
-                        posmelisTemp.zodziai += eilute + "\n";
-                        posmelisTemp.zodziaiOnlyENLetters += LietRaidPanaik(eilute) + "\n";
+                    else if (!zodziaiTemp[i].isEmpty()){
+                        posmelisTemp.zodziai += zodziaiTemp[i] + "\n";
+                        posmelisTemp.zodziaiOnlyENLetters += zodziaiOnlyENTemp[i] + "\n";
                     }
                 }
                 posmelisTemp.daina = dainaTemp;
@@ -187,43 +188,8 @@ public class Daina extends Model{
         finally {
             ActiveAndroid.endTransaction();
         }
-        StringBuilder builder = new StringBuilder();
-        String query = new Select("Dainos" + ".*, " + "Dainos" + ".Id as _id").from(Daina.class).orderBy("_id DESC").limit(1).toSql();
-        Cursor cursor = Cache.openDatabase().rawQuery(query,null);
-        cursor.moveToFirst();
-        long id = cursor.getLong(cursor.getColumnIndex("Id"));
-        for (long i = 1; i <= id; i++){
-            Daina daina = Daina.load(Daina.class, i);
-            List<Posmelis> posmeliai = daina.posmeliai();
-            String zodziai = "";
-            String zodziaiOnlyENLetters = "";
-            for (Posmelis posmelis:posmeliai
-                    ) {zodziai += posmelis.zodziai + "\r\n\r\n";
-                zodziaiOnlyENLetters += posmelis.zodziaiOnlyENLetters + "\r\n\r\n";
-            }
-            builder.append(daina.pavadinimas + "\t\r\n\r\n"
-                    +daina.zodziai + "\t\r\n\r\n"
-                    +daina.vertimas + "\t\r\n\r\n"
-                    +daina.puslapis + "\t\r\n\r\n"
-                    +zodziai + "\t\r\n"
-                    +zodziaiOnlyENLetters + "\t\t\r\n\r\n");
-        }
-        try {
-            File path = context.getExternalFilesDir(null);
-            File file = new File(path, "dainosGen.txt");
-            FileOutputStream stream = new FileOutputStream(file);
-            stream.write(builder.toString().getBytes());
-            stream.close();
-            /*OutputStreamWriter outputStreamWriter = new OutputStreamWriter(context.openFileOutput(file, context.MODE_PRIVATE));
-            outputStreamWriter.write(builder.toString());
-            outputStreamWriter.close();*/
-        }
-        catch (IOException e){
-            Log.e("Exception", "File write failed: " + e.toString());
-        }
-
-
     }
+
     public String LietRaidPanaik (String pavadinimas){
         char [] temp = pavadinimas.toLowerCase().toCharArray();
         StringBuilder builder = new StringBuilder();

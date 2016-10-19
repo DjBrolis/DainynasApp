@@ -116,7 +116,6 @@ public class HomePage extends AppCompatActivity {
 
         // Check for first run or upgrade
         if (currentVersionCode == savedVersionCode) {
-
             // This is just a normal run
             return;
 
@@ -191,7 +190,7 @@ public class HomePage extends AppCompatActivity {
             int j = 0;
             for (int i = 1; i < outputTest.length; i = i + 2) {
                 if (newVersions[j] == Integer.parseInt(outputTest[i-1].trim())) {
-                    new Daina(outputTest[i]);
+                    new Daina(outputTest[i], this);
                     j++;
                 }
             }

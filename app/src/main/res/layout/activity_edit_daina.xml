@@ -21,13 +21,44 @@
         android:scrollbars="vertical"
         android:fillViewport="true"
         android:layout_alignParentStart="false"
-        android:layout_alignParentTop="false">
+        android:layout_alignParentTop="false"
+        android:layout_alignParentLeft="false">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-    <TextView
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+            <ImageButton
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:srcCompat="@mipmap/left_arrow"
+                android:id="@+id/goPreviousDaina"
+                android:scaleType="fitXY"
+                android:backgroundTint="@android:color/transparent" />
+
+            <ImageButton
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:srcCompat="@mipmap/save_button"
+                android:id="@+id/saveEditedDaina"
+                android:scaleType="fitXY"
+                android:backgroundTint="@android:color/transparent" />
+
+            <ImageButton
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:srcCompat="@mipmap/right_arrow"
+                android:id="@+id/goNextDaina"
+                android:scaleType="fitXY"
+                android:backgroundTint="@android:color/transparent" />
+        </LinearLayout>
+
+        <TextView
         android:text="Pavadinimas"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -39,7 +70,8 @@
         android:inputType="textPersonName"
         android:text="Pavadinimas"
         android:ems="10"
-        android:id="@+id/editPavadinimas" />
+        android:id="@+id/editPavadinimas"
+        android:textColor="@android:color/white" />
 
     <TextView
         android:text="Puslapis"
@@ -52,7 +84,8 @@
         android:layout_height="wrap_content"
         android:inputType="number"
         android:ems="10"
-        android:id="@+id/editPuslapis" />
+        android:id="@+id/editPuslapis"
+        android:textColor="@android:color/white" />
 
     <TextView
         android:text="Zodziai"
@@ -66,7 +99,8 @@
         android:inputType="textMultiLine"
         android:text="Zodziai"
         android:ems="10"
-        android:id="@+id/editZodziai" />
+        android:id="@+id/editZodziai"
+        android:textColor="@android:color/white" />
 
     <TextView
         android:text="Vertimas"
@@ -81,15 +115,11 @@
         android:ems="10"
         android:id="@+id/editVertimas"
         android:inputType="textMultiLine"
-        android:hint="Čia įveskite dainos pavadinimą" />
+        android:hint="Čia įveskite dainos vertimą"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white" />
 
-        <ImageButton
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            app:srcCompat="@mipmap/save_button"
-            android:id="@+id/saveEditedDaina"
-            android:scaleType="fitXY"
-            android:backgroundTint="@android:color/transparent" />
+
 
     </LinearLayout>
     </android.support.v4.widget.NestedScrollView>
