@@ -2,6 +2,8 @@ package com.example.martynas.dainynas.Pages;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
+import android.content.res.Resources;
 import android.database.Cursor;
 import android.graphics.Paint;
 import android.support.v7.app.AppCompatActivity;
@@ -114,6 +116,9 @@ public class Settings extends AppCompatActivity {
         String query = new Select("Dainos" + ".*, " + "Dainos" + ".Id as _id").from(Daina.class).orderBy("_id DESC").limit(1).toSql();
         Cursor cursor = Cache.openDatabase().rawQuery(query,null);
         cursor.moveToFirst();
+        SharedPreferences sharedPreferences = getSharedPreferences("MyPrefsFile", MODE_PRIVATE);
+        int savedVersionCode = sharedPreferences.getInt("version_code", 1);
+        builder.append(String.valueOf(savedVersionCode) + "\t\t\t\r\n");
         long id = cursor.getLong(cursor.getColumnIndex("Id"));
         for (long i = 1; i <= id; i++){
             Daina daina = Daina.load(Daina.class, i);

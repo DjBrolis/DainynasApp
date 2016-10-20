@@ -13,7 +13,8 @@
         android:scrollbars="vertical"
         android:fillViewport="true"
         android:layout_alignParentStart="false"
-        android:layout_alignParentTop="false">
+        android:layout_alignParentTop="false"
+        android:layout_alignParentLeft="false">
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="fill_parent"
@@ -22,7 +23,8 @@
             <ListView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/lstStudent" />
+                android:id="@+id/lstStudent"
+                android:isScrollContainer="false" />
             <ListView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
