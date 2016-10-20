@@ -190,6 +190,46 @@ public class Daina extends Model{
         }
     }
 
+    public void updateDaina (Daina dainaTemp, DainaViewModel dainaViewModel){
+        dainaTemp.pavadinimas = dainaViewModel.pavadinimas;
+        dainaTemp.vertimas = dainaViewModel.vertimas;
+        dainaTemp.pavOnlyENLetters = LietRaidPanaik(dainaViewModel.pavadinimas);
+        dainaTemp.puslapis = dainaViewModel.puslapis;
+        String[] zodziaiTemp = dainaViewModel.zodziai.trim().split("\n");
+        List<Posmelis> posmeliai = dainaTemp.posmeliai();
+        for (Posmelis posmelis:posmeliai
+             ) {
+            posmelis.delete();
+        }
+        Posmelis posmelisTemp = new Posmelis();
+        posmelisTemp.daina = dainaTemp;
+        dainaTemp.save();
+
+        boolean naujasStulpelis = false;
+        for (String eilute: zodziaiTemp
+                ) {
+            if (eilute.isEmpty() && !posmelisTemp.zodziai.isEmpty()) {
+                posmelisTemp.daina = dainaTemp;
+                posmelisTemp.save();
+                naujasStulpelis = true;
+            }
+            else if (naujasStulpelis && !eilute.isEmpty()){
+                naujasStulpelis = false;
+                posmelisTemp = new Posmelis();
+                posmelisTemp.daina = dainaTemp;
+                posmelisTemp.zodziai += eilute + "\n";
+                posmelisTemp.zodziaiOnlyENLetters += LietRaidPanaik(eilute) + "\n";
+            }
+            else if (!eilute.isEmpty()){
+                posmelisTemp.zodziai += eilute + "\n";
+                posmelisTemp.zodziaiOnlyENLetters += LietRaidPanaik(eilute) + "\n";
+            }
+        }
+        posmelisTemp.daina = dainaTemp;
+        posmelisTemp.save();
+        dainaTemp.save();
+    }
+
     public String LietRaidPanaik (String pavadinimas){
         char [] temp = pavadinimas.toLowerCase().toCharArray();
         StringBuilder builder = new StringBuilder();

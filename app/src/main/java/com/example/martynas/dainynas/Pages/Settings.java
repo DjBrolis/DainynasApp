@@ -110,7 +110,7 @@ public class Settings extends AppCompatActivity {
         return false;
     }
     public void saveDBToFile (Context context){
-        StringBuilder builder = new StringBuilder(1000000);
+        StringBuilder builder = new StringBuilder(7000000);
         String query = new Select("Dainos" + ".*, " + "Dainos" + ".Id as _id").from(Daina.class).orderBy("_id DESC").limit(1).toSql();
         Cursor cursor = Cache.openDatabase().rawQuery(query,null);
         cursor.moveToFirst();

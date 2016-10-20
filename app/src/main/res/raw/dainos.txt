@@ -5,7 +5,7 @@ al mattino
 
 Iš ryto, Viešpatie, iš ryto, mano anfora tuščia prie šaltinio. Ir virpančiame, skaidriame ore žinau, kad gali mane padaryti didį, o dienos valandos iš ryto yra minkštas molis tavo garbei. Turiu tik vieną troškimą: kad Tave pamatyčiau – tai ir yra rytas.	
 
-0	
+5	
 
 Al mattino, Signore, al mattino
 La mia anfora è vuota alla fonte
@@ -40,7 +40,7 @@ allora sapete che esisto
 
 Jūs, žmonės, žemėje iškelsite kryžių, Kalvarijos medyje pamatysite vaisių. „Dabar žinote, kad esu, – sako Viešpats, - kad manyje gyvena ištikima meilė, kaip ir šią valandą“. Bus paklotos drobulės, kapas bus užristas sunkiu akmeniu. Kai auštant norėsite išbalzamuoti kūną, pamatysite angelus džiūgaujant. Kai žengsiu į dangaus spindinčią garbę, visuomet būsiu tavo kelyje.	
 
-0	
+5	
 
 Voialtri sulla terra
 La croce drizzerete,
@@ -109,7 +109,7 @@ altissima luce
 
 Didžiai spindinti aukščiausia šviesa, Jumyse, švelnioji meile, mums paguoda. Sveika, Karaliene, numylėtoji Mergele, negęstanti jūrų žvaigžde, dieviškoji šviesa, nuostabi dorybe, įsikūnijęs groži, panaši į Dievą. Pašvęsta šventove, puošnusis inde, kurią apreiškė šventas Gabrielius, Kristus įsikūnijo tavo įsčiose, naujas numylėtas vaisius. Gėlėmis išdabintoji, tu visiems esi viltis, vesk mus, nusidėjėlius, kad gėrėtumės tavo gailestingumu.	
 
-0	
+5	
 
 Altissima luce col grande splendore,
 in voi, dolz’amore, aggiam consolanza.
@@ -164,7 +164,7 @@ aria di neve
 
 Šįvakar tikriausiai snigs ir niekas neturi laiko atverti durų ir širdies. Šįvakar tikriausiai snigs ir kažkas dar klajoja, dar nežino, kur ilsėsis šią naktį. Žmogus, besibeldžiantis į visas duris, žmogus, klausiantis kiekvienuose namuose, ar neatsiras vietos jai, jai, esančiai su juo. Šįvakar tikriausiai snigs… Moteris palinksta ties savo skausmu, begimstančiam sūnui ji atiduos savo šilumą, kuri jį ir apsaugos, pamatysi. Šįvakar tikriausiai snigs ir niekas neturi laiko atverti durų ir širdies. Šįvakar tikriausiai snigs ir danguje juda žvaigždė, kuri sustos tik ten, ties tolimiausiu namu. Verkia vaikas, gulėdamas šiauduose, meldžiasi moteris, o vyras žiūri. Pasaulis nežino, kas Tu esi.	
 
-0	
+5	
 
 Aria di neve stasera e nessuno
 ha tempo di aprire la porta e il cuore.
@@ -233,7 +233,7 @@ as – kaip zalias medis
 
 	
 
-0	
+6	
 
 Aš - kaip žalias medis,
 Prie vandens pasodintas,
@@ -286,7 +286,7 @@ as esu
 
 	
 
-0	
+6	
 
 Noriu artėt, artėt prie Tavęs,
 Kur tikras dangus, o mirtis svetima.
@@ -331,7 +331,7 @@ as laukiu taves
 
 	
 
-0	
+6	
 
 Aš laukiu Tavęs,
 Meldžiu nuolankiai,
@@ -362,7 +362,7 @@ as myliu
 
 	
 
-0	
+6	
 
 Aš myliu, aš myliu, aš myliu Tave,
 Tu atėjai į žemę išgelbėti manęs.
@@ -399,7 +399,7 @@ ateinu viska palikes
 
 	
 
-0	
+7	
 
 Ateinu viską palikęs
 Prie Tavo Sosto aš žengiu
@@ -434,7 +434,7 @@ ave maria, splendore del mattino
 
 Sveika Marija, ryto spindesy, tyras Tavo žvilgsnis ir nuolanki Tavo širdis, teapsaugo Tavo tikros meilės švelnumas mūsų tautą, esančią kelyje. Motina, nesu vertas žiūrėti į Tave, tačiau leisk man išgirsti Tavo balsą, padaryk taip, kad neščiau visiems Tavo taiką, ir kad jie galėtų Tave pažinti ir mylėti. Motina, Tu, kuri padedi savo vaikams, padaryk taip, kad niekas nepasitrauktų, padėk jiems nešti savo kryžių ir eiti savo keliu, padaryk taip, kad eitų visada su mumis.	
 
-0	
+7	
 
 Ave Maria, splendore del mattino
 puro è il tuo sguardo ed umile il tuo cuore,
@@ -481,7 +481,7 @@ ave maria, stella del mattino
 
 Sveika Marija, ryto žvaigžde, budėjusi šią naktį prie mūsų, melskis už mus, pradedančius šią dieną, melskis už mus kiekvieną gyvenimo dieną. Sveika Marija, visų žmonių Motina, parodyk mums savo sūnų, kurį Tu mums išnešiojai savo įsčiose, kuris gimė mums, kad išlaisvintų mus nuo mirties, kuris mirė mums, kad sugrąžintų mus į gyvenimą. Sveika Marija, malonės pilnoji, nurodyk mums kelią, kur mums yra parengtas gyvenimas, prašyk už mus Viešpaties pasigailėjimo, prašyk už mus, kad mums būtų suteikta Jo ramybė. Amen.	
 
-0	
+7	
 
 Ave Maria, stella del mattino,
 tu che hai vegliato questa notte per noi,
@@ -536,7 +536,7 @@ buk su manim
 
 	
 
-0	
+7	
 
 Ką esam savo lūpomis priėmę,
 Tyra širdis su meile tepriglaus.
@@ -587,7 +587,7 @@ camminero
 
 Eisiu, eisiu Tavo keliu, Viešpatie. Padėk man, noriu likti visada su Tavimi. Kai buvau vienas ir pavargęs pasaulyje, kai nebuvo meilės, pamačiau aplink save tiek daug žmonių, girdėjau juos taip dainuojant: Aš nesupratau, bet ir toliau klausiau, ką Viešpats man kalbėjo. Jis šaukė mane ir aš atsakiau: Dabar man nesvarbu, jei kas nors iš manęs juokiasi. Jis tikrai nežino, kokią didelę dovaną aš gavau tą dieną ir kad aš Viešpačiui pasakiau: Kartais esu liūdnas, bet apsidairau aplink, atrandu pasaulį ir meilę: tai Jo man suteiktos dovanos; laimingas vėl dainuoju.	
 
-0	
+8	
 
 Camminerò, camminerò
 nella Tua strada , Signor.
@@ -658,7 +658,7 @@ como busca
 
 Kaip mažas pavargęs ir liūdnas vaikas savo motinos rankose ieško poilsio ir paguodos, taip ir aš, vos nušvitus baltai aušros šviesai, ateinu ieškoti tavo, o Viešpatie, dangiškosios apsaugos.	
 
-0	
+8	
 
 Como busca el tierno infante
 afligido y pesaroso
@@ -689,7 +689,7 @@ d‘amor pane dolcissimo
 
 Saldžioji meilės duona iš amžinojo dangaus džiaugsmo, tikrasis atleidime nuolankiesiems, kurie tik tavimi viliasi. Begaline miela širdie, Tu moki išgydyti mūsų širdis; visas mūsų ašaras Tu paverti tikra meile. Mums atsiverianti širdie, priimk mus pavojuose, kol vieną gražią dieną, kartu su Tavim, gyvensime Tavo džiaugsme.	
 
-0	
+8	
 
 D‘amor pane dolcissimo
 Del cielo eterno gaudio,
@@ -736,7 +736,7 @@ dieve, arciau taves
 
 	
 
-0	
+9	
 
 Dieve, arčiau Tavęs veržias širdis,
 Jokia kančia kely nesulaikys.
@@ -795,7 +795,7 @@ discendi santo spirito
 
 Nusileisk, Šventoji Dvasia, apšviesk mūsų protą; suteik mums malonės iš dangaus Tu, žmonių kūrėjau. Esi pavadinta Guodėja ir Aukščiausiojo dovana, skaidriausias šaltini, ryški meilės liepsna. Atsiųsk mums septynias dovanas, visagale Dvasia; mūsų virpančios lūpos tesisemia iš Tavęs išminties. Nuskaidrink mūsų pojūčius, uždek mūsų širdis; sustiprink sielą mūsų silpname kūne. Išlaisvink mus nuo blogio, suteik mums skubiai giedrą ramybę; su Tavimi norime nugalėti kiekvieną mirtiną pavojų. Tu padedi pažinti Tėvą ir vienatinį Sūnų; kad amžinai visi tikėtų Tavimi, dieviškoji Dvasia. Amen.	
 
-0	
+9	
 
 Discendi, Santo Spirito
 le nostre menti illumina;
@@ -878,7 +878,7 @@ dulcis christe
 
 Saldusis Kristau, o gerasis Dieve, mano meile, mano gyvenime, mano išgelbėjime, mano šlove. Tu esi Kūrėjas, Tu esi pasaulio Išgelbėtojas. Tavęs aš trokštu, Tavęs ieškau, Tave garbinu, o saldžioji meile, Tave garbinu, o brangus Jėzau.	
 
-0	
+9	
 
 Dulcis Christe, o bone Deus,
 O amor meus, o vita mea,
@@ -905,7 +905,7 @@ esantis
 
 	
 
-0	
+10	
 
 Esantis mano širdy
 Ir saugantis šią savo šventovę.
@@ -956,7 +956,7 @@ este es el dia del senhor
 
 Ši yra Viešpaties diena, gailestingumo laikas. Tavo akyse jau nekęsime gėdos dėl tavo tautos senosios nuodėmės. Išrausi su šaknimis išdidžią širdį ir iš nuoširdžios širdies sukursi nuolankią tautą. Tarp visų žmonių mus išsaugai kaip palikimą, nes turime dainuoti tavo kūrinius ir ragauti pirmuosius tavo karalystės vaisius. Būsime nauja giminė naujam dangui, dievo tarnų šeima pagal tavo Pirmagimį. Bus nugalėti engėjai ir linksminsis vergai; kaltės vaikai bus tavo paveldėtojai. Tada nurodysi sugrįžimo dieną tiems, kurie valgys duoną tremtyje. Džiaukis, mano širdie! Džiaukis mano tauta! Nes Viešpats yra teisingas, pakeičia savo sprendimus: ten, kur tvyrojo pragaras, apsireiškia išsigelbėjimas, ir Viešpats gyvena tarp savo tautos.	
 
-0	
+10	
 
 Este es el dia del Senhor.
 Este es el tiempo de la misericordia. (2)
@@ -1055,7 +1055,7 @@ gaudéte, gaudéte
 
 Džiaukitės, Kristus gimė iš Mergelės Marijos, džiaukitės. Atėjo tas malonės laikas, kurio laukėme, užgiedokime džiaugsmo giesmes. Dievas tapo nuostabios prigimties žmogumi, pasaulis buvo atnaujintas Kristaus didybe. Todėl mūsų susirinkimas tegieda Betliejuje, tegarbina Viešpatį, garbė mūsų Karaliui.	
 
-0	
+10	
 
 Gaudéte, gaudéte, Christus est natus
 ex Maria Virgine, gaudéte.
@@ -1110,7 +1110,7 @@ give me jesus
 
 Ryte, kai prabundu, duok man Jėzų. Gali turėti visą pasaulį, bet duok man Jėzų. Nuo lopšio iki kapo, duok man Jėzų. Tamsų vidurnaktį šaukiausi: duok man Jėzų. Ir kai prisiartins mirtis, duok man Jėzų.	
 
-0	
+11	
 
 In the morning when i rise
 Give me Jesus.
@@ -1149,7 +1149,7 @@ gloria gloria
 
 	
 
-0	
+11	
 
 Glorija glorija, Avinėli, Tau garbė!
 Glorija glorija, Jėzau, Tau šlovė!
@@ -1176,7 +1176,7 @@ i cieli
 
 Iš tiesų nežinau, ką daryti, kad atsidėkočiau savo Viešpačiui: man suteikė dangų, kad galėčiau į jį žiūrėti, ir daug džiaugsmo širdyje. Jis man davė dangų, kad galėčiau žiūrėti, Jis man davė balsą, kad dainuočiau, Jis man davė pasaulį, kad mylėčiau, ir daug džiaugsmo širdyje. Pasilenkė virš manęs ir nusileido iš dangaus, kad gyventų tarp mūsų ir kad išgelbėtų mus visus. Kai vieną dieną būsiu su juo, jo namuose gyvensiu, jo auksiniuose namuose, su dideliu džiaugsmu širdyje. Kai vieną dieną būsim su juo, jo namuose gyvensim, jo auksiniuose namuose, su dideliu džiaugsmu širdyje.	
 
-0	
+11	
 
 Non so proprio come far
 per ringraziare il mio Signor:
@@ -1247,7 +1247,7 @@ il disegno
 
 Jau buvai parašęs mano vardą aukštai danguje, jau buvai sumanęs sujungti mano gyvenimą su Tavuoju, jau buvai pagalvojęs apie mane. Tylos jūroje pasigirdo balsas, beribėje naktyje nušvito šviesa, kur nieko nebuvo tą dieną. Ir kai Tavo protas privertė sužibėti žvaigždes, ir kai Tavo rankos sukūrė žemę, kur nieko nebuvo tą dieną. Ir kai išmatavai dangaus gelmę, ir kai nuspalvinai kiekvieną žemės gėlę, kur nieko nebuvo tą dieną. Ir kai sukūrei debesis ir kalnus, ir nutiesei kiekvieno žmogaus kelią, taip pat nurodei ir manąjį. Jei vakar nieko nežinojau, šiandien sutikau Tave, ir mano laisvė yra Tavo sumanymas, susietas su manimi, daugiau nebeieškosiu nieko, nes Tu mane išgelbėsi.	
 
-0	
+11	
 
 Avevi scritto già il mio nome lassù nel cielo,
 avevi scritto già la mia vita insieme a Te,
@@ -1318,7 +1318,7 @@ il mistero
 
 Kas savo širdyje priima Mano Tėvo valią, bus man brolis, sesuo ir motina. Paprastomis akimis noriu žiūrėti į mano gyvenime išsipildančią Paslaptį: ten gimsta gili aušra, pakviesta Tavo meilei. Mane pažįsti ilgus amžius, mane sukūrei moters įsčiose ir visuomet kalbėjai mano širdžiai, kad išmoktų klausyti Tavo balso. Žiūriu į žemę ir į žvaigždes, žiūriu į sėklą, nukritusią laukuose, jaučiu, kad viskas susijaudina ir dreba, kuomet Tavo karalystė, Viešpatie, ateina. Kai matau, kad žmogus kenčia, kad pasaulį suskaldo neapykanta, žinau, kad tai skausmas, po kurio gimsta naujas žmogus.	
 
-0	
+12	
 
 Chi accoglie nel suo cuore
 il volere del Padre Mio
@@ -1389,7 +1389,7 @@ il nostro cuore
 
 Mūsų širdis nepaklydo, mūsų žingsniai nenukrypo nuo tavo kelio. Nei dėl nerimo, nei dėl skausmo, nei dėl baimės, nei dėl kardo niekada neišvengsiu tavo žvilgsnio, niekada nepaliksiu tavo namų. Nei mirties, nei gyvenimo, nei dabarties, nei ateities tavo žmonės nebijo, tavo uola stovi tvirta. Dainuodamas ir džiaugdamasis, mylėdamas ir kalbėdamas girsiu tavo šlovę, šlovinsiu tavo jėgą.	
 
-0	
+12	
 
 Il nostro cuore non si è perduto
 i nostri passi non hanno smarrito
@@ -1446,7 +1446,7 @@ il seme
 
 Viešpats pasėjo sėklą mano sodo žemėje, Viešpats pasėjo sėklą mano ryto gelmėje. Kai tik tai pastebėjau, nulipau nuo savo balkono ir norėjau tai suprasti, ir norėjau pamatyti sėklą. Bet Viešpats pasėjo sėklą mano sodo žemėje, Viešpats pasėjo sėklą mano kelio pradžioje. Norėčiau, kad sėkla žydėtų, norėčiau, kad gimtų gėlė, bet pražydėjimo laiką žino mano Viešpats.	
 
-0	
+13	
 
 Il Signore ha messo un seme
 nella terra del mio giardino,
@@ -1505,7 +1505,7 @@ io non sono degno
 
 Aš nevertas to, ką man darai, Tu, kuris myli tokį kaip aš. Matai, neturiu Tau ką dovanoti, bet jei nori, paimk mane. Aš kaip dulkės, pakeltos vėjo, kaip lietus, kaip nendrė, sulaužyta audros, jei Tu, Viešpatie, nesi su manimi. Prieš mano priešus mane sustiprini, aš nebijau nieko ir laukiu mirties. Jaučiu, kad esi šalia, kad man padėsi, bet nesu vertas to, ką man duodi.	
 
-0	
+13	
 
 Io non sono degno di ciò che fai per me,
 tu che ami tanto uno come me.
@@ -1552,7 +1552,7 @@ isdziuvus visa zeme
 
 	
 
-0	
+13	
 
 Išdžiūvus visa žemė,
 Ištroškus žemė be Tavęs
@@ -1607,7 +1607,7 @@ ieinu su gyriaus giesme
 
 	
 
-0	
+14	
 
 Įeinu su gyriaus giesme
 Į Tavo kiemus, Karaliau,
@@ -1640,7 +1640,7 @@ jesu dulcis memoria
 
 Jėzau, švelnus prisiminime, tikrosios širdies jėgos šaltini: bet virš kiekvieno švelnumo yra jaučiamas Jo buvimas. Apie nieką taip švelniai nedainuojama, nieko taip džiugiai nesiklausoma, apie nieką taip mielai negalvojama, kaip apie Jėzų, Dievo Sūnų. Jėzau, sugrįžtančiojo prie gėrio viltie, koks Tu esi gailestingas tam, kuris Tavęs trokšta! Koks esi geras tam, kuris Tavęs ieško! Bet koks būsi tam, kuris Tave suras? To negali ištarti lūpos, to negalima išreikšti žodžiais: tik tas, kuris tai išbando, gali tikėti, ką reiškia mylėti Kristų. Būk, o Jėzau, mūsų džiaugsme, Tu būsi amžinasis atpildas: Tavyje teesie mūsų šlovė per amžių amžius. Amen.	
 
-0	
+14	
 
 Jesu, dulcis memoria,
 dans vera cordis gaudia:
@@ -1713,7 +1713,7 @@ jesu tibi vivo
 
 Jėzau, dėl Tavęs gyvenu; Jėzau, dėl Tavęs mirštu. Jėzau, ar gyvendamas, ar mirdamas esu Tavo.	
 
-0	
+14	
 
 Jesu tibi vivo;
 Jesu tibi morior.
@@ -1736,7 +1736,7 @@ jezau, meile tava
 
 	
 
-0	
+14	
 
 Jėzau, meile Tava
 gydo mane ir laisvina
@@ -1773,7 +1773,7 @@ jezau, tik tu buki mano viespats
 
 	
 
-0	
+14	
 
 Jėzau, tik Tu būki mano Viešpats
 Jėzau, tik Tu vesk mane
@@ -1808,7 +1808,7 @@ jezaus kristaus siela
 
 	
 
-0	
+15	
 
 Jėzaus Kristaus siela, pašvęsk mane,
 Jėzaus Kristaus kūne, išgelbėk mane,
@@ -1867,7 +1867,7 @@ jo varda aukstinkim giesmej
 
 	
 
-0	
+15	
 
 Jo vardą aukštinkim giesmėj
 Ir šlovinkim Karalių mūsų.
@@ -1890,7 +1890,7 @@ kai darganu metas
 
 	
 
-0	
+15	
 
 Kai darganų metas, kai tau sieloj ruduo,
 Kai atrodo - jau nieks nesupras ir nepaguos,
@@ -1925,7 +1925,7 @@ kaip elne troksta vandens
 
 	
 
-0	
+15	
 
 Kaip elnė trokšta vandens,
 Manoji siela ilgisi Tavęs, Dieve,
@@ -1952,7 +1952,7 @@ kelias jau pramintas
 
 	
 
-0	
+15	
 
 Kelias jau pramintas,
 Nebijok, širdie aukos.
@@ -1995,7 +1995,7 @@ kiekviena diena
 
 	
 
-0	
+15	
 
 Kiekviena diena man prasideda Tavim
 Ir kiekvienas vakaras tavim užgęsta.
@@ -2042,7 +2042,7 @@ kryziau sventas
 
 	
 
-0	
+16	
 
 Kryžiau šventas, visų medžių, Tu tik vienas pažiba.
 Neišželdins girios brandžios kito tokio niekada!
@@ -2093,7 +2093,7 @@ laude novella
 
 Naują giesmę giedokime karūnuotajai damai. O saldžioji pamaldžioji mergele, pirmoji rože, visas pasaulis į Tave kreipias dėl ilgai išsvajotos taikos. Tu esi Viešpaties perlas, esi grožybių šaltinis, trokštame ateiti pas Tave, palaimintoji. O šviečianti žvaigžde, esi gyvojo Dievo Motina, Tu esi žmonių šviesa, išaukštinta virš angelų.	
 
-0	
+16	
 
 Laude novella sia cantata
 a l’alta donna encoronata.
@@ -2172,7 +2172,7 @@ ma non aver paura
 
 Nebijok ir nesustok niekada, nes mano meilė yra ištikima ir niekada nesibaigia. Žiūriu į savo vidų ir nematau tavęs. Sumaištis mano širdyje, ir nežinau kodėl. Nežinau, ką sakyti, nežinau, ką daryti. „Nutilk viduje ir klausykis manęs“. Kiekvieną kartą, kai tu norėsi, surasi mane, ir mano meilė, tu žinai, niekada nesibaigia.	
 
-0	
+16	
 
 Ma non avere paura,
 non ti fermare mai.
@@ -2231,7 +2231,7 @@ mare di grazia
 
 Meilės jūra, dosnioji Marija, kelias tarp žmogiškųjų likimo kelių. Tu, kartu su mumis einanti piligrime, paduok Savo gerą ir brangią ranką. Dieviškoji nuotaka, galingoji Karaliene, Tu, kuri esi Šviesos Motina ir Valdovė, šios nakties tamsiame kelyje eik šalia manęs. Sūnaus dukra, aukščiausioji būtybe, Tavyje atsiskleidžia tave mylinti paslaptis. Tu, Beribės Begalybės valdove, atleisk šiems Tavo paklydusiems vaikams. O Pavasari, kuriame pražysta šio pasaulio ir visos kūrinijos paslaptis. Tu, kuri davei gyvenimą Gyvenimui, suteik naujos jėgos sužeistai širdžiai. Gražuole, gražesne už patį rytą, vedi mus į savo namus. O, Valdove, tarp šių sienų galėsiu pailsėti. Ir pavogti šypseną iš tavo akių. Moterie, moteriškiausia iš visų moterų, leisk man matyti tą atgimusį veidą, tikėjimą ir viltį, To, kuris gyvena ir miršta, esantį Jėzų, Tavo meilės vaisių.	
 
-0	
+17	
 
 Mare di grazia, Maria generosa
 Via tra le vie degli umani destini.
@@ -2314,7 +2314,7 @@ marija, marija
 
 	
 
-0	
+17	
 
 Marija, Marija, skaisčiausia lelija,
 Tu švieti aukštai danguje.
@@ -2361,7 +2361,7 @@ musu meiles giesmes
 
 	
 
-0	
+18	
 
 Mūsų meilės giesmės skamba plačiai,
 Mūsų širdys plyšta, trokšta išlėkt,
@@ -2398,7 +2398,7 @@ nitida stella
 
 O ryškioji žvaigžde, dosnioji mergele, gražiausioji tarp gėlių; o gailestingoji Motina, Mergele Marija, melski už mus. Išganytojau Jėzau, pamilęs pasaulį, gražiausiasis tarp gėlių, gerasis Jėzau, Marijos sūnau meldžiame, išklausyk mus. O dangaus Karaliene, Dievo Mergele, gražiausioji tarp gėlių; o gailestingoji Motina, Mergele Marija, melski už mus.	
 
-0	
+18	
 
 Nitida stella, alma puella,
 Tu es florum flos
@@ -2479,7 +2479,7 @@ non nobis
 
 Ne mums, Viešpatie, garbė, bet Tavo vardą šloviname.	
 
-0	
+18	
 
 Non nobis Domine, Domine,
 Non nobis Domine,
@@ -2500,7 +2500,7 @@ o skaisciausia, o graziausia rojaus lelija
 
 	
 
-0	
+18	
 
 O skaisčiausia, o gražiausia Rojaus Lelija,
 Dievo duota mums vaduoti Motin Marija
@@ -2559,7 +2559,7 @@ o, ateik
 
 	
 
-0	
+19	
 
 O ateik, pripildyk šią šventovę,
 Pripildyk šią šventovę
@@ -2596,7 +2596,7 @@ ora so
 
 Dabar žinau, kad Jo meilė yra didi, kad Jis mane mylės per amžius, ir žinau, kad Jis išliks ištikimas ir seks mane, kokiu keliu bepasukčiau. Šviesa mano žingsniams bus mano Viešpats. Jis mane užtikrina, kad nėra vargo ir skausmo be vilties, dėl to aš Jį seku, Jis yra mano Viešpats.	
 
-0	
+19	
 
 Ora so che il suo amore è grande,
 che lui m’amerà e mi amerà per sempre,
@@ -2635,7 +2635,7 @@ paprasta sirdis
 
 	
 
-0	
+19	
 
 Paprasta širdis – išminties šaltinis.
 Jėzau, dovanok širdį man tyrą.
@@ -2654,7 +2654,7 @@ pas mano teva duonos apsciai
 
 	
 
-0	
+19	
 
 Pas mano Tėvą duonos apsčiai
 Aš kelsiuos eisiu pas Jį.
@@ -2689,7 +2689,7 @@ per jo krauja
 
 	
 
-0	
+19	
 
 Per Jo kraują ateiname
 Pas Tą, kuris tvėrė žemę ir dangų.
@@ -2732,7 +2732,7 @@ preghiera a maria
 
 Marija, kuri tyloje priėmei Jo mums siųstą žodį, Marija, kuri buvai tokia supratinga priešais Tavo Viešpatį. Marija, kuri švelniai nešei begalinę meilės dovaną. Marija, Motina, nuolankiai kentusi Jo neteisingą skausmą, Marija, kuri dabar gyveni šlovėje kartu su savo Viešpačiu, padėk mums priimti Tavo Sūnų, dabar gyvenantį mumyse.	
 
-0	
+19	
 
 Maria, tu che hai atteso nel silenzio
 La sua Parola per noi,
@@ -2791,7 +2791,7 @@ prendi pure la mia vita
 
 Kaip malonu, o Gelbėtojau, Tau tarnauti ir atiduoti su meile šią širdį Tau. Imki mano gyvenimą, aš Tau jį atiduodu. Savo malone tu mane gausiai apdovanojai, aš gyvenu tikėjimu. Tu atidavei su meile savo gyvenimą, kad išgelbėtum mane; padaryk taip, kad galėčiau visą save atiduoti Tau, Viešpatie. Padaryk taip, kad aš visada nukreipčiau savo žvilgsnį tik į Tave. Kad aš tarnaučiau Tau kiekvieną akimirką, o Dieve, nuolatos tikėdamas Tavimi.	
 
-0	
+20	
 
 Quanto è dolce, o Salvatore, di servire a Te,
 ed offrire con amore questo cuore a Te.
@@ -2834,7 +2834,7 @@ prima che sorga l‘alba
 
 Prieš auštant budime laukdami, tyli tai, kas yra sukurta, ir tyloje dainuoja paslaptis. Mūsų žvilgsnis ieško veido naktyje, širdyje į Dievą kyla skaidriausias troškimas. Ir kai pasitraukia lengvas gimstančios šviesos šešėlis, gimsta dienos, kuri nemiršta, viltis. Greitai dangaus aušra mus užlies šviesa, kad tavo gailestingumas, Tėve, mums duotų gyvenimą. Ir ši nauja diena, kurią mums atveria aušra, paskleisk po visą pasaulį tavojo Sūnaus karalystę. Tau, Šventasis Tėve, tavo vieninteliam Žodžiui, begalinei Meilei tebūna garbė visuomet. Amen.	
 
-0	
+20	
 
 Prima che sorga l'alba vegliamo nell'attesa:
 tace il creato e canta nel silenzio il mistero.
@@ -2893,7 +2893,7 @@ quando uno ha il cuore buono
 
 Kai turi gerą širdį, nieko niekada nebijai, džiaugiesi kiekvienu dalyku, nori tik mylėti. Kiek kartų aš šaukiau tave vardu, kiek kartų tavęs ieškojau, bet tu bėgi ir slepiesi, tikrai norėčiau žinoti kodėl. Netrukus nusileido naktis, išgirdau tavąjį balsą šaukiant; aš tau sakau: grįžk namo, mano meilė didesnė už jūrą. Tu išgirdai šaukiant tavąjį vardą, niekada daugiau negali jo pamiršti. Neapsimesk kurčiu, man gali atsakyti tik tu.	
 
-0	
+21	
 
 Quando uno ha il cuore buono
 non ha più paura di niente,
@@ -2952,7 +2952,7 @@ qui presso a te, signor
 
 Čia, šalia Tavęs, Viešpatie, noriu pasilikti! Išklausyk mano širdies šauksmą, Dieve! Tamsi naktis apima išsigandusią širdį, visuomet palaikyk mano tikėjimą. Niekas nemato mano skausmo, tik Tu jį matai, Dieve! O gyvoji Duona, tik Tu gali man suteikti ramybę: ir ramybė ateina pas mane, čia, šalia Tavęs.	
 
-0	
+21	
 
 Qui presso a Te, Signor, restar vogl'io!
 È il grido del mio cuor, l'ascolta, o Dio!
@@ -2983,7 +2983,7 @@ rasokit, dangus
 
 	
 
-0	
+21	
 
 Rasokit, dangūs, iš savų aukštybių.
 Debesys lykit lietumi teisybės!
@@ -3042,7 +3042,7 @@ regina coeli
 
 Dangaus Karaliene, džiūgauki, aleliuja. Nes Tas, kurį turėjai garbės nešioti, prisikėlė, kaip buvo sakęs. Melski už mus Dievą, aleliuja!	
 
-0	
+21	
 
 Regina coeli, laetare, alleluia.
 Quia quem meruisti portare, alleluia.
@@ -3065,7 +3065,7 @@ reina de la paz
 
 Taikos karaliene, Taikos karaliene. Mano širdis sužeista: nešu ją Tau, atiduodu ją Tau. Skaisčioji Motina maldauju tave, leisk, kad mano akys į Tave žiūrėtų, Taikos Karaliene, meldžiu Tave, suteik viltį mano skausmui. Meilės Motina, melas mane žlugdo. Ieškau Tavo paguodos: tik šalia Tavęs man gera, o dangus vėl tampa žydras. Meilės Motina meldžiu Tave, suteik viltį mano skausmui. Šviesos Karaliene, Gyvasis vilties šaltini, Švelni šviesele, gailestingoji Motina, mūsų tauta pasitiki Tavim. Balta šviesa, kuris mus vedi ir apšvieti mūsų kelius, Šviesos Karaliene giedu Tau, ramybė tam, kuris pasikliauja Tavim.	
 
-0	
+22	
 
 Reina de la Paz, Reina de la Paz,
 tengo el corazon herido:
@@ -3136,7 +3136,7 @@ ryto maldoj
 
 	
 
-0	
+22	
 
 Dieve, tarė lakštingala ryto maldoj, ryto maldoj.
 Širdį Tu vienas aukštyn keli, tarė žiedai, tarė žiedai.
@@ -3175,7 +3175,7 @@ romaria
 
 Vienišo, pasiklydusio kaip aš žmogaus likimas yra iš svajonių ir dulkių, iš laso kilpų, varganų šventiškų kelnių ir liemenių, šio gyvenimo, kęsto vienatvėje.Mano tėvas buvo valstietis, mano motina – vienatvė, mano broliai išsibarstė ieškodami nuotykių. Išsiskyriau, žaidžiau, investavau, paskui palikau. Ar sėkmė yra, nežinau, niekad jos nemačiau. Vis dėlto man pasakė ateiti čia, į piligriminę kelionę, pasimelsti, paprašyti tavęs ramybės mano nesėkmėms. Bet kadangi nemoku melstis, atėjau čia tik pažiūrėti į tave. Esu valstietis, Mergele Apsireiškusioji, apšviesk tamsią kasyklą ir suteik pagrindą mano gyvenimui.	
 
-0	
+22	
 
 É de sonho e de pó
 o destino de um só
@@ -3252,7 +3252,7 @@ salve rainha
 
 Sveika Karaliene, Dievo Motina, tu esi, mūsų motina, mūsų švelnumas, mūsų šviesa, saldžioji Margele Marija. Mes, ištremtieji vaikai, tavęs šaukiamės ir į tave gręžiame savo pasitikintį žvilgsnį. Kreipk į mus, o Motina, tavo mylintį veidą, duok mums tavo Jėzų, o Motina, kai ateis naktis. Sveika Karaliene, Dievo Motina, esi krikščioniui pagalba.	
 
-0	
+23	
 
 Salve Rainha mãe de Deus,
 És Senhora nossa mãe,
@@ -3307,7 +3307,7 @@ salve regina
 
 Sveika, Karaliene, gailestingoji Motina, mūsų gyvybe, paguoda ir viltie, sveika! Tavęs šaukiamės ištremtieji Ievos vaikai, Tavęs ilgimės, verkdami ir vaitodami šiame ašarų klonyje. Todėl Tu, mūsų Užtarėja, savo gailestingas akis į mus atkreipki ir Jėzų. Garbingą mylimąjį Sūnų, mums po šios tremties parodyk. O geroji, malonioji, mieliausioji Mergele Marija!	
 
-0	
+23	
 
 Salve, Regina, mater misericordiae:
 Vita, dulcedo, et spes nostra, salve.
@@ -3348,13 +3348,72 @@ virgo maria.
 
 		
 
+Sou feliz Senhor	
+
+sou feliz senhor	
+
+Esu laimingas, Viešpatie, nes Tu keliauji su manimi: einame vienas šalia kito, Tu esi mano geriausias draugas. Noriu turėti savo akyse Tavo žvilgsnio šviesą, noriu savojoje rankoje turėti Tavąją, kad mane vestum. Taip, kaip danguje kiekvieną dieną šviečia saulė, noriu, kad mano lūpos spindėtų džiaugsminga šypsena. Kaip greitas vėjas prabėga gyvenimo laikas, noriu visada savyje turėti Tavo palankumo malonę.	
+
+0	
+
+Sou feliz Senhor,
+porque tu vais comigo:
+vamos lado a lado,
+es meu melhor amigo. (2)
+
+
+Quero ter nos meus olhos
+a luz do teu olhar,
+quero na minha mão
+tua mão a me guiar.
+
+
+Como brilha no ceu
+o sol de cada dia,
+quero brilhem meus labios
+com sorrisos de alegria.
+
+
+Como vento veloz
+o tiempo da vida passa,
+quiero ter sempre em mim
+o favor da tua graça.
+
+
+	
+sou feliz senhor,
+porque tu vais comigo:
+vamos lado a lado,
+es meu melhor amigo. (2)
+
+
+quero ter nos meus olhos
+a luz do teu olhar,
+quero na minha mão
+tua mão a me guiar.
+
+
+como brilha no ceu
+o sol de cada dia,
+quero brilhem meus labios
+com sorrisos de alegria.
+
+
+como vento veloz
+o tiempo da vida passa,
+quiero ter sempre em mim
+o favor da tua graça.
+
+
+		
+
 Sveika, o Marija	
 
 sveika, o marija	
 
 	
 
-0	
+24	
 
 Sveika, o Marija, malonės pilna!(2k.)
 Mes tau norim paaukoti savo darbus ir mintis,
@@ -3387,7 +3446,7 @@ teik meile, stiprybe
 
 	
 
-0	
+24	
 
 Teik meilę, stiprybę, pasilik su mumis.
 
@@ -3416,7 +3475,7 @@ toda la vita
 
 Šiandien negalima tylėti, daina tiesoje tampa laisva. Taip didinga tai, kas mums atsitiko, kas atnaujino mūsų širdį. Tai ugnis, kuri uždega kraują, tai šviesa, kurios ieško mūsų akys; tiesoje gimsta laisvė, kuri kuria naują gyvenimą. Visas gyvenimas skelbia tiesą, kad Jo esatis yra mumyse, bendrystės stebukle, vienintelėje išsilaisvinimo formoje. Širdis nesusitaiko su mirusiais begalybės šauksmais, širdis trokšta amžinybės, kad skelbtų ją savo plakimu.	
 
-0	
+24	
 
 Hoy la voz no se puede callar
 se hace libre el canto en la verdad
@@ -3475,7 +3534,7 @@ tu esi, viespatie, man
 
 	
 
-0	
+24	
 
 Tu esi, Viešpatie, man
 Atgaiva ir stiprybė.
@@ -3522,7 +3581,7 @@ tu mi guardi dalla croce
 
 Šį vakarą, o mano Viešpatie, žvelgi į mane nuo kryžiaus, o Tavo balsas tuo metu man šnabžda: „Atiduok man savo širdį!“. Ši širdis - visuomet nedėkinga, o, kad ji suprastų Tavo skausmą, bet iš nuodėmingo miego Tu pažadini netgi meilę. O, kenčianti Motina, liūdnai praleidau savo dienas klysdamas. Geroji Motina, padaryk taip, jog su ašaromis grįžčiau pas Gelbėtoją.	
 
-0	
+24	
 
 Tu mi guardi dalla croce
 Questa sera, mio Signor,
@@ -3569,7 +3628,7 @@ tu sei un dio fedele
 
 Viešpatie, tau giedame šlovinančias giesmes, o Dieve, dėkojame už beribį tavo gerumą. Tu esi amžinai ištikimas Dievas. Viešpatie, tavo šviesa nukreipia žingsnius, spinduliuoja prieš mūsų akis amžinąją tiesą. Savo meilės dovana, o Dieve, atnaujink gyvenimą, sustiprink mūsų širdį, tikroji laisve. Mūsų gyvenimas tebūna tavo meilės ženklas, tesuklesti visam pasauly amžinas gailestingumas.	
 
-0	
+25	
 
 Signore, a te cantiamo un cantico di lode,
 O Dio, noi ringraziamo l’immensa tua bontà.
@@ -3618,7 +3677,7 @@ viespatie, ateik
 
 	
 
-0	
+25	
 
 Viešpatie, ateik, kaip bekraštė jūra,
 Mus užliek, malone savo,
@@ -3639,7 +3698,7 @@ viespatie, meile tavoji sviecia
 
 	
 
-0	
+25	
 
 Viešpatie, meilė Tavoji šviečia,
 Dega ugnim tamsoje ir spindi.
@@ -3682,7 +3741,7 @@ viespatie, tik tu, zinai, kas as esu
 
 	
 
-0	
+25	
 
 Viešpatie, tik Tu, žinai, kas aš esu,
 Jėzau vesk mane, neleisk suklupt.
@@ -3717,7 +3776,7 @@ viespaties kunas
 
 	
 
-0	
+25	
 
 Viešpaties Kūnas, Jėzaus Kristaus Kraujas
 Atneša išganymą ir perkeičia tave.
@@ -3744,7 +3803,7 @@ viespati as garbinu
 
 	
 
-0	
+26	
 
 Viešpatį aš garbinu,
 Man patinka Jam giedoti
@@ -3779,7 +3838,7 @@ viespats pakrantej stovejo
 
 	
 
-0	
+26	
 
 Viešpats pakrantėj stovėjo,
 Mokinių sau ieškodamas žiūrėjo,
@@ -3842,7 +3901,7 @@ zeme miega
 
 	
 
-0	
+26	
 
 Žemė miega jau nutilus,
      ak, ramybe tu nakties,
@@ -3913,7 +3972,7 @@ zinau as skaiscia roze
 
 	
 
-0	
+26	
 
 Žinau aš skaisčią rožę
 Švelnios trapios šaknies,
@@ -3960,7 +4019,7 @@ a new creation
 
 Ką galiu vadinti savo namais? Kas yra mano šeima? Iš kur aš atėjau? Kokia mano istorija? Kažkas labai seniai, ieškodamas laisvės, perplaukė jūrą, palikęs savo gimtus namus. Kai įžengė į laivą, ar jis buvo tikras, ko jis siekė ir ko ieškojo? Ar ilgėjosi namų tolimoje šalyje? Ar užsimiršo, kai pasikeitė jo vardas? Ar iškeitė savo istoriją į naujo pasaulio iliuziją, kuri egzistavo tik jo vaizduotėje? Ar kada matei mūsų laisvoje šalyje tobulą planą, žmogų, iškilusį savo jėgomis? Taigi, Džordžai Vašingtonai, aš atradau laisvę, kurios Abraomas Linkolnas man taip ir nedavė. Prašau, pasakyki savo našlaičiui sūnui, kad pagaliau atradau laisvę, didesnę, nei jis įsivaizdavo savo Amerikietiškoje svajonėje. Gintarinės javų bangos jau niekada nebebus tokios pat. Nes Dievas atskleidė savo šlovę per žmogaus veidą. Tai nutiko labai seniai, ir mūsų draugystė mums rodo, kaip šis nenumatytas įvykis, vis dar vyksta, čia ir dabar. Mūsų suskaldytoje istorijoje yra nauja realybė, apie kurią net svajoti negalėjai. Ateik ir dalinkis savo laisve, sek paskui mus ir tu pamatysi, naują tautą, naują pasaulį	
 
-0	
+29	
 
 What can I call my home?
 Who is my family?
@@ -4087,7 +4146,7 @@ aconteceu
 
 Atsitiko. Tai atsitiko, kai niekas nesitikėjo, atsitiko neskambant varpams, atsitiko kitaip, nei paprastai pasakojama romanuose. Atsitiko be žvaigždžių danguje, atsitiko be mėnulio spindulių. Mūsų meilė atėjo labai švelniai, pasklido labai lėtai ir užtruko taip ilgai, kad pasiliko. Atsitiko niekam nedėkojant, rožėms nežydint,be garbinimo giesmių, be jokios dramos. Tik laikas tam paruošė guolį, kaip kiekvienoje didelėje meilėje.	
 
-0	
+29	
 
 Aconteceu quando a gente não esperava,
 aconteceu sem um sino pra tocar,
@@ -4142,7 +4201,7 @@ alecrim
 
 Gėlele, aukso spalvos gėlele, gimei laukuose nepasėta. Mano meilė man pasakė, kad lauko gėlė yra ši auksinė gėlelė.	
 
-0	
+30	
 
 Alecrim, alecrim dourado
 que nasceu no campo sem ser semeado.
@@ -4167,7 +4226,7 @@ all my trials
 
 Visi mano išbandymai, Viešpatie, greitai baigsis. Man buvo duota maža knygutė ir kiekvienas žodis kalbėjo apie laisvę... Jeigu religija būtų dalykas, nusiperkamas už pinigus, turtuolis gyventų, o vargšas mirtų... Rojuje yra medis, piligrimų vadinamas gyvenimo medžiu...	
 
-0	
+30	
 
 All my trials, Lord,
 Soon be over.
@@ -4222,7 +4281,7 @@ all night all day
 
 Visą dieną, visą naktį Viešpaties angelai mane globoja, mano Viešpatie! Jeigu mirsiu prieš nubusdamas –meldžiu Dievą pasiimti mano sielą. Jei gyvensiu dar vieną dieną - meldžiu Viešpaties nurodyti man kelią. Angelai mane globoja!	
 
-0	
+30	
 
 All night, all day,
 Oh Lordy angels watching over me my Lord!
@@ -4275,13 +4334,161 @@ angels watching over me!
 
 		
 
+Along the Jordan river	
+
+along the jordan river	
+
+Prie Jordano upės vaikšto grupė vyrų. Aš nematau jų veidų ir negirdžiu jų vardų, bet dar senaisiais laikais daug pranašų apie juos kalbėjo ir aš žinau, kad nueisiu pasižiūrėti. Prie Jordano upės yra žavingas Vyras. Žvelgiu Jam į akis, Jo vardas - Jėzus. Jis kalba apie Savo Tėvą, neįmanoma suprasti, bet aš žinau, kad turiu likti ir pamatyti. Giliai viduje ugnis degina mano sielą, sušildo mano širdį, naujam supratimui augant, be Jo aš nieko nebegaliu suprasti, giliai viduje aš žinau: Jis yra Viešpats. Savo miesto gatvėse susitikau grupę dirbančių vyrų. Aš visada pažinojau jų veidus ir tikrai žinau jų vardus, bet jų širdyse ir akyse nutiko kažkas naujo ir aš žinau, kad turiu likti ir pamatyti. Mano gyvenimo kelyje iškyla ir pradingsta daug klausimų, kartais jie mane pravirkdo, nes nežinau, kieno paklausti „kodėl?“, bet dabar susitikau gyvenimo Viešpatį, Jis tikrai gyvena tuose žmonėse ir aš žinau, kad turiu pasilikti ir dainuoti.	
+
+0	
+
+Along the Jordan river
+there's a group of walking man.
+I cannot see their faces
+and I cannot hear their names.
+But from back in ancient times
+many prophets have told of them
+and I know I will go and see.
+
+
+Along the Jordan river
+there's a fascinating Man.
+Now I can look at his eyes
+and Jesus is His name.
+He's telling of His Father,
+really you cannot understand,
+and I know I must stay and see.
+
+
+Deep inside a fire burns my soul
+warms my heart
+while a new awareness grows,
+without Him I can't understand
+the things anymore,
+deep inside I know He is the Lord.
+
+
+Along the streets of my city
+I met a group of working men.
+I've always know their faces
+and I surely know their names,
+but something new has happened
+in their hearts and in their eyes
+and I know I must stay and see.
+
+
+Along the paths of my life
+lots of questions come and go
+sometimes they made me cry
+'cause I didn't know who to ask "why?"
+but now I met the Lord of life,
+He lives strongly in these men,
+and I know I must stay and sing.
+
+
+	
+along the jordan river
+there's a group of walking man.
+i cannot see their faces
+and i cannot hear their names.
+but from back in ancient times
+many prophets have told of them
+and i know i will go and see.
+
+
+along the jordan river
+there's a fascinating man.
+now i can look at his eyes
+and jesus is his name.
+he's telling of his father,
+really you cannot understand,
+and i know i must stay and see.
+
+
+deep inside a fire burns my soul
+warms my heart
+while a new awareness grows,
+without him i can't understand
+the things anymore,
+deep inside i know he is the lord.
+
+
+along the streets of my city
+i met a group of working men.
+i've always know their faces
+and i surely know their names,
+but something new has happened
+in their hearts and in their eyes
+and i know i must stay and see.
+
+
+along the paths of my life
+lots of questions come and go
+sometimes they made me cry
+'cause i didn't know who to ask "why?"
+but now i met the lord of life,
+he lives strongly in these men,
+and i know i must stay and sing.
+
+
+		
+
+Amare ancora	
+
+amare ancora	
+
+O koks kartėlis, mano meile, matyti dalykus taip, kaip matau juos aš, ir net būti pamiršus, kad negimiau toks, kokiu noriu aš. Koks nusivylimas, vargše meile, gyventi su šia širdimi ir nenorėti nieko prarasti bei vis dar mylėti kaip myli kiti žmonės. Užtektų tiesiog vėl tapti vaikais ir prisiminti, kad viskas duoda, kad viskas nauja ir išlaisvinta!	
+
+0	
+
+Ma che amarezza, amore mio,
+veder le cose come vedo io
+e aver perfino dimenticato
+che non son nato come voglio io,
+come voglio io.
+
+
+Che delusione, povero amore,
+vivere la vita con questo cuore
+e non volere perdere niente
+e amare ancora come l'altra gente,
+come l'altra gente.
+
+
+Basterebbe soltanto ritornare bambini e ricordare...
+E ricordare che tutto è dato, che tutto è nuovo
+e liberato... e liberato!
+
+
+	
+ma che amarezza, amore mio,
+veder le cose come vedo io
+e aver perfino dimenticato
+che non son nato come voglio io,
+come voglio io.
+
+
+che delusione, povero amore,
+vivere la vita con questo cuore
+e non volere perdere niente
+e amare ancora come l'altra gente,
+come l'altra gente.
+
+
+basterebbe soltanto ritornare bambini e ricordare...
+e ricordare che tutto e dato, che tutto e nuovo
+e liberato... e liberato!
+
+
+		
+
 Ballata dell‘amore vero	
 
 ballata dell‘amore vero	
 
 Aš norėčiau tave mylėti, kaip myli Dievas, taip pat aistringai, taip pat stipriai, taip pat ištikimai, kaip aš negaliu. Manoji meilė maža kaip vaikas, vienas be motinos paklydęs sode. Aš norėčiau tave mylėti, kaip myli Dievas, taip pat aistringai, su tokiu pačiu tikėjimu, taip pat laisvai, kaip aš negaliu. Manoji meilė trapi kaip gėlė, ištroškusi lietaus, kuri miršta, jeigu nešviečia saulė. Aš myliu tave ir už tai dėkoju Dievui. Jis man duoda švelnumą, Jis man duoda jėgą. Jis man duoda laisvę, kurios aš neturiu.	
 
-0	
+32	
 
 Io vorrei volerti bene
 come ti ama Dio,
@@ -4364,7 +4571,7 @@ ballata dell‘uomo vecchio
 
 Liūdesiui, kuris manyje, meilei, kurios nėra, tūkstantis amžių. Skausmui, kurį tau suteikiu, tikėjimui, kurio neturiu, tūkstantis amžių. Aš jau senas, taip, senas, tu tai žinai, bet lieki čia. Norėčiau matyti Dievą, matyti Dievą, bet tai nėra įmanoma. Jo veidas kaip ir tavo, ir man baisu. Aš jau senas… Paklausyk manęs, dar pasilik čia, dar pakartok man savo žodžius. Pakartok man tą žodį, kurį pasakei man vieną dieną ir kuris mane išlaisvino. Norėčiau… Baimei, kuri manyje, meilei, kurios nėra, tūkstantis amžių. Blogiui, kurį pažįstu, tikėjimui, kurio neturiu, tūkstantis amžių. Aš jau senas, taip, senas, bet jeigu tu norėsi, išgelbėsi mane. Paklausyk…	
 
-0	
+32	
 
 La tristezza che c’è in me,
 l’amore che non c’è
@@ -4453,7 +4660,7 @@ both sides the tweed
 
 Kas tas pavasaris, dvelkiantis jazminais ir rožėmis? Kas ta vasara su savo palyda ar nepakartojamas ruduo tiems, kurie iškeitė savo laisvę į naudą? Leisk, kad meilė mūsų krašto šventosioms teisėms taptų meile mūsų tautai, leisk, kad draugystė ir garbė susivienytų ir pražystų abiejose Tweed krantuose. Joks švelnumas nesušildys jausmų, kuriuos užkietino korupcija ir kyšiai, ir saulės šviesa neapšvies tų, kam aptemo protas ir dora. Drąsieji teatskleidžia savo vertybes, turtams teikia paskutinę vietą, laikyk vargšais tuos, kurie vergauja, o turtingaisiais tuos, kurie drįsta būti laisvi.	
 
-0	
+33	
 
 What's the spring-breathing jasmine and rose ?
 What's the summer with all its gay train
@@ -4512,7 +4719,7 @@ bukim draugai
 
 	
 
-0	
+33	
 
 Ar tikrai tai tiesa – tavo širdis pykčio pilna.
 Argi gali taip būt – tu vėl verki vienumoje.
@@ -4573,7 +4780,7 @@ cambiar al hombre
 
 Pakeiskime žmogų, suteikime prasmę gyvenimui, pripažinkime savyje istoriją ir likimą, rizikuokime būti naujais žmonėmis. Tai neišvengiamas susitikimas, nuo kurio niekas negali pabėgti, tai atsakymas į klausimus tų, kurie ieško pačios giliausios realybės prasmės. Klausykite jūs, kurie to trokštate: viskas skelbia teisybę. Dievas pasirodo pasaulyje kasdieniniuose dalykuose. Į paslaptį įsiskverbiame mūsų aistringo ieškojimo ir mūsų santykio su sukurta realybe dėka. Duokite laiko šiai kelionei, nes laukti – tai ne tas pats, kas stovėti vietoje. Pasaulyje paprastieji yra patys tikriausi ženklai tos naujos realybės, kuri atveda į atgimimą. Rizikuojant yra įveikta tuštuma ir nugalėta baimė. Dievas mums atsiduoda ir mus pakeičia viduje.	
 
-0	
+33	
 
 Cambiar, cambiar al hombre,
 darle a la vida un sentido.
@@ -4634,7 +4841,7 @@ canzone degli occhi e del cuore
 
 Net jeigu vieną dieną, drauge mano, pamirščiau žodžius, vietą ir laiką, ar buvo naktis, ar švietė saulė, niekada negalėsiu pamiršti, ką sakė tavo akys. Taip skrisdama, skrosdama dangų maža širdis kilo tiesiai Didelės Širdies link; maža ir niekinga širdis kaip nesvetinga šalis skrido tiesiai į viršų, savo likimo link, ir jos sustabdyti negalėjo net gyvenimo ataskaitos, tie skaičiavimai, visuomet daromi be meilės. Aš kalbėjau greitai, kad nieko neliktų nepasakyta, kad nepalikčiau neišsakyto blogio ir proto mechanizmų; o tavo akys man sakė, kad man jau buvo atleista. O dabar grįžk pas tą, kurią pažįsti, kuri su tavimi viskuo dalijasi, stipriai apkabink savo vaikus, ir neslėpk savojo veido, nes iš akių supranti, kada gyvenimas prasideda iš naujo.	
 
-0	
+34	
 
 Anche se un giorno amico mio
 Dimenticassi le parole
@@ -4713,7 +4920,7 @@ canzone del melograno
 
 Mažame name, miesto širdyje, yra paslėptas sodas, kurio niekas net neįsivaizduoja, sode yra granatmedis, žydinčiomis šakomis, o sienos plyšiuose dygsta našlaitės... Pasakyk man, kur yra šie žydintys namai: visada ieškojau namų, kur galėčiau sugrįžti, pasakyk, kur jie, nes ir aš noriu ateiti, nepalik manęs vieno... Pabelsk į duris, mano motina tau atidarys, ji dar gražesnė, nei gali įsivaizduoti. Granatmedžio namuose visada šviečia saulė, o vakaro vėjas tau primena jūrą... Pasakyk man, kur yra tavo žydintys namai: visada ieškojau namų, kur galėčiau sugrįžti, pasakyk, kur jie, nes ir aš noriu ateiti, leisk man būti su tavimi... Sek paskui šviesą, ji tave atves, kur abejonė grįžta, klausia ir atgimsta širdis: sode yra tavęs laukiantis ir norintis tau kalbėti Dievas, gali atsisėsti prie pat prie pat ir klausyti...	
 
-0	
+35	
 
 In una piccola casa nel cuore della città
 c’è un giardino nascosto che nessuno si può
@@ -4790,7 +4997,7 @@ canzone dell’ideale (parsifal)
 
 Parsifali, Parsifali, nesustok, ir leisk, kad tik Idealo balsas visada tau rodytų kelią. Aš būsiu su tavimi, savo ranka prisilietęs prie tavo širdies, visada su tavimi, kaip vidinė ugnis, kuri negęsta. Nesustok tarp tų neūžaugų sielų, kurios tik mėgdžioja veiksmus, bet jų nesupranta. Nekilk į pilį teisuolių, kurie garbina saulę, nes ta saulė yra veidrodis tiems, kurie nenori savęs matyti. Parsifali, Parsifali, privalai kovoti, turi ieškoti Tvirtos Žemės tarp jūros bangų, o tokia sala yra: aš būsiu su tavimi, savo ranka prisilietęs prie tavo širdies, visada su tavimi, kaip vidinė ugnis, kuri negęsta. Visada žinojau, kad mane išduosi, tūkstantį kartų per dieną ir darkart tiek pat, bet tavo ieškančios akys yra akys to, kuris su nuostaba žvelgia į savo žaizdą, mano ranka stipresnė už blogį, didingesnė už dabartį. Parsifali, Parsifali, nesustok...	
 
-0	
+35	
 
 Parsifal, Parsifal non ti fermare
 e lascia sempre che sia
@@ -4861,7 +5068,7 @@ canzone di maria chiara
 
 Mano durys bus uždarytos turtuoliams ir stipruoliams, visiems tiems, kurie nemylėjo, tiems, kurie žaidė su mirtimi, pasiturintiems žmonėms, kurie ieško savo šlovės, visiems tiems, kurie nemylėjo ir istorijos didžiūnams. Jei netapsite kaip vaikai, niekuomet neįeisite [į dangaus karalystę]. Nėra vietos tam žmogui, kuris neparduoda savo namo, kad nusipirktų lauką, kuriame paslėpiau savo lobį, bet visiems alkstantiems, trokštantiems tiesos plačiai atvėriau savo duris ir paruošiau savo džiaugsmą. Tiems, kurie buvo persekiojami, tiems, kas verkė naktį, visiems tiems, kurie mylėjo, kurie prarado savo gyvenimą, mano namai bus atviri, mano stalas paruoštas visiems tiems, kurie mylėjo, kurie prarado savo gyvenimą.	
 
-0	
+36	
 
 La mia porta sarà chiusa per il ricco e per il forte,
 per tutti quelli che non hanno amato, per chi ha giocato con la morte,
@@ -4916,7 +5123,7 @@ canzone per te
 
 Ilga ši naktis, nuotykiai ir greitkelis nesibaigia niekad, galvoju apie viską, ką turėjau, galvoju apie viską, ką man duodi. Manęs jau nebegąsdina rūkas, įsivaizduoju užmigusius vaikus, ir šiąnakt grįšiu, būk rami, mus rytas pasitiks apsikabinusius. Galvoju apie visus sutiktus draugus, apie tuos, kurių mylėti nemokėjau, apie visas išdainuotas dainas ir apie tave, niekada nepavargstančią laukti. Gera nuvargti dirbant, tas džiaugsmas niekad nesibaigia, galvoju apie viską, ką man davei, galvoju apie viską, ką man duodi. Mano žingsniai tampa mintimis, o mintys tampa Kažkuo, tampa Tavimi, Tėve, didis ir geras, kuris viską pradėjai iš meilės. Neleisk, kad vieną dieną išeičiau, suteik man stiprybės visada kovoti, šitas kelias dar labai ilgas ir dar labai norisi dainuoti...	
 
-0	
+36	
 
 E’ lunga questa notte
 l’avventura e l’autostrada non finisce mai,
@@ -4999,7 +5206,7 @@ cry no more
 
 Nebeverk dėl to, ką padarei, nors nenorėjai, nebeverk dėl to, ko norėjai, bet nepadarei. Nebeverk dėl meilės, kuriai pasakei „ne”. Nebeverk: buvai vergas, o dabar esi sūnus. Sekei paskui nepažįstamąjį iki rojaus; bet balsas iš namų tave apgaubė ir pasakė, kad priklausai. Nebeverk, nes praeivis tavęs nepaliko. Nebeverk, nes jis tave pasiėmė į savo namus. Sekei iliuzijomis ir atsiradai tarp kiaulių, bet tėvo balsas tave pažadino ir pasakė: „tu esi mano“. Nebeverk, tavęs laukia šventė. Nebeverk, jis priėmė tave namo.	
 
-0	
+37	
 
 Cry no more, for what you did and didn‘t want to,
 Cry no more for the want that went undone.
@@ -5052,7 +5259,7 @@ dicitencello vuje
 
 Pasakykite savo draugei, kad aš nebeužmiegu ir praradau vaizduotę. Aš nuolat galvoju apie ją, ji – visas mano gyvenimas. Aš norėčiau jai tai pasakyti, bet negaliu. Myliu ją, labai stipriai myliu. Pasakykite jai, kad niekada jos neužmiršiu. Ta meilė stipresnė už grandinę, kuri kankina mano sielą ir neleidžia man gyventi.	
 
-0	
+37	
 
 Dicitencello a 'sta cumpagna vosta
 ch'aggio perduto 'o suonno e 'a fantasia,
@@ -5143,7 +5350,7 @@ down to the river to pray
 
 Kai leidausi prie upės melstis, mokydamasis apie senąjį gerąjį kelią ir tą, kuris dėvės žvaigždėtą karūną, Gerasis Viešpatie, parodyk man kelią! O sesės, leiskimės, leiskimės, eikime žemyn, o sesės, leiskimės, leiskimės prie upės melstis. Kai leidausi prie upės melstis, mokydamasis apie senąjį gerąjį kelią ir tą, kuris turėtų dėvėti mantiją ir karūną, Gerasis Viešpatie, parodyk man kelią! O broli, leiskimės...	
 
-0	
+38	
 
 As I went down in the river to pray
 Studying about that good old way
@@ -5202,7 +5409,7 @@ e se domani
 
 O jei rytoj aš nebegalėčiau tavęs vėl pamatyti? Tai, ko kitiems užtenka, man nesuteiks net šešėlio prarastos laimės. Ir jei rytoj netikėtai prarasčiau tave, prarasčiau visą pasaulį, o ne tik tave.	
 
-0	
+38	
 
 E se domani io non potessi
 Rivedere te?
@@ -5245,7 +5452,7 @@ errore di prospettiva
 
 Kai viską matysime, kai viskas bus aišku, pagalvok, kiek bus juoko ir kiek nugalėsime baimių. Su muzika viduje, su širdimi pilna giedro ryto džiaugsmo. Bet, žinai, dėl vieno dalyko niekada negalėsiu juoktis: dėl viso blogio, kurį tau padariau. Jeigu ko trokštu, jei yra kas vertingo, tai - gyventi tavo namuose, visa kita banalu. Ir kalbėti su tavimi apie tai, kai dar buvau mažas ir į visus dalykus žvelgdavau vaiko akimis. Tu prisimeni tą kartą, kai buvau piktas, bet galvojau, kad tai meilė, norėjau būti teisingas.	
 
-0	
+38	
 
 Quando noi vedremo tutto,
 Quando tutto sarà chiaro,
@@ -5328,7 +5535,7 @@ favola
 
 Nebijok, mano mažasis sūnau, sunkesnis kelias tave ten nuves; todėl palik takelį, leiskis laukais ir eik per tą mišką, nebijok, nes yra Kitas su tavimi. Kitas yra su tavim ir tavęs niekada nepaliks, nebijok, leiskis laukais ir eik... Kai sutiksi vilką ar lapę ir liūtą, neišsigąsk ir nepasimesk: jie yra iš kitos pasakos, kuri baigiasi blogai; jie tavęs nepalies, neapsigręžk, nes Kitas yra su tavimi. Nepasiduok nakties atnešamai tamsai, dabar yra naktis, bet diena dar aties... O kai prieisi paskutinį tiltą, laikas bus užnugaryje, o gyvenimas – prieš akis, didesnė ranka tave pakels: atsiduok jai ir nebijok, nes Kitas yra su tavimi.	
 
-0	
+39	
 
 Non avere paura, piccolo figlio mio,
 ma è la strada più dura che ti porterà là;
@@ -5399,7 +5606,7 @@ fica mal com deus
 
 Blogai su Dievu tam, kuris nemoka duoti, blogai su manim tam, kuris nemoka mylėti. Einu keliu kaip tas, kuris nori ateiti. Kas nori eiti su manimi, turi ateiti iš meilės, turi turėti, kad duotų.	
 
-0	
+39	
 
 Fica mal com Deus
 Quem não sabe dar
@@ -5450,7 +5657,7 @@ foi deus
 
 Dievas suteikė akims šviesą, rožėms aromatą, saulei auksą, o mėnulio šviesai sidabrą. Dievas man davė rožinį, kurį kalbu ir giedodamas verkiu. Ir padarė žvaigždes danguje, sukūrė begalinę erdvę, juodas kregždes, ir suteikė šį balsą man. Kai dainuoju, nežinau, ką dainuoju; nuotykio, liūdesio, švelnumo ir kartais meilės mišinį. Tačiau žinau, kad dainuodamas jaučiu taip pat, kaip kad veide spindintis kartėlis ir rauda leidžia jaustis geriau. Dievas suteikė vėjui balsą, dangui šviesą ir jūros bangoms mėlynumą. Jis sukūrė lakštingalą poetą, pasėjo lauke gėlelę, davė pavasariui gėles ir man duoda šį balsą.	
 
-0	
+40	
 
 Não sei, não sabe ninguém
 Por que canto o fado neste tom magoado
@@ -5557,7 +5764,7 @@ forever young
 
 Tegu Dievas tave visada laimina ir saugo, teišsipildo visi tavo troškimai, tegu visada darysi gera kitiems ir leisi kitiems daryti gera tau. Tepasidarysi kopėčias iki žvaigždžių ir užlipsi ant kiekvieno laiptelio. Teliksi amžinai jaunas. Teužaugsi doras, teisus, te visada pažinsi tiesą, ir matysi tave supančią šviesą. Te visada būsi drąsus, sąžiningas ir stiprus. Tavo širdis visada tebūna pilna džiaugsmo. Te tavo dainos visada skambės. Te išliksi amžinai jaunas.	
 
-0	
+40	
 
 May God bless you and keep you always,
 may your wishes all come true,
@@ -5630,7 +5837,7 @@ gyvenimas
 
 	
 
-0	
+41	
 
 Gyvenimas – kaip juokdarys
 Prajuokina dažnai lyg vaikas.
@@ -5689,7 +5896,7 @@ go, tell it on the mountains
 
 Kai aš buvau nusivylęs, ieškojau tiesos naktį ir dieną. Paprašiau Dievo man padėti ir jis parodė man kelią. Eik, pranešk apie tai kalnuose, kalvose – visur. Eik, pranešk apie tai kalnuose: Jėzus Kristus gimė. Jis mane padarė savo sargybiniu prie miesto sienos, kadangi aš – krikščionis, esu labiausiai nusižeminęs iš visų.	
 
-0	
+41	
 
 When I was a leaner
 I sought truth night and day.
@@ -5736,7 +5943,7 @@ gracias a la vida
 
 Dėkoju gyvenimui, kuris man davė tiek daug. Jis davė man akis, ir kai aš atsimerkiu puikiai atskiriu juodą nuo balto; ir aukštame danguje – jo žvaigždėtą gelmę ir minioje - mylimą žmogų. Dėkoju gyvenimui, kuris man davė tiek daug. Davė man juoką ir ašaras. Taip aš atskiriu džiaugsmą ir skausmą - du dalykus, kurie sudaro mano dainą. Ir tavo daina yra ta pati daina. Ir visų daina yra ta pati mano daina.	
 
-0	
+41	
 
 Gracias a la Vida que me ha dado tanto
 me dio dos luceros que cuando los abro
@@ -5833,7 +6040,7 @@ ho un amico
 
 Turiu labai gerą draugą; tikresnių ir nėra; man padovanojo visą pasaulį, jis galingesnis net už karalių. Jei aš drebu, Jis jaučiasi saugus ir niekada nebijo; jis yra pats nuoširdžiausias draugas, ir jis su tavimi, kad ir kur tu beeitum. Tačiau kartais aš nuo jo pabėgu ir noriu būti nepriklausomas, bet mano pasaulis greitai sugriūna, nes jis yra stipresnis už mane. Anksčiau aš tikėjau, kad galėjau mylėti savo jėgomis; negalvojau ir nežinojau, jog to nesugeba net karalius. Tačiau kartais aš nuo jo pabėgu ir noriu būti nepriklausomas, bet mano pasaulis greitai sugriūna, nes jis yra stipresnis už mane.	
 
-0	
+42	
 
 Ho un amico grande, grande
 di più giusti non ce n’è;
@@ -5904,7 +6111,7 @@ hoy arriesgare
 
 Šiandien dainuosiu, dainuosiu savo gyvenimą ar savo mirtį. Šiandien rizikuosiu, rizikuosiu visu savo likimu. Šiandien dainuosiu, dainuosiu savo gyvenimą ar savo mirtį. Šiandien paskelbsiu, paskelbsiu, kad Jis ir toliau yra. Egzistencijos drama ieško savo tiesos. Nori nuslėpti Jo Buvimą, pamiršti Jo Įsikūnijimą. Mano valia kovos, kad išsaugočiau Jo teisingumą, mano gyvenimas priklauso Jam. Niekas man to nesutrukdys. Aš pažinau šaltinį, kuris išgelbsti žmogų nuo blogio, mano kūnas garsiai šaukia ir mano kraujas verda. Mano naujas įstatymas yra istorija, kuria pradėjau sekti, didelis yra Jo gailestingumas, net jeigu aš jo nenusipelniau.	
 
-0	
+42	
 
 Hoy cantarè, cantarè
 mi vida o mi muerte.
@@ -5975,7 +6182,7 @@ hombres nuevos
 
 Duok mums didelę širdį mylėti. Duok mums stiprią širdį kovoti. Nauji žmonės – istorijos kūrėjai, naujos žmonijos statytojai, nauji žmonės, kurie gyvena ir rizikuoja ilgame kelyje. Nauji žmonės kovoja turėdami viltį, žengia ištroškę tiesos. Nauji žmonės nekaustomi grandinių, laisvi žmonės, reikalaujantys laisvės. Nauji žmonės, kurių meilė beribė, nepaisanti rasės nei šalies. Nauji žmonės šalia vargšų, su kuriais dalinasi pastoge ir duona.	
 
-0	
+43	
 
 Danos un corazon grande para amar.
 Danos un corazon fuerte para luchar.
@@ -6030,7 +6237,7 @@ i wonder
 
 Vaikščiodamas po dangumi stebiuosi, kad Išgelbėtojas Jėzus atėjo mirti dėl varganų alkanų žmonių kaip tu ir kaip aš. Kai Marija pagimdė Jėzų tvartelyje kartu su išminčiais, ūkininkais, piemenimis ir kitais, iš aukšto Dievo dangaus sklido žvaigždės šviesa ir jiems priminė seniai duotą pažadą. Jeigu Jėzus būtų norėjęs bet kokio menko dalyko - žvaigždės danguje ar skrendančio paukščio, ar kad visi Dievo angelai danguje Jam giedotų - Jis tikrai būtų tai turėjęs, nes Jis yra Karalius.	
 
-0	
+43	
 
 I wonder as I wonder out under the sky,
 That Jesus the Saviour should come for to die,
@@ -6077,7 +6284,7 @@ il giovane ricco
 
 Jis kalbėjo sėdėdamas ant laiptų prie to balto namo apsuptas vaikų. Visi sėdėjo, Petras ieškojo, ko atsigerti; buvo ir kareivių; man gerai nesimatė. Eik, parduok viską, ką turi, ir eik su manim. Aš po truputį prisiartinau, praėjau į priekį, laikiau nuleidęs galvą ir žvilgsnį įsmeigęs į laiptus. Jis kalbėjo toliau: atrodė, kad kalba man. Žiūrėjau į žemę ir savęs klausiau kodėl. Girdėjau tuos žodžius, bet nenorėjau suprasti; paskui mane patraukė minia ir aš nenorėjau Juo sekti.	
 
-0	
+44	
 
 Lui stava parlando,
 Seduto sopra i gradini
@@ -6156,7 +6363,7 @@ il mio volto
 
 Mano Dieve, žvelgiu į save ir suprantu, kad neturiu veido; žiūriu į save ir matau begalinę tamsą. Tik tuomet, kai pastebiu, kad tu esi, kaip aidą išgirstu savo balsą ir atgimstu kaip atminimas. Kodėl drebi, mano širdie? Tu nesi viena; nemoki mylėti, bet esi mylima; nemoki kurti, bet esi sukurta. Kaip žvaigždėms aukštai danguje, leisk ir man eiti per Būtį, leisk man augti ir keistis, kaip šviesai, kuri stiprėja ir keičiasi dieną ir naktį. O mano sielą padaryk kaip sniegą, kuris nusispalvina kaip kalnų viršūnės, apšviestos tavo meilės saulės.	
 
-0	
+44	
 
 Mio Dio, mi guardo ed ecco scopro
 che non ho volto;
@@ -6221,7 +6428,7 @@ il popolo canta
 
 Dainius pradeda pasakoti, audėjas pradeda austi, kalkes ir plytas neša mūrininkas, žengia žmogus, kai gerai žino, kur eiti. Liaudis dainuoja savo laisvę. Dainius pradeda pasakoti, audėjas pradeda austi, jaučiu gyvenimą, kuris sprogsta širdyje; žengia žmogus, kai gerai žino, kur eiti.	
 
-0	
+45	
 
 Il cantastorie ha cominciato a raccontare;
 il tessitore ha cominciato a dipanare;
@@ -6262,7 +6469,7 @@ il viaggio
 
 Leisk man dar eiti, praradau tiek laiko ir netikėjau, kad kelionė bus tokia. Kelyje sutikau dviveidžių žmonių, kurie norėjo iš manęs pavogti norą ir drąsą. Neturiu jau nei tėvo, nei motinos ir nesu geresnis už juos, ir jau dideli vaikai į mus žiūri ir laukia ženklo. Kai plaukėme jūra, buvau iš tiesų laimingas, tau atskleidžiau visa tai, ką jau žinojai: mano ankstesnį gyvenimą, norą keistis ir jos vardą, kurį slėpiau. Tu klauseisi visų kalbančiųjų, po to mums kalbėjai apie save, apie tą tolimą tolimą pasaulį, tolimą, bet tikrą. Po to patekau į neapykantos ir valdžios apgaulę ir maniau, kad iškritau iš žaidimo. Ir štai miestas su aukso sienomis, sargybiniais bokštuose, pražydęs medžiais ir sodais. Aš jo niekada anksčiau nemačiau, bet ten buvau gimęs, ir tai buvo miestas, į kurį būčiau grįžęs. Taip naktyje palikau draugiją, negalėjau daugiau būti vienas iš jų. Rytmečio saulė surado mane kelyje besivejantį prarastą laiką. Perėjau kalnus, perėjau jūras ir dabar noriu tęsti kelionę su tavimi. Aš tavęs ieškau visuose namuose ir visiems kalbu apie tave, ir tas tolimas tolimas pasaulis dabar yra vis tikresnis!	
 
-0	
+45	
 
 Fammi camminare ancora
 ho perso tanto tempo
@@ -6357,7 +6564,7 @@ you
 
 Krūme dega ugnis, kurią vadinu Tavimi. Raudonojoje jūroje yra vanduo, per kurį einu. Kur mane vedi? Kur mane kreipi? Koks pažadas gali apkabinti mano troškimą? Koks aukštas kalnas, koks bauginantis vaizdas! Kaip galiu sekti, jei nesikreipiu į Tave? Palapinėje yra skrynia, kurią vadinu Tavimi. Mano širdis troško šventyklos, bet ją turės pastatyti mano sūnus. Ėdžiose guli kūdikis, kurį vadinu Tavimi. Ant kryžiaus buvo vyras, kurį vadinau „jis“. Ant kranto jis man paruošė pusryčius ir aš vėl jį vadinu Tavimi.	
 
-0	
+46	
 
 In the bush there’s a fire
 A fire that I call You
@@ -6432,7 +6639,7 @@ l’uomo cattivo
 
 Buvo labai piktas žmogus, bet labai labai piktas, bet Viešpats vis tiek jį išgelbėjo. Vos tik pabudus iš ryto, viskas jį erzindavo: nuo šviesos iki kavos su pienu. Bet vieną dieną savęs paklausė, kas buvo Tas, kuris jam davė gyvybę, kas buvo Tas, kuris jam teikė meilę. “Kam svarbi yra gyvybė? Kam rūpi meilė?” jis vis taip kartojo, bet širdį jam gėlė, O Viešpats iš dangaus jam siuntė daug malonių, bet jis menkai jas apžiūrėjęs, vis tiek kartais pasiskųsdavo. Vieną dieną pamatė jam besišypsantį vaikelį, pamatė, kokios spalvos vynuogės ir kaip meldės jo močiutė, Tada, kai suprato, koks jis piktas ir visas bjaurus, priglaudęs ranką prie širdies verkė ištisą dieną. Dievas jį pamatęs nusišypsojo ir numalšino jo skausmą, tada įkvėpė jam dar daugiau gyvybės ir davė dar daugiau meilės... Buvo labai piktas žmogus, bet labai labai piktas, bet Viešpats vis tiek jį išgelbėjo.	
 
-0	
+46	
 
 Era un uomo cattivo, ma cattivo, cattivo, cattivo,
 eppure così cattivo il Signore lo salvò:
@@ -6503,7 +6710,7 @@ la guera
 
 Kovodamas su netikrumu, su neteisybe, su vargu, išmokau vien apgaudinėti save, išmokau vien bailumo. Aš niekada negyniau savo žemės, netgi pabėgau, aš visada pabėgu. Išmokau vien apgaudinėti save, išmokau vien bailumo. Ar bus  šiam pasauly teisybė? Visos mano mintys sukasi apie iliuzijas, kurių išsipildymo trokštu. Vakarykščiai priešai vėl nugalėtojai, šį karą aš pralaimėjau. Mano rankose liko tiktai negyva žemė, bereikšmiai vardai. Vakarykščiai priešai vėl nugalėtojai, šį karą aš pralaimėjau. Pats aš nepasieksiu teisingumo! Dabar tik aš prisimenu, kad pralaimėjau, pasitikėdamas tik savimi, aš vien gailiuosi prabėgusios dienos ir galbūt laukiu tavęs. Aš vien gailiuosi prabėgusios dienos ir tikrai laukiu tavęs.	
 
-0	
+47	
 
 Nella mia guerra contro la falsità
 contro l’ingiustizia contro la povertà
@@ -6594,7 +6801,7 @@ la notte che ho visto le stelle
 
 Naktį, kai pamačiau žvaigždes. Laukiu, kol praeis naktis, naktis, kuri ilgai nepraeina ir jaučiu savo plakančią ir nesiliaujančią svajoti širdį. Norėčiau vėl būti vaikas savo tėvo namuose, istorijos priešais židinį ir motinos balsas... Naktį, kai mačiau žvaigždes, nebenorėjau miegoti. Norėjau užlipti ten į viršų, kad pamatyčiau ir suprasčiau. Klausausi laukų tylos, kur miega kviečiai, dieną žaibavo, bet dabar griaustinis jau toli... Mėnuo slepia savo akis kaip įsimylėjusi moteris, upė jo laukia vandenyje ir vieną naktį jį pabučiavo... Norėčiau vėl būti vaikas ir vėl žiūrėti į ugnį. Pati didžiausia istorija yra Likimas, kuris pamažu išsipildo.	
 
-0	
+47	
 
 Aspetto che passi la notte, notte lunga da passare
 e sento il mio cuore che batte e non smette di sognare...
@@ -6661,7 +6868,7 @@ la nuova auschwitz
 
 Griežiau smuiku Aušvice, kai kiti žydai mirė, griežiau smuiku Aušvice, kai žudė mano brolius, kai žudė mano brolius, kai žudė mano brolius... Mums liepė griežti, griežti garsiai ir nesiliaut, kad užgožtume mirties klyksmą, griežti garsiai ir nesiliaut, griežti garsiai ir nesiliaut, griežti garsiai ir nesiliaut... Neįmanoma būti tokiems kaip jie, neįmanoma būti tokiems kaip jie... Naujai mūsų sukurtame pasaulyje, yra vargas, neapykanta ir nuodėmė, neapykanta ir nuodėmė, neapykanta ir nuodėmė. Dabar grįžom į Aušvicą, kur buvo padaryta tiek blogo, bet pasauly blogis neišnyko ir mes visi galime jį daryti ir mes visi galime jį daryti, ir  mes visi galime jį daryti...  Nesunku būti tokiems kaip jie, nesunku būti tokiems kaip jie... Dabar griežiu smuiku pasaulyje, kai miršta nauji žydai, dabar griežiu smuiku pasauliui, kai žudo mano brolius, kai žudo mano brolius, kai žudo mano brolius...	
 
-0	
+48	
 
 Io suonavo il violino ad Auschwitz mentre morivano gli altri ebrei,
 io suonavo il violino ad Auschwitz mentre uccidevano i fratelli miei,
@@ -6738,7 +6945,7 @@ la strada
 
 Gražus yra kelias tam, kas juo žengia. Gražus yra kelias tam, kas eina. Gražus yra kelias, vedantis namo, kur tavęs jau laukia. Geltonyje paskendęs visas kaimas, aš jau pasiilgau tavęs, ten, kur einu, manęs laukia, todėl aš ne vienas. Nešuosi kartu savo dainas ir seniai pradėtą istoriją, tikrai didis yra Dievas, didis yra šitas mūsų gyvenimas.	
 
-0	
+49	
 
 E` bella la strada per chi cammina.
 E` bella la strada per chi va.
@@ -6785,7 +6992,7 @@ la traccia
 
 Yra ilgas ilgas takas link svajonių žemės, kur mėnulio šviesoje gieda lakštingala. Yra ilgas ilgas laukimas, kol išsipildys svajonė, ir aš galiu pagaliau sugrįžti į ilgą taką su tavimi.	
 
-0	
+49	
 
 C’è una lunga, lunga traccia
 verso la terra del sogno,
@@ -6820,7 +7027,7 @@ lasciati fare
 
 Leiskis kuriamas to, kuris tave pažįsta, leiskis kuriamas to, kuris tave myli. Viešpats žino net ir tai, kiek plaukų ant tavo galvos; Viešpats žino žvaigždžių vardus. Nesirūpink tuo, ką valgysi ar gersi; Viešpats aprengia ir lauko lelijas.	
 
-0	
+49	
 
 Lasciati fare da Chi ti conosce,
 lasciati fare da Chi ama te.
@@ -6863,7 +7070,7 @@ lela
 
 Debesys verkė dėl besibaigiančios meilės, gatvės skendo dėl mano raudos. Lela, kurią taip myliu, noriu matyti savo atvaizdą tavo akių šviesoje. Nepalik manęs ir užjausk mane, be tavęs negaliu gyventi. Savo žodžiais leisk man kvėpuoti, sušildyk mane savo širdimi, savo žvilgsniu man suteik šviesą, su savo saldžia meile suteik man gyvenimą.	
 
-0	
+49	
 
 Estàn as nubes chorando
 por un amor que morréu.
@@ -6932,7 +7139,7 @@ liberazione n°2
 
 Šį vakarą man neužtenka nei knygos, nei dainos, nei moters meilės, netgi maišatis negali nustumti į šalį nuobodulio, kylančio iš gyvenimo be gyvybės... Bet Tu, tik Tu gali užpildyti mano sąmonės tuštumą, atverti širdį to, kuris nejaučia... Ir dar žaisti mano mintimis, leisti man jaustis lyg būčiau gimęs vakar. Neatiduosiu savo gyvenimo, vienintelio ir vis dėlto tuščio, idiotiškai politikai ar kitam idealui, mano paties sukurtam, kurį pasisavinu arba tampu jo vergu... Ši keista meilė gimė kaip vaikas, kurio niekas nesitikėjo, kodėl būtent dabar norime pasisavinti dovanotą meilę?	
 
-0	
+50	
 
 Non mi basta stasera un libro o una canzone
 o un amore di donna,
@@ -6989,7 +7196,7 @@ luntane, cchiú luntane
 
 Kad apdainuočiau šią šviesą, jaučiu drebulį širdyje! Visas šis žvaigždėtas dangus, visa ši jūra mane verčia svajoti. Bet dėl tavęs, vien dėl tavęs, į šį dangų ir jūrą iš mano širdies veržiasi daina, kurios negalima sulaikyti. Toli, toliau už tolimas žvaigždes spindi gražiausia šviesa, kuri mane verčia dainuoti. Jūreivi, reikia irkluoti šioje šviesoje, burė vėjyje dainuoja didžią dainą, sklindančią toli. Graži valtie, tu žinai, kur nori keliauti siela, kad nenumirtų… Su šiais troškimais tu turi nuvykti toli.	
 
-0	
+50	
 
 Pe cantà sta chiarità
 ncore me sente tremà!
@@ -7052,7 +7259,7 @@ mare nostre
 
 Mūsų jūra, jūra, kuri šioje širdyje pažadini meilės aistrą ir mane užburi. Gražioji jūra, virš šios gražios valties siela iš toli pradeda svajoti. Irkluok, jūreivi irkluok. Skaidrioji jūra, pieno ir sidabro jūra, noriu pamiršti skausmą ir kančią. Didelė kaip žvaigždėtas dangus jūra, ta užburta šviesa man virpina širdį.	
 
-0	
+50	
 
 Mare nostre,
 Mare che crij stu core
@@ -7119,7 +7326,7 @@ mary did you know
 
 Marija, ar žinojai, kad tavo kūdikis vieną dieną vaikščios vandeniu? Ar žinojai, kad tavo kūdikis išgelbės mūsų sūnus ir dukras? Ar žinojai, kad tavo kūdikis atėjo tam, kad tave perkeistų? Šis vaikas, kurį tu pagimdei, netrukus pagimdys tave. Marija, ar žinojai, kad tavo kūdikis suteiks regėjimą aklajam, kad savo ranka nuramins audrą? Ar žinojai, kad tavo kūdikis vaikščiojo ten, kur angelai? Ar žinojai, kad kai bučiuoji savo mažylį, bučiuoji Dievo veidą? Aklieji praregės. Kurtieji girdės. Numirėliai vėl bus gyvi. Luošiai šokinės. Nebyliai garbins Avinėlį giedodami. Marija, ar žinojai, kad tavo kūdikis yra visos kūrinijos Viešpats? Ar žinojai, kad tavo kūdikis vieną dieną valdys tautas? Ar žinojai, kad tavo kūdikis yra tobulas dangaus avinėlis? Miegantis vaikelis, kurį laikai, yra didis Aš esu.	
 
-0	
+51	
 
 Mary, did you know
 that your Baby Boy would one day walk on water?
@@ -7200,7 +7407,7 @@ marta, marta
 
 Nežinau, kaip elgtis, nes nieko nesuprantu; nebegirdžiu balsų, nematau savo žmonių. Tamsi ir be žvaigždžių buvo naktis, nes mačiau tiktai save. Ar nematai, koks aš esu, kodėl nenori man padėti? Matai, koks esu pavargęs, niekas nemoka manęs išklausyti. Marta, Marta tu vargsti ir jaudiniesi dėl tūkstančio dalykų, nors vienintelis yra vertingas. Tamsi ir be žvaigždžių buvo naktis: matei tiktai save.	
 
-0	
+52	
 
 Non so proprio come fare
 perché non capisco niente
@@ -7279,7 +7486,7 @@ martino e l’imperatore
 
 Jie sakys tau, kad tavo tėvas buvo keistas tipas, nevykęs poetas, svajotojas krikščionis; jie sakys tau, kad tavo motina buvo sentimentali, kuri vis dar meldėsi Dievui, nors reikėjo rėkt. Tu niekada netikėk imperatorium, net jei jis vardu visuomenė, net jei jis vardu garbė, net jei jis vardu tauta, net jei jis vardu meilė. Tikėk tik mūsų Tėvą, kuris atėjo ir kuris ateis, kad teisingumas įveiktų blogį. Ne, netikėk beždžione ir atsitiktine evoliucija, tvirtai laikykis mano rankos, net jei jos nebus šalia.	
 
-0	
+52	
 
 Ti diranno che tuo padre era un personaggio strano,
 un poeta fallito, un illuso di un cristiano;
@@ -7330,7 +7537,7 @@ mattone su mattone
 
 Plyta po plytos, ir iškyla didelis namas: koks vargas, koks vargas! Kodėl? Plyta po plytos, ir iškyla didelis namas: tai Viešpats nori gyventi su tavimi. Turiu daug daug, labai daug padaryti: visa diena užimta, dar turiu ir mokytis! Bet giliai giliai širdyje nepamiršk, kad… Sustok akimirkai ir pamėgink pagalvoti, kas yra svarbu visame šiame darbe? Ir tau pasakysiu paslaptį, kad tai, kas tau naudinga, yra: Atverk savo duris ir pamėgink pažvelgti į lauką, ir pažiūrėti į visus kitus, kurie laukia trupučio tavo laiko, kad galėtų pasidalinti. Pusė savo plytų aš padovanosiu tau, kad pastatytum savo namą, kad būtum laimingas, tuo tarpu mano namas pats iškyla.	
 
-0	
+52	
 
 Mattone su mattone
 viene su la grande casa:
@@ -7425,7 +7632,7 @@ my father sings to me
 
 Pasaulyje yra balsas, dainuoja su tikslu. Aš gyvenime galiu rinktis ir pasirinkau klausytis gyvenimo ir laisvės garso, stipraus nuolatinio šauksmo. Pasaulyje yra Kažkas, prašantis manęs, kad Jo klausčiau „Kodėl?”. Mano Tėvas man džiaugsmingai dainuoja. Jis apdainuoja mano gyvenimą, išgelbėjimą, ta daina dera su mano troškimu, jos melodija pranoksta mano viltį, žodžiai – mano protą. Aš apkurtau nuo savo nedorybės, tačiau Jo daina dar skamba, varžausi savo silpnumo, tačiau Jo malonių gausa aplink. Atpažinau Jį triukšme, išgirdau Jį tyloje. Mano širdis rado raktą Jo egzistavimo muzikoje. Taigi, galiu girdėti daug aiškiau, Mano Tėvo Sūnus buvo užmuštas. Jis prisikėlė virš nesantaikos, Jo kraujas teka mano venomis. Sūnus dainuoja apie Savo Dvasią, o Jo daina neša vienybę. Dvasia apdainuoja judėjimą, kuris verčia judėti ir mane.	
 
-0	
+53	
 
 In the world there is a voice
 And it sings with a mission
@@ -7516,7 +7723,7 @@ my lord, what a morning!
 
 Mano Viešpatie, koks rytas, kai žvaigždės pradeda kristi. Tu išgirsi trimitus skambant, žadinant tautas iš po žemių. Žvelgiu į Dievo dešinę, kada žvaigždės pradeda kristi. Tu išgirsi nusidėjėlį verkiant... Tu išgirsi krikščionį šaukiant...	
 
-0	
+54	
 
 My Lord, what a morning, (3k.)
 When the stars begin to fall!
@@ -7559,7 +7766,7 @@ my song is love unknown
 
 Mano daina yra nepažinta meilė, mano Išgelbėtojo meilė man. Meilė nemylimiems parodė, kad jie gali būti mylimi. O, kas aš toks, kad dėl manęs mano Viešpats prisiimtų silpną kūną ir mirtų? Jis atėjo iš Savo sosto, kad atneštų išganymą. Tačiau žmonės Jį ignoravo ir nei vienas nenorėjo pažinti taip ilgai laukto Kristaus. Bet Jis yra mano Draugas, mano tikras Draugas, dėl mano troškimo atidavęs Savo gyvybę. Čia aš pasiliksiu ir dainuosiu apie tokią didingą istoriją. Brangus Karaliau, jokia meilė ir joks skausmas nebuvo tokie kaip Tavo.	
 
-0	
+54	
 
 My song is love unknown,
 My Savior’s love to me;
@@ -7618,7 +7825,7 @@ monologo di giuda
 
 Tai įvyko ne dėl 30 auksinių, o dėl vilties, kurią jis tądien manyje sužadino. Buvau ramus žmogus, pats sau gerai gyvenau, netgi garbinau Dievo namus... Po to vieną dieną atėjo šis žmogus, ėmė kalbėti apie taiką ir meilę, sakėsi esąs Mesijas, mano išgelbėtojas. Saulės išarta žeme, visais kaimų keliais plūdo minia ištiestomis rankomis, bet bėgo dienos ir Jo karalystė neatėjo, Jau buvau viską jam atidavęs... Ir Jis mane išdavė! Širdis tapo akmeninė ir apsukrios akys ieškojo kaip ištrūkti, jis privertė mane sunerimti ir dėl to turėjo mirti... Medyje kabantis kūnas, kuris jau tikrai nebe mano, dabar tai matau akyse - Jis yra Dievo sūnus.	
 
-0	
+54	
 
 Non fu per i trenta denari, ma per la speranza che
 Lui, quel giorno, aveva suscitato in me.
@@ -7673,7 +7880,7 @@ nazareth morning
 
 Ji pralaužia tamsą su dar nematyta viltimi, po jos širdimi auga dar neegzistavusi malonė. Išaušo Nazareto rytas, taip ilgai akių laukta aušra. Dailidės žmona su kūdikiu prie krūtinės kukliuose rūmuose, kur karaliai ir piemenėliai yra jos svečiai. Nazareto rytas, Betliejaus Žvaigždė, šviesa žmonėms arti ir toli. Aušra tampa Diena, Diena ateina pasilikti, nuodėmės tamsa neužtemdys kelio. Tamsa melavo ir bandė paslėpti Dieną mirtyje, vis dėlto jos verksmuose glūdi viltis kiekviename atodūsyje. Nazareto rytas, Kalvarijos Naktis niekada nebesulaikys tiesos ir šviesos. Kitas rytas atneša netikėtą šviesą, kita Marija pamato netikėtą regėjimą. Nazareto Rytas nuritina akmenis, jokia naktis neužbaigs šios nesibaigiančios Dienos. Nazareto Rytas visada bus siekiančia mus išlaisvinti aušra.	
 
-0	
+55	
 
 She breaks the darkness with a hope no one has seen
 Beneath her heart there grows a grace that has not been
@@ -7750,7 +7957,7 @@ negra sombra
 
 Kai galvoju, kad tu išėjai, pasirodai pačioje saulėje ir esi šviečianti žvaigždė, švilpiantis vėjas. Jeigu dainuojama, tai tu dainuoji, jeigu verkiama, tai tu verki, esi ir upės virpėjimas, ir naktis, ir aušra. Tu esi visur ir viskas man esi, manyje pačiame gyveni, niekada manęs nepalieki, esi visada mane nustebinantis šešėlis.	
 
-0	
+55	
 
 Cando penso que te fuches
 negra sombra que me asombras
@@ -7805,7 +8012,7 @@ nenusigask - tai as
 
 	
 
-0	
+56	
 
 Kai ryto paukščiai dangų palies,
 Palies medžius, rasotą žolę
@@ -7852,7 +8059,7 @@ noi non sappiamo chi era
 
 Mes nežinome, kas jis buvo, bet jo vardas buvo Jėzus. Petras jį susitiko ant jūros kranto, Paulius jį susitiko kelyje į Damaską. Ateik, broli: bus vieta ir tau. Marija jį susitiko viešoje aikštėje, Disma jį susitiko ant kryžiaus. Mes jį susitikome paskutinę valandą, aš jį susitikau paskutinę valandą. Dabar žinome, kas jis buvo: buvo tas, kurio ieškojai, jo vardas buvo Jėzus.	
 
-0	
+56	
 
 Noi non sappiamo chi era,
 noi non sappiamo chi fu,
@@ -7921,7 +8128,7 @@ non c’e nessuno
 
 Nėra nieko, kas myli mėnulį taip, kaip dangus žvaigždes! Nėra nieko, kas myli krantą taip, kaip jūros bangos. Aš taip pat tave myliu, tu tai žinai: norėčiau visada pasilikti su tavimi… Tačiau vis dėlto turiu išvykti, bet meilė neturi pasibaigti. Kaip tave myliu, tu žinai: norėčiau visada pasilikti su tavimi… Net jei tu išvyksi, pasiliksime kartu todėl, kad kai toli leidžiasi mėnulis, lieka laukiantis dangus; kai tolumoje dingsta krantas, lieka laukianti jūra.	
 
-0	
+56	
 
 Non c’è nessuno che ama la luna
 come le stelle del ciel!
@@ -7980,7 +8187,7 @@ non son sincera
 
 Blogis, kurį darau, nėra mano blogis, esu daug menkesnė, nei maniau. Blogis, kuris yra šiuose kauluose, Tėve, mane tolina nuo Tavęs. Bėga mano laikas, nesu nuoširdi. Myliu žmones, nesu nuoširdi. Išgyvenu dabartį, nesu nuoširdi. Meldžiuosi vakare, nesu nuoširdi. Leisk man susitikti tą, kuris moka kentėti, kuris moka aukoti iki galo, kuris yra nuoširdus, kuris yra tikras, Tą, kuriuo galėčiau sekti.	
 
-0	
+27	
 
 Il male che faccio non è il mio male,
 sono più misera di quanto credevo;
@@ -8027,7 +8234,7 @@ ojos de cielo
 
 Žvelgiant į tavo šviesias akis, man išsitrina visas pasaulis su savo pragaru. Man pradingsta pasaulis ir atrandu dangų, kai pasineriu į tavo šviesias akis. Dangiškos akys, nepalikit manęs skrydyje; dangiškos akys, visas mano gyvenimas dėl šio sapno. Jeigu aš pamiršiu tai, kas tikra, jeigu aš atitolsiu nuo to, kas nuoširdu, tavo dangiškos akys man tai primins, jeigu aš atitolsiu nuo tiesos. Jeigu vieną dieną mane apšviečianti saulė dings ir mano gyvenime įsivyraus tamsa, tavo dangiškos akys mane apšvies, tavo nuoširdžios akys, kurios mane veda.	
 
-0	
+57	
 
 Si yo miro el fondo de tus ojos tiernos
 se me borra el mundo con todo su infierno.
@@ -8088,7 +8295,7 @@ only our rivers run free
 
 Kai obuoliai augs ir lapkritį, kai išsprogs žiedai ant kiekvieno medžio, kai lapai bus dar žali gruodį, tada mūsų žemė bus laisva. Aš klaidžioju po jos kalvas ir slėnius, bet per savo skausmą dar matau žemę, kuri niekada dar nepažino laisvės, kurioje tik jos upės teka laisvos. Geriu už jos herojų mirtį, už žmones, kurie verčiau pasirinko mirtį, o ne gyvenimą šaltuose kalėjimuose. Jų teisės buvo paneigtos. Kur jūs dabar, kai mums jūsų reikia? Kas dega ten, kur anksčiau buvo liepsna? Tu išnykai su praėjusios žiemos sniegu? Ir tik upės tekės laisvos? Koks saldus gyvenimas, bet mes verkiame. Koks geras vynas – bet jau pasibaigė. Kokia kvepianti rožė – bet jau miršta. Koks lengvas vėjas – bet silpsta. Kuo gera jaunystė, kai senstame? Koks džiaugsmas yra akyse, kurios nemato, kai saulės šviesoje ir gėlėse yra liūdesys, ar tik upės tekės laisvos?	
 
-0	
+57	
 
 When apples still grow in November
 when blossoms remain on each tree
@@ -8159,7 +8366,7 @@ out of his great love
 
 Iš Savo Didelės Meilės Jis mane pakėlė, pastatė mano kojas ant tvirtos uolos. Iš Jo Didelės Meilės aš supratau Išgelbėjimo prasmę. Buvau pasukęs klaidingu keliu, bet pašaukiau Jį vardu ir Jis mane išgelbėjo. Aš dainuoju apie tai, koks Mylintis Dievas Jis yra. Dabar aš Jį šlovinu per visas savo dienas už Jo nesibaigiantį gailestingumą ir malonę. Nėra nieko, Kas turėtų didesnę meilę.	
 
-0	
+58	
 
 Out of His Great Love He picked me up
 Set my feet on a sturdy rock.
@@ -8210,7 +8417,7 @@ pakeleive
 
 Non vedo la fine della strada, io vado e poi cosa si apre davanti a miei occhi. È facile camminare, ma la sofferenza mi stringe il cuore, di nascosto in me vive la speranza. La strada è lontana e lunga. Chi mi mostrerà, chi mi dirà? Tu sei la sola mia compagnia di strada, con me insieme sotto la neve e sotto la pioggia. Sei vicino e io sento mi bruciano gli occhi, e tu con il tuo sorriso copri tutto. Li si vedono solo le luci della strada, di notte camminando li vedi. Una luce identica si accende nel tuo cuore.	
 
-0	
+58	
 
 Kelio galo nematau,
 aš einu ir kas toliau
@@ -8267,7 +8474,7 @@ passione
 
 Tu toli nuo manęs, bet aš jaučiu, kad tu šalia. Kas žino, apie dabar galvoji tu ir ką veiki? Tu įliejai į mano gyslas šiuos saldžius nuodus. Aš neprieštarauju dėl to kryžiaus, kurį dėl tavęs nešu. Aš noriu tavęs, aš galvoju apie tave, aš šaukiu tave. Aš matau tave, aš girdžiu tave, aš svajoju apie tave. Visus metus,- ar gali pagalvoti?- visus metus tos akys neranda ramybės.	
 
-0	
+59	
 
 Cchiù luntana me staje,
 cchiù vicina te sento...
@@ -8340,7 +8547,7 @@ povera voce
 
 Varganas balsas žmogaus, kurio nėra, mūsų balsas, jeigu nebeklausia „kodėl“, jis turi šaukti, turi maldauti, kad nepritrūktų kvapo. Turi dainuoti, nes gyvenimas yra, visas gyvenimas prašo amžinybės; negali mirti, negali nutilti mūsų balsas, kuris prašo Meilę gyvenimo. Nėra varganas balsas žmogaus, kurio nėra, mūsų balsas dainuoja klausdamas „kodėl“.	
 
-0	
+59	
 
 Povera voce di un uomo che non c`è
 la nostra voce, se non ha più un perchè:
@@ -8383,7 +8590,7 @@ razón de vivir
 
 Priežastis gyventi. Kad nuspręsčiau, ar toliau atiduoti  šį kraują žemei, šią širdį, kuri plaka dieną ir naktį. Kad toliau eičiau po saule  per šias dykumas, kad patvirtinčiau, jog esu gyvas tarp daugybės mirusių. Kad nuspręsčiau, kad tęsčiau, kad patvirtinčiau ir suvokčiau, man tik reikia, kad tu būtum čia savo šviesiomis akimis. Ak, meilės ugnie ir kelrode, priežastie, dėl kurios gyvenu. Kad palengvėtų ši sunki našta mūsų dienų, ši vienatvė, kurią jaučiame visi, pasiklydusios salos. Kad išvengčiau to jausmo, kad viską prarandu, kad suprasčiau, kokį kelią sekti, ir išsirinkčiau, kokiu būdu. Kad palengvėtų, kad išvengčiau, kad suprasčiau ir suvokčiau, man tik reikia, kad tu būtum čia savo šviesiomis akimis. Kad sujungčiau grožį ir šviesą, neprarasdamas atstumo, kad būčiau su tavimi, neprarasdamas ilgesio angelo. Kad atrasčiau, jog gyvenimas praeina ir nieko iš mūsų neprašo, ir suvokčiau, kad viskas yra gražu ir nieko nekainuoja. Kad sujungčiau, kad būčiau su tavimi, kad atrasčiau ir suvokčiau, man tik reikia, kad tu būtum čia savo šviesiomis akimis.	
 
-0	
+59	
 
 Para decidir si sigo poniendo
 esta sangre en tierra,
@@ -8486,7 +8693,7 @@ realybe
 
 	
 
-0	
+60	
 
 Eiti per nežinią yra visai kitaip
 Negu maniau anksčiau kad gali būt(i),
@@ -8533,7 +8740,7 @@ reginella
 
 Labai tave mylėjau! Tu labai mylėjai mane! Dabar daugiau nebemylime vienas kito, bet tu kartais išsiblaškiusi galvoji apie mane! Karalaite, kai buvai su manim, valgei tik duoną ir vyšnias... Tu man dainuodavai ir verkdavai! Ir dagilis dainavo su tavim: „Karalaite, ar myli šį karalių?“ Karalaitė išskrido? Ir tu skrisk! Skrisk ir dainuok...	
 
-0	
+60	
 
 Te si' fatta na vesta scullata,
 nu cappiello cu 'e nastre e cu 'e rrose...
@@ -8634,7 +8841,7 @@ se il signore non costruisce la citta
 
 Jeigu Viešpats nestato miesto, veltui dedame akmenį ant akmens. Jeigu mūsų kelias nėra Jo kelias, veltui einame kartu. Kodėl turime dirbti visą dieną, jei pastatome tai, kas neturi vertės, kas yra vien akimirkos džiaugsmas, vėliau išnykstantis kaip vėjas. Kam verkiame iš skausmo, juokiamės iš laimės, žaidžiame su gėle, duodame duonos mirštančiam pakelėje, jei mūsų viltis neateina iš Jo meilės?	
 
-0	
+61	
 
 Se il Signore non costruisce la città
 invano noi mettiamo pietra su pietra.
@@ -8681,7 +8888,7 @@ septynis ilgus metus
 
 	
 
-0	
+61	
 
 Septynis ilgus metus mes gėrėm žiedlapių midų,
 Bridom per kopas baltas ir žiūrėjome viens į kitą.
@@ -8750,7 +8957,7 @@ sevillanas del adios
 
 Kas miršta širdyje, kai išvyksta draugas. Kai draugas išvyksta, keliauja palikdamas neišdildomą pėdsaką. Neišeik dar, neišeik dar, prašau, nes mano gitara verkia, kai sako „sudie“. Tylos akimirka išvykstant. Išvykstant, nes yra žodžių, kurie žeidžia ir kurių negalima sakyti. Valtis pasidaro maža toldama jūroje. Kai nutolsta jūroje ir pranyksta už horizonto, kokia didelė vienatvė! Iškeliaujantis draugas palieka tuštumą, kuri yra kaip bedugnis šulinys, kurio negalima užpildyti.	
 
-0	
+61	
 
 Algo se muere en el alma,
 Algo se muere en el alma,
@@ -8905,7 +9112,7 @@ silenzio cantatore
 
 Nekalbėk, šiąnakt nieko nesakyk: ateik man į glėbį nieko nesakydama... Miega šviesos ir jokio garso šią vasaros naktį. Marija, tyloje tylus dainininkas tau nesakys meilės žodžių, nes jūra juos už jį pasakys! Ne, po šiuo mėnuliu niekas negali pasakyti melo....Marija, tyloje tylus dainininkas tau nesakys meilės žodžių, nes dangus juos už jį pasakys! Dangus atsako, jūra atsako! Žvaigždės, kodėl nenorite kalbėti? Marija, tylus dainininkas tau nesakys meilės žodžių, nes tyla juos už jį pasakys!	
 
-0	
+62	
 
 Zitta, stanotte nun dicere niente:
 cádeme 'mbraccia, ma senza parlá...
@@ -8990,7 +9197,7 @@ su zmonem
 
 	
 
-0	
+63	
 
 Su žmonėm, kurie gyvena, su žmonėm, kurie nakvoja,
 Ant baltų, ramių pagalvių ar prie bėgančio vandens,
@@ -9057,7 +9264,7 @@ the drummer boy
 
 Jie man pasakė: ateik, pamatysi naujagimį Karalių. Mes jam nešime brangiausias dovanas, kad padėtume priešais Karalių ir pagerbtume jį, kai ateisime. Mažas vaikeli, aš taip pat esu vargšas berniukas, aš neturiu dovanų, kurios būtų tinkamos Karaliui, aš pagrosiu tau savo būgneliu. Marija palinksėjo, jautis ir avis mušė į taktą, aš grojau Jam savo būgneliu, grojau Jam kaip tik mokėjau. Tada Jis man nusišypsojo, man ir mano būgneliui.	
 
-0	
+63	
 
 Come they told me
 A new born King to see
@@ -9122,7 +9329,7 @@ And Mary all smiling was listening to me;
 The moon through the valley her pale rays was shedding,
 When I won the heart of the Rose of Tralee.	
 
-0	
+64	
 
 The pale moon was rising above the green mountain,
 The sun was declining beneath the blue sea;
@@ -9153,7 +9360,7 @@ the things that i see
 
 Tai, ką regiu, prajuokina mane kaip vaiką. Tai, ką regiu, sugraudina mane kaip suaugusį žmogų. Per tai, ką regiu, matau tai, ką Jis man davė ir Jis dar parodys kur kas daugiau, negu matau. Aną dieną išgirdau naują balsą tamsoje, Jis patepė mane purvu ir liepė eiti. Girdėjau žmones kalbant: „Jis yra beviltiškas ir pamišęs“, bet nusiprausus man nušvito akyse. Turiu aiškintis daugeliui piktų veidų, kalbu jiems paprastai, bet jie negirdi, ką sakau ir vėl man sako: „Jis yra nerūpestingas nusidėjėlis“. Bet galiu pasakyti tik viena... Jis ir vėl atėjo pas mane, ir šį kartą galėjau Jį matyti. Jis papasakojo, kaip manęs ieškojo. Jis liepė man tikėti. Atsakiau: „Kuo turėčiau tikėti?“ Jis atsakė: „Nenustok tikėti manimi!”	
 
-0	
+64	
 
 The things that I see
 got me laughing like a baby
@@ -9230,7 +9437,7 @@ the wind in the willows
 
 Vaikštinėdamas pavasario rytą senoje kaimo gatvėje sutikau keliauninkus: pagyvenusį vyrą, jauną moterį ir vaiką, kuris man šypsodamasis pasakė: „Su vėju gluosniuose ir paukščiais danguje spindinti saulė mus sušildo, kad ir kur mes bebūtume“. Turime duonos ir žuvies bei ąsotį raudono vyno, kad galėtume su visais pasidalinti savo kelyje. Paklasiau, kas jie ir iš kur, kad galėčiau prisiminti jų malonę. „Mano vardas – Juozapas, čia Marija, mano žmona, o čia mūsų sūnus, mūsų pasididžiavimas ir džiaugsmas“. Prisėdau su jais tarp gėlių ant patiesto apsiausto ir pavalgėme. Man papasakojo apie pranašus, princus ir karalius bei apie vienintelį Dievą, kuris viską žino. Pažvelgiau į Jėzų, kuris šypsodamasis man vėl pasakė: „Kaip vėjas gluosniuose ir paukščiai danguje, spindinti saulė mus sušildo, kad ir kur mes bebūtumėme. Mes apkeliavome visą pasaulį per jūras ir kalnus, kad papasakotume žmonėms, jog jie gali būti laisvi“.	
 
-0	
+65	
 
 As I went awalking
 one morning in Spring,
@@ -9333,7 +9540,7 @@ torna a sorriento
 
 Žiūrėk, kokia graži jūra! Sujaudina, pažadina ir verčia svajoti. Žiūrėk į šiuos oranžinių kvepiančių gėlių sodus! Toks saldus kvapas pasiekia širdį. Be tu nori išvykti ir nutolti nuo manęs, nuo meilės žemės! Ne! Nepalik manęs, nesuteik man tokio skausmo! Grįžk į Surriento! Ši Surriento jūra dugne turi daug turtų. Kas keliavo po visą pasaulį, niekada nematė nieko panašaus! Klausykis šių sirenų, jos taip pat tave labai myli ir norėtų pabučiuoti!	
 
-0	
+65	
 
 Vide ’o mare quant’è bello
 spira tantu sentimento
@@ -9398,7 +9605,7 @@ viespaties lelija
 
 	
 
-0	
+66	
 
 Kur Dievulis saugo lietų, dangų, kur alyvose,
 Jau paukšteliai gieda, švyti žuvys ežerų dugne.
@@ -9415,7 +9622,6 @@ Lietuva mana, Lietuva.
 Guodžia, kalbina mėnulio begaliniai spinduliai.
 Kur Dievulis saugo, sėja amžinąjį sodą, ten
 Viešpaties lelija, Viešpaties lelija.
-Viva la compani
 
 
 	
@@ -9434,7 +9640,77 @@ zalvariniu abrozdeliu veida ramu pakelej,
 guodzia, kalbina menulio begaliniai spinduliai.
 kur dievulis saugo, seja amzinaji soda, ten
 viespaties lelija, viespaties lelija.
-viva la compani
+
+
+		
+
+Viva la compani	
+
+viva la compani	
+
+Ėjau pasiklydęs be meilės šėšėlio – tegyvuoja draugystė, ėjau vienas ir nebuvo šilumos – tegyvuoja draugystė. Tegyvuoja meilė, tegyvuoja gyvenimas, tegyvuoja meilė, tegyvuoja gyvenimas; tegyvuoja draugystė! Kai vieną dieną pamačiau Viešpatį, draugo veide pamačiau jo širdį. Tada man pasikeitė dienos, aš nebesu vienas, kitas yra su manimi. Rytoj mano širdis bus su tūkstančiais, ir Kristus tarp mūsų: tai yra bendruomenė.	
+
+0	
+
+Andavo sperduto senz’ombra d’amor.
+Viva la compani!
+Andavo da solo e non c’era color
+Viva la compani!
+
+
+Viva la viva la viva l’amor,
+Viva la viva la viva la vi,
+Viva l’amor viva la vi,
+Viva la compani!
+
+
+Quando’ecco che un giorno io vidi il Signor.
+Viva la compani!
+In un viso d’amico io vidi il suo cuor.
+Viva la compani!
+
+
+Cambiarono i giorni allora per me .
+Viva la compani!
+Non sono piu’ solo c’è un altro con me.
+Viva la compani!
+
+
+Domani il mio cuore con mille sarà.
+Viva la compani.
+E Cristo nel mezzo è la comunità.
+Viva la compani!
+
+
+	
+andavo sperduto senz’ombra d’amor.
+viva la compani!
+andavo da solo e non c’era color
+viva la compani!
+
+
+viva la viva la viva l’amor,
+viva la viva la viva la vi,
+viva l’amor viva la vi,
+viva la compani!
+
+
+quando’ecco che un giorno io vidi il signor.
+viva la compani!
+in un viso d’amico io vidi il suo cuor.
+viva la compani!
+
+
+cambiarono i giorni allora per me .
+viva la compani!
+non sono piu’ solo c’e un altro con me.
+viva la compani!
+
+
+domani il mio cuore con mille sara.
+viva la compani.
+e cristo nel mezzo e la comunita.
+viva la compani!
 
 
 		
@@ -9445,7 +9721,7 @@ vuestra
 
 Esu tavo, nes mane sukūrei, esu tavo, nes mane atpirkai, esu tavo, nes mane mylėjai, esu tavo, nes mane pašaukei, tavo, nes manęs laukei, tavo, nes nepaklydau, ką nori iš manęs padaryti? Ką nori iš manęs tokios menkos tarnaitės padaryti, gerasis Viešpatie? Kokią užduotį skyrei šiai varganai tarnaitei? Štai aš, mano saldžioji meile, saldžioji meile, štai aš čia, ką nori iš manęs padaryti? Štai tau mano širdis, aš ją patikiu į Tavo rankas, mano kūnas, mano gyvenimas ir mano siela, mano viltys ir mano nerimas, saldusis Sužadėtini ir Atpirkėjau, tau esu aukojama, ką nori iš manęs padaryti? Kad duočiau ar ne vaisių, kad tylėčiau ar kalbėčiau, parodyk man, kokie yra Evangelijos įstatymai. Ar laimėje, ar skausmuose tik Tu gyveni manyje, ką nori iš manęs padaryti?	
 
-0	
+66	
 
 Vuestra soy pues me criasteis
 vuestra pues me redimisteis
@@ -9528,7 +9804,7 @@ vuestra soy
 
 Priklausau tau, gimiau dėl tavęs, ką man liepsi daryti? Suteiksi skurdą ar turtus, neviltį ar paguodą, džiaugsmą ar liūdesį, saldų gyvenimą ar ryškią saulę – viską atiduodu tau. Ką man liepsi daryti?	
 
-0	
+67	
 
 Vuestra soy, para Vos nací,
 ¿Qué mandáis hacer de mí?
@@ -9565,7 +9841,7 @@ witness
 
 O, Viešpatie, kas tai per žmogus? Visos tautos palaimintos jame, visa yra padaryta Jo valioje; Jis įsako jūrai ir ji nurimsta. Ar tai nėra mano Viešpaties liudijimas? Mano siela liudija Viešpatį. Gyveno fariziejus, vardu Nikodemas ir jis netikėjo. Jis atėjo pas Kristų naktį, norėjo išmokti žmogiško žvilgsnio. Nikodemas buvo žmogus, kuris troško suprasti, kaip žmogus gali gimti, kai jis jau yra senas. Kristus tarė Nikodemui, kaip draugui, „Žmogau, tu turi gimti iš naujo. Nesistebėk, jei nori būti išmintingas – atsiversk, įtikėk ir pasikrikštyk”. Paklausykite apie Samsoną, nuo gimimo jis buvo stipriausias vyras žemėje. Seniausiais laikais Jis nužudė dešimt tūkstančių filistinų. Samsono jėgos paslapties niekas nebuvo atskleidęs, kol kartą jo žmona atsisėdo jam ant kelių ir tarė jam: „Prašau, sakyki, kur slypi tavo jėga?”. Ji taip gražiai kalbėjo, kad jis atsakė: „Nukirpk mano plaukus, nuskuski man galvą švariai lyg delną, ir mano jėga taps kaip paprasto žmogaus. Senas Samsonas buvo mano Viešpaties liudytojas. Yra ir kitas mano Viešpaties liudytojas, mano siela yra mano Viešpaties liudytoja.	
 
-0	
+67	
 
 Oh, Lord, what manner of man is this?
 All nations in him are blest,
@@ -9676,7 +9952,7 @@ a canoa
 
 	
 
-0	
+71	
 
 Si a canoa, viruo, deixa – a virar:
 foi por causa de Maria, que nao suobe remar.
@@ -9709,7 +9985,7 @@ aciu, kad ziurejot
 
 	
 
-0	
+71	
 
 Vakaras ilgas ir nėr kur kitur pasidėt,
 Širdis kaip žvaigždė begalėj visatos erdvėj.
@@ -9778,7 +10054,7 @@ alyte
 
 	
 
-0	
+71	
 
 Žygiuoja kareiviai vora paskui vorą
 Ginti brangią žemę, šalį Lietuvos, Alyte!
@@ -9837,7 +10113,7 @@ alyvos
 
 	
 
-0	
+72	
 
 Kaip dangus, kaip dangaus skliautai
 Žydi du, žydi du žiedai
@@ -9965,7 +10241,7 @@ all i want is you
 
 	
 
-0	
+72	
 
 You say you want
 Diamonds on a ring of gold
@@ -10032,7 +10308,7 @@ amore
 
 	
 
-0	
+72	
 
 Aš sužavėtas ir trapus
 Palieku tavo uostą
@@ -10103,7 +10379,7 @@ anche per te
 
 Dėl tavęs, kuri dar esant nakčiai, ruoši sau kavą, apsirengi net nepažiūrėjusi į veidrodį, po to įeini į bažnyčią ir tyliai meldiesi, galvodama apie pasaulį, esantį taip toli nuo tavęs. Dėl tavęs, kuri iš ryto grįžti namo, nes lauke šalta ir niekas tavęs nebeieško. Dėl tavęs, kuri pasiimi pinigus iš šalia miegančio vyro ir duodi truputį daugiau meilės tam, kas nežino, ką su ja daryti. Ir dėl tavęs norėčiau mirti, bet mirti nemoku, ir dėl tavęs atiduočiau kažką, ko neturiu. Dėl tavęs, kuri pažadini savo vaiką ir paskui jį aprengi, palydi į mokyklą ir vyksti į darbą. Dėl tavęs, kuriai klaida kainavo taip brangiai, kad bijai pažvelgti į vyrą ir gyveni gailėdamasi.	
 
-0	
+73	
 
 Per te che è ancora notte
 E già prepari il tuo caffè,
@@ -10196,7 +10472,7 @@ ant kalno gluosnys
 
 	
 
-0	
+73	
 
 Ant kalno gluosnys, pakalnėj šulnys,
 Ten stovėjo mergužėlė pati sau viena.
@@ -10233,7 +10509,7 @@ ar as tau, sese, nesakiau
 
 	
 
-0	
+74	
 
 Ar aš tau, sese, nesakiau,
 Ar aš žodelio netariau?
@@ -10304,7 +10580,7 @@ ar issaugosi mano meile
 
 	
 
-0	
+74	
 
 Ar išsaugosi mano meilę
 Lyg tie medžiai vasario šerkšną?
@@ -10363,7 +10639,7 @@ ar mylesi tu mane
 
 	
 
-0	
+74	
 
 Ar mylėsi tu mane, kai ruduo ateis,
 Kai sena rudens naktis žemėj nusileis.
@@ -10422,7 +10698,7 @@ ar tai butum tu
 
 	
 
-0	
+74	
 
 Jeigu man liktų tiktai viena diena
 Ir toje dienoje - tik valanda
@@ -10475,7 +10751,7 @@ armonika
 
 	
 
-0	
+75	
 
 Nuobodu man buvo kaime amžinai tupėt –
 Kiaules prižiūrėt, bliovimą girdėt.
@@ -10522,7 +10798,7 @@ as dar dainuosiu
 
 	
 
-0	
+75	
 
 Aš dar dainuosiu, nors balsas prikimo,
 Dainuosiu ir tąsyk būdamas nebyliu.
@@ -10583,7 +10859,7 @@ as labai myliu savo mama
 
 	
 
-0	
+75	
 
 Mes kartais būname liūdni
 Ir, rodos, trūksta tik lašelio meilės.
@@ -10656,7 +10932,7 @@ as mylejau tave tau nezinant
 
 	
 
-0	
+75	
 
 Aš mylėjau tave tau nežinant.
 Tau nežinant tave aš myliu.
@@ -10715,7 +10991,7 @@ as nupirksiu tau viska
 
 	
 
-0	
+76	
 
 Aš nupirksiu tau namą, didelį, gražų,
 Su balkonu ir langu, ir netgi garažu.
@@ -10786,7 +11062,7 @@ as tikrai myliu lietuva
 
 	
 
-0	
+76	
 
 Gyvenu mieste, turiu butą, mašiną
 Susimoku baudas, kai ratus užrakina,
@@ -10853,7 +11129,7 @@ ateinu
 
 	
 
-0	
+76	
 
 Kai šį rytą nubudo šviesa,
 Kambaryje tylu, idealu.
@@ -10920,7 +11196,7 @@ atidaryk durys
 
 	
 
-0	
+77	
 
 Mano draugas, mano saulė,
 mano šuo, mergina ir aš
@@ -10971,7 +11247,7 @@ atskrend sakalelis
 
 	
 
-0	
+77	
 
 Atskrend sakalėlis
 Per žalią girelę,
@@ -11054,7 +11330,7 @@ augo girioj
 
 	
 
-0	
+77	
 
 Augo girioj ąžuolėlis
 Pas tėvelį sūnaitėlis
@@ -11161,7 +11437,7 @@ australija
 
 	
 
-0	
+78	
 
 Visi vaikai vaikučiai,
 Smalsutės ir smalsučiai,
@@ -11216,7 +11492,7 @@ azuolai
 
 	
 
-0	
+78	
 
 Kaip brangi esi, žemė tu gimta.
 Nors būnu toli, tau širdy viena.
@@ -11259,7 +11535,7 @@ baltas brolis
 
 	
 
-0	
+78	
 
 Trečią parą naktis bučiuoja mano kūną,
 Švelniai glosto akis ir akmenų karūną.
@@ -11306,7 +11582,7 @@ baltas paukstis
 
 	
 
-0	
+79	
 
 Kol dar lelijos ežere,
 Kol dar virš upių kyla rūkas,
@@ -11373,7 +11649,7 @@ baltos ievos tik nebaltos dienos
 
 	
 
-0	
+79	
 
 Baltos ievos tik nebaltos dienos,
 ne balti pakrančių putinai.
@@ -11432,7 +11708,7 @@ banana cocco baobab
 
 	
 
-0	
+79	
 
 Ero stanco di essere un uomo di città
 in questa gabbia di cemento
@@ -11489,7 +11765,7 @@ bimbala
 
 	
 
-0	
+79	
 
 Bimbala bimbala bimbala ba ba
 
@@ -11566,7 +11842,7 @@ boruz, boruzele
 
 	
 
-0	
+80	
 
 Boruž, boružėle, saulės mergužėle,
 kas tau siuvo tokį puošnų drabužėlį?
@@ -11609,7 +11885,7 @@ boruzele septyntaske
 
 	
 
-0	
+80	
 
 Boružėlė septyntaškė,
 lia, lia, lia, lia
@@ -11704,7 +11980,7 @@ bremeno muzikantai
 
 	
 
-0	
+80	
 
 Nieko nėr geresnio, kaip keliaut kartu,
 Eiti per pasaulį mums visiems smagu.
@@ -11743,7 +12019,7 @@ buk mano varpeliu
 
 	
 
-0	
+80	
 
 Būk mano varpeliu,
 Prašau pabūk mano varpeliu,
@@ -11802,7 +12078,7 @@ bunda jau baltija
 
 	
 
-0	
+81	
 
 Prie jūros miega sesės trys,
 Jas slegia pančiai, neviltis.
@@ -11845,7 +12121,7 @@ cambia todo
 
 	
 
-0	
+81	
 
 Cambia lo superficial
 Cambia también lo profundo
@@ -11958,7 +12234,7 @@ can’t help falling
 
 	
 
-0	
+81	
 
 Wise men say only fools rush in
 But I can’t help falling in love with you
@@ -12005,7 +12281,7 @@ can’t take my eyes off you
 
 	
 
-0	
+82	
 
 You're just too good to be true.
 Can't take my eyes off you.
@@ -12082,7 +12358,7 @@ caramba
 
 	
 
-0	
+82	
 
 Lassù in cima al monte Nero c’è una piccola caverna;
 Ci son dodici briganti al chiaror di una lanterna.
@@ -12129,7 +12405,7 @@ carbonero
 
 	
 
-0	
+82	
 
 Madre, mi carbonero no vino anche,
 Y le estive esperando hasta las doce.
@@ -12176,7 +12452,7 @@ che sara
 
 Kas bus, kas žino, kas bus iš mano gyvenimo? Arba viskas, arba nieko, pamatysime rytoj, ir bus tai, kas bus. Beveik visi mano draugai jau iškeliavo, o kiti iškeliaus po manęs; gaila, nes man buvo gera jų draugijoje, bet viskas praeina. Mano meile, pabučiuosiu tave ir paskirsiu pasimatymą, tik nežinau, kur ir kada, bet tikrai žinau, kad sugrįšiu.	
 
-0	
+83	
 
 Paese mio che stai sulla collina
 disteso come un vecchio addormentato;
@@ -12247,7 +12523,7 @@ climbing up the mountain children
 
 Kopkime į kalną, vaikai, neturime čia pasilikti, jei aš daugiau jūsų nebepamatysiu, tai susitiksime paskutinio teismo dieną. Mozė ėjo į Egipto žemę ir pasakė senam faraonui, kad gerasis Viešpats, sėdintis savo dieviškajame soste, liepia paleisti jo žmones. Dovydas liūtų duobėje pradėjo melstis ir Viešpaties angelas neleido liūtams išsižioti – tai tikrai buvo didi diena. Vaikai ugnies krosnyje pradėjo melstis ir Viešpaties angelas užgesino ugnį – tai tikrai buvo didi diena.	
 
-0	
+83	
 
 Climbing up the mountain children
 didn’t come here for to stay
@@ -12312,7 +12588,7 @@ cockles and mussels
 
 	
 
-0	
+83	
 
 In Dublin’s fair city
 where the girls are so pretty
@@ -12379,7 +12655,7 @@ come and go with me to that land
 
 	
 
-0	
+84	
 
 Come and go with me to that land
 Come and go with me to that land
@@ -12416,7 +12692,7 @@ crazy little thing called love
 
 	
 
-0	
+84	
 
 This thing called love I just can't handle it
 this thing called love I must get round to it
@@ -12473,7 +12749,7 @@ ciau bambino
 
 	
 
-0	
+84	
 
 Rugsėjo lietus, kaip cukrus saldus,
 Papasakos man, kad aš neramus,
@@ -12520,7 +12796,7 @@ ciuozki
 
 	
 
-0	
+84	
 
 Tu tokia graži,
 Be sparnų skrendi.
@@ -12589,7 +12865,7 @@ dabar ir cia
 
 	
 
-0	
+85	
 
 Kiekvieną sekundę
 Užmiega, pabunda,
@@ -12668,7 +12944,7 @@ dainuok
 
 	
 
-0	
+85	
 
 Užteks liūdėti ir verkt,
 Užteks kalbėti rimtai,
@@ -12715,7 +12991,7 @@ dalia
 
 	
 
-0	
+85	
 
 Dalia, nors mudu skiria mylios,
 Vis tiek tave aš myliu,
@@ -12746,7 +13022,7 @@ daluze
 
 	
 
-0	
+85	
 
 Ir buvo dienos margos,
 Ir naktys baisiai gilios,
@@ -12809,7 +13085,7 @@ darbas ir kova
 
 	
 
-0	
+86	
 
 Apie meilę šiandien nekalbėsim,
 šiandien verda darbas ir kova,
@@ -12868,7 +13144,7 @@ del taves
 
 	
 
-0	
+86	
 
 Aš nežinau, iš kur ta meilė,
 Tokia beprotiškai tauri,
@@ -12939,7 +13215,7 @@ dieci ragazze
 
 Mačiau žmogų, mirštantį iš meilės, mačiau kitą, išverkusį visas ašaras. Joks durklas negali sužeisti labiau nei suspaudžianti širdį meilė. Man galėtų užtekti dešimties merginų. Vienos, nes gerai šoka, kitos, nes dar nežino, kas yra meilė. Kas pasakė, kad negaliu gyventi be tavęs? Jis kvailys, nes nežino, kad galiu vieną turėti dienai, kitą - nakčiai. Bet jis mane pažįsta, nes pasakė tiesą.	
 
-0	
+87	
 
 Ho visto un uomo che moriva per amore,
 ne ho visto un altro che più lacrime non ha.
@@ -13014,7 +13290,7 @@ down by the riverside
 
 	
 
-0	
+87	
 
 I’m goin’to lay down my burdens,
 down by the riverside, (3)
@@ -13057,7 +13333,7 @@ draugams
 
 	
 
-0	
+88	
 
 Mes vėl susitikom po šitiek metų
 Mylėję, tikėję ir tiek daug netekę,
@@ -13124,7 +13400,7 @@ draugystes lauzas
 
 	
 
-0	
+88	
 
 Nors mes kartu ir buvom neilgai,
 Draugystės laužas degs mums amžinai.
@@ -13171,7 +13447,7 @@ e penso a te
 
 	
 
-0	
+88	
 
 Io lavoro e penso a te,
 torno a casa e penso a te,
@@ -13228,7 +13504,7 @@ egle, mano sese
 
 	
 
-0	
+88	
 
 Aš turėjau daug draugų,
 Tu turėjai jų dar daugiau.
@@ -13275,7 +13551,7 @@ eisva mudu abudu
 
 	
 
-0	
+89	
 
 Eisva mudu abudu
 Žaliojon giružėn abudu.
@@ -13350,7 +13626,7 @@ ejo senis
 
 	
 
-0	
+89	
 
 Ėjo senis lauko arti,
 Pasiėmęs pypkę karčią.
@@ -13409,7 +13685,7 @@ fields of athenry
 
 Lygūs Athenry laukai, kur kadaise mes stebėjome laisvus mažus paukščius sklandant, mūsų meilė buvo ant sparnų, mes svajojome ir dainavome dainas. O dabar taip vieniša Athenry laukuose.	
 
-0	
+89	
 
 By a lonely prison wall, I heard a young girl calling
 Michael they have taken you away
@@ -13474,7 +13750,7 @@ foggy dew
 
 Velykų rytą per slėnį jojau į gražų miestą, ir pro mane praeidavo ginkluotų vyrų eilės. Jokia dūdelė ar mūšio būgnas neskambėjo, tik Viešpaties Anglo maldos varpas skambėjo aidėdamas Liffey upės bangose tą ūkanotą rytą. Pasaulis su nuostaba žiūrėjo į tuos bebaimius vyrus, bet nedaugelis atlaikė tą kovą, kad laisvės šviesa galėtų spindėti tame ūkanotame ryte. Aš ir vėl jojau per tą slėnį ir mano širdis iš sielvarto skaudėjo, nes atsisveikinau su drąsiais vyrais, kurių daugiau nebepamatysiu. Bet kai mano mintys grįžta prie jūsų, aš klaupiuosi ir meldžiuosi, nes vergija pasitraukė, kai jūs, garbingieji kankiniai, kritote tame ūkanotame ryte.	
 
-0	
+90	
 
 As down the glen one Easter morn
 to a city fair rode I
@@ -13561,13 +13837,54 @@ when you fell in the foggy dew.
 
 		
 
+Freedom	
+
+freedom	
+
+O laisvė, laisvė aplink mane. Verčiau būsiu palaidotas savo kape, nei tapsiu vergu. Keliausiu namo, pas mano Viešpatį ir būsiu laisvas. Daugiau jokio liūdesio, daugiau jokio šauksmo, daugiau jokio verksmo.	
+
+0	
+
+Oh, freedom, oh freedom,
+Oh freedom over me!
+
+
+And before I’ll be a slave
+I’ll be burried in my grave
+and go home to my Lord
+and be free.
+
+
+No more moarning over me!
+No more shouting over me!
+No more crying over me!
+
+
+	
+oh, freedom, oh freedom,
+oh freedom over me!
+
+
+and before i’ll be a slave
+i’ll be burried in my grave
+and go home to my lord
+and be free.
+
+
+no more moarning over me!
+no more shouting over me!
+no more crying over me!
+
+
+		
+
 Geltonų plytų kelias	
 
 geltonu plytu kelias	
 
 	
 
-0	
+90	
 
 Jei nori tu iš tikro pasiekt svajonę savo,
 Geltonas kelias veda keliaut ir nugalėt.
@@ -13624,7 +13941,7 @@ gera
 
 	
 
-0	
+91	
 
 Gera, kai saulė leidžias auksą liedama.
 Gera, kai po langais dainuoja sutema.
@@ -13667,7 +13984,7 @@ gimimo diena
 
 	
 
-0	
+91	
 
 Laukei tu atvėręs duris
 Ir nuo pat ryto džiaugeis,
@@ -13726,7 +14043,7 @@ gimtadienio daina
 
 	
 
-0	
+91	
 
 Gimtadienis lyg vėjas virš kalnų.
 Tokia diena, jei būna alei linksma
@@ -13773,7 +14090,7 @@ gintarai
 
 	
 
-0	
+92	
 
 Tu atverk namų duris,
 ir pušu taku ateik.
@@ -13844,7 +14161,7 @@ gyvenam karta
 
 	
 
-0	
+92	
 
 Gaila, kad gimiau tik kartą,
 Bet liūdėt neverta, neverta.
@@ -13903,7 +14220,7 @@ gyveno sau vaikinas
 
 	
 
-0	
+92	
 
 Gyveno sau vaikinas be rūpesčių jokių,
 Mylėjo jis mergina dėl mėlynų akių.
@@ -13964,7 +14281,7 @@ go down moses
 
 	
 
-0	
+92	
 
 When Israel was Egyptsland:
 Let my people go,
@@ -14047,7 +14364,7 @@ guantanamera
 
 	
 
-0	
+93	
 
 Yo soy un hombre sincero
 de donde crece la palma; (2)
@@ -14124,7 +14441,7 @@ heart of highland
 
 	
 
-0	
+93	
 
 Let the dance begin lock away the fine
 china and kick up the old stone floor;
@@ -14191,7 +14508,7 @@ here comes jesus
 
 Štai ateina Jėzus. Jis eina per vandenį. Jis pakels tave ir padės išsilaikyti. Jis tave išpildys. Kai saulė nustojo šviesti mano nuodėmingoje širdyje, Jėzus man nutiesė kelią.	
 
-0	
+94	
 
 Here comes Jesus
 He’s the walkin’ on the water
@@ -14234,7 +14551,7 @@ ho hey
 
 	
 
-0	
+94	
 
 I've been trying to do it right
 I've been living a lonely life
@@ -14313,7 +14630,7 @@ ho in mente te
 
 Atmerkiu akis ir galvoju apie tave. Einu keliu ir galvoju apie tave. Kiekvieną rytą ir kiekvieną vakarą, ir kasnakt. Noriu pabėgti, pamiršti, bet galvoju apie tave.	
 
-0	
+94	
 
 Apro gli occhi e ti penso
 ed ho in mente te
@@ -14390,7 +14707,7 @@ i coccodrilli
 
 	
 
-0	
+94	
 
 Ci son due coccodrilli ed un orangotango,
 due piccoli serpenti, un’aquila reale,
@@ -14449,7 +14766,7 @@ i don‘t want to miss a thing
 
 	
 
-0	
+95	
 
 I could stay awake just to hear you breathing
 Watch you smile while you are sleeping
@@ -14536,7 +14853,7 @@ i still haven't found what i'm looking for‏
 
 	
 
-0	
+96	
 
 I have climbed the highest mountains
 I have run through the fields
@@ -14625,7 +14942,7 @@ i’ll tell me ma
 
 	
 
-0	
+96	
 
 I’ll tell me ma when I go home
 The boys won’t leave the girls alone,
@@ -14696,7 +15013,7 @@ il cielo in una stanza
 
 Kai esi su manimi, šis kambarys nebeturi sienų, nebeegzistuoja lubos, virš mūsų - tik dangus ir mes po juo, tarsi nieko kito pasaulyje nebūtų. Užgroja akordeonas, tarsi vargonai, skambantys tau ir man dangaus didingume.	
 
-0	
+96	
 
 Quando sei qui con me
 questa stanza non ha
@@ -14751,7 +15068,7 @@ ilgas kelias
 
 	
 
-0	
+97	
 
 Ilgas kelias tarp trumpų naktų.
 Ilgas kelias, bet man vėl neramu,
@@ -14810,7 +15127,7 @@ in the name of love
 
 	
 
-0	
+97	
 
 One man come in the name of love
 One man come and go
@@ -14865,7 +15182,7 @@ io che amo solo te
 
 Yra žmonių, turėjusių milijonus dalykų, visą pasaulio gėrį ir blogį. Aš turėjau tik tave ir tavęs neprarasiu, nepaliksiu, kad ieškočiau naujų nuotykių. Yra žmonių, kurie myli milijonius dalykų ir pasiklysta pasaulio keliuose. Aš, mylintis tik tave, sustosiu ir tau padovanosiu viską, kas lieka iš mano jaunystės.	
 
-0	
+97	
 
 C'è gente che ha avuto mille cose,
 tutto il bene, tutto il male del mondo.
@@ -14918,7 +15235,7 @@ io vagabondo
 
 Kas žino, kur mano namai ir tas vaikas, žaidęs kieme. Aš bastūnas, kas aš esu? Bastūnas ir niekas kitas. Pinigų kišenėje neturiu, tačiau danguje man dar liko Dievas. Manęs laukia kelias, o miestas man primena dykumą. Židinio ugnis nėra tokia karšta, kaip ryto saulė.	
 
-0	
+97	
 
 Io un giorno crescerò
 e nel cielo della vita volerò
@@ -14985,7 +15302,7 @@ ir buvo zodziai tie...
 
 	
 
-0	
+98	
 
 Paukščiai pavargę pavasarį grįš ir tylią raudą girdėsiu,
 Kaip mano šauksmas toli pasigirs vienui viena aš liūdėsiu.
@@ -15032,7 +15349,7 @@ iseinu
 
 	
 
-0	
+98	
 
 Išeinu, palieku tave, nepyk,
 Išeinu, palieku tave, atleisk.
@@ -15095,7 +15412,7 @@ isejai isejai isejai
 
 	
 
-0	
+98	
 
 Su gandrais ir su lapais žaliais, išėjai išėjai išėjai
 Išėjai su gandrais ir su lapais žaliais
@@ -15166,7 +15483,7 @@ isgalvotas gyvenimas
 
 	
 
-0	
+99	
 
 Išgalvojau lietų, išgalvojau giedrą,
 Išgalvojau jūrą ir kai ką daugiau,
@@ -15213,7 +15530,7 @@ you are my sunshine
 
 	
 
-0	
+99	
 
 You are my sunshine, my only sunshine
 You make me happy when skies are grey
@@ -15284,7 +15601,7 @@ you take my breath away
 
 Kartais aš nustembu, kokia galinga gali būti meilės jėga, kartais tu tiesiog atimi man kvapą. Matei, kaip mano meilė augo tarsi vaikas, kartais švelnus ir kartais patrakęs. Tai per daug gera, kad praeitų. Tavo grožį matau visur, ir kai jaučiu, kad į mane žvelgi... Nejaugi nežinai, kad tu tiesiog atimi man kvapą!	
 
-0	
+100	
 
 Sometimes it amazes me
 How strong the power of love can be
@@ -15343,7 +15660,7 @@ jaunyste
 
 	
 
-0	
+101	
 
 Taip gera eiti - aplinkui tiek šviesių linksmų veidų.
 Taip gera jausti - ne vienintelė nuolatos skubu.
@@ -15412,7 +15729,7 @@ jaunyste (piemenaite)
 
 	
 
-0	
+101	
 
 Saulėj įdegusi, basa, tu – piemenaitė murzina!
 Akyse tau dangaus šviesa. Tu man viena, viena, viena!
@@ -15455,7 +15772,7 @@ jei ne auksines vasaros
 
 	
 
-0	
+101	
 
 Jei ne auksinės vasaros, ne mėlynos vosilkos,
 nebūtum mes atėję čia, kur slenka dienos pilkos. (2)
@@ -15498,7 +15815,7 @@ juodas lietus
 
 	
 
-0	
+102	
 
 Juodas vasaros lietus, juodai nudažantis tave
 Lyja ištisus metus lietus, ryte ir vakare.
@@ -15553,7 +15870,7 @@ jureivio daina (nieks nemylejo manes)
 
 	
 
-0	
+102	
 
 Aš, toks vienišas jaunas jūreivis,
 Mindau svetimo uosto gatves,
@@ -15648,7 +15965,7 @@ kadais palei melyna jura
 
 	
 
-0	
+102	
 
 Kadais palei mėlyną jūrą kartu su tavim aš bridau
 Ir vargšę, oi, vargšę tą širdį bebrisdams kažkur praradau. (2)
@@ -15691,7 +16008,7 @@ kai sirpsta vysnios suvalkijoj
 
 	
 
-0	
+103	
 
 Kai sirpsta vyšnios Suvalkijoj
 Raudonos, kad pravirkt gali,
@@ -15742,7 +16059,7 @@ kaip grazu miske
 
 	
 
-0	
+103	
 
 Man vasara miške patinka:
 Tiek daug visokių kirmėlių.
@@ -15793,7 +16110,7 @@ kaip smagu
 
 	
 
-0	
+103	
 
 Kaip smagu malonu rytą būti su Riuku
 Kaip smagu malonu rytą būt Pūkuotuku.
@@ -15848,7 +16165,7 @@ kaledos
 
 	
 
-0	
+104	
 
 Dar savaitė iki naujų, kiek daug reikalų per Kalėdas.
 Daug gerų valandų rogėmis ledu atveš Kalėdos.
@@ -15984,7 +16301,7 @@ kalifornija
 
 	
 
-0	
+104	
 
 Tu nežinai, kodėl šalikelėj sustoji,
 Kodėl pamoji, šūkteli: „palauk“.
@@ -16043,7 +16360,7 @@ kalnai ant kalnu
 
 	
 
-0	
+104	
 
 Giedu dainelę, savo giesmelę
 Apie rūpesčius, vargelius
@@ -16114,7 +16431,7 @@ kalnu erelis
 
 	
 
-0	
+105	
 
 Lydėdams žarą gestančią vėlai
 Kilk aukštai, mok plačiais sparnais laisvai,
@@ -16155,7 +16472,7 @@ kaltas ruduo
 
 	
 
-0	
+105	
 
 Pažvelk į nerimą dienos,
 Ar nori išvaduoti
@@ -16222,7 +16539,7 @@ karaliu lopsine
 
 	
 
-0	
+105	
 
 Čiūčia liūlia, mik, vaikeli, šilko pataluos,
 Čiūčia liūlia, karalių pasaką sapnuok,
@@ -16257,7 +16574,7 @@ kazkas
 
 	
 
-0	
+105	
 
 Juk kiekvienas žmogus turi savo namus.
 O už namo langų niekur nėr vienišų.
@@ -16324,7 +16641,7 @@ kelio daina
 
 	
 
-0	
+106	
 
 Nei tu raudojai, nei tu bareisi.
 Nei mes sugrįšim, nei mes pareisim.
@@ -16371,7 +16688,7 @@ kokia nuostabi, lietuva, esi
 
 	
 
-0	
+106	
 
 Kokia nuostabi, Lietuva, esi,
 Kaipgi nemylėt mums tavęs?
@@ -16442,7 +16759,7 @@ koks vakaras ilgas
 
 	
 
-0	
+107	
 
 Koks vakaras ilgas, kaip širdį man gelia.
 Nuskink man jazminą, baltoji varnele.
@@ -16489,7 +16806,7 @@ kolorado vabalas
 
 	
 
-0	
+107	
 
 Ant aukšto kranto upės mėlynos
 Malonu pasvajoti ir išgerti.
@@ -16560,7 +16877,7 @@ la compagnia
 
 Atsikėliau, apsirengiau ir vienas išėjau į gatvę. Ilgai vaikščiojau be tikslo, kol išgirdau bare dainuojant. Dainos, dūmai ir juokas, dėkoju tau, nežinoma draugija. Nė nežinau, kas man įteikė gėlę, bet žinau, kad mano širdis prisipildė šilumos. Laime, vakar tave praradau, bet šiandien vėl tave atradau. Liūdesys praeina, o jo vietą užims daina.	
 
-0	
+107	
 
 Mi sono alzato, mi son vestito
 e sono uscito solo solo per la strada.
@@ -16617,7 +16934,7 @@ la mente torna
 
 	
 
-0	
+108	
 
 La mente va, dove va, chissà...
 Mi sento donna così come mai
@@ -16702,7 +17019,7 @@ la playa
 
 	
 
-0	
+108	
 
 La playa estaba desierta,
 el mar bañaba tu piel,
@@ -16775,7 +17092,7 @@ la preferenza
 
 Ką čia, pasaulio krašte, veikiau? Laukiau to, kuris gilumoje turėtų tokį patį troškimą. Tas troškimas neturėjo nei veido, nei vardo, net nežinojau, kad sėkloje slypi gėlė. Bet tau patikau labiau už visus, kuriuos susitikai, už visus kūrinijos vaikus, gyvenančius žemėje, jūroje ir danguje. Aš tau brangus, nes tu mane pasirinkai. Kai išvyksi, aš būsiu sargybinis, užtikrintas tuo, kad gyvenimas yra gražus, kad kiekvienoje sėkloje slypi gėlė.	
 
-0	
+108	
 
 Che facevo qui,
 qui su un angolo del mondo?
@@ -16858,7 +17175,7 @@ la storia d‘amore
 
 	
 
-0	
+109	
 
 Tu non sai cosa ho fatto quel giorno
 quando io la incontrai
@@ -16991,7 +17308,7 @@ la tana del re
 
 	
 
-0	
+110	
 
 Io sono soloma non credo che tu
 Sei contenta
@@ -17058,7 +17375,7 @@ labas rytas
 
 	
 
-0	
+110	
 
 Aš, aš negaliu surast tavęs, nes tu
 Slepiesi naktyje, bet kartais randu
@@ -17119,7 +17436,7 @@ laimes vainikas
 
 	
 
-0	
+110	
 
 Prie mėnulio tako
 Man slaptus žodžius pasako
@@ -17178,7 +17495,7 @@ laisve
 
 	
 
-0	
+110	
 
 Aš jau nepakeliu minčių apie tave
 Kaip obelis, apsunkusi nuo vaisių.
@@ -17225,7 +17542,7 @@ laiskas ant sniego
 
 	
 
-0	
+111	
 
 Kelią į tave tylomis užkloja sniegas,
 Laimė greitai pamiršta pusnyje sušalusį miegą.
@@ -17278,7 +17595,7 @@ lauzo sviesa
 
 	
 
-0	
+111	
 
 Laužo šviesa naktyje
 Guodžia gaivina mane,
@@ -17365,7 +17682,7 @@ leaving on a jet plane
 
 	
 
-0	
+111	
 
 All my bags are packed, I'm ready to go
 I'm standin' here outside your door
@@ -17440,7 +17757,7 @@ let it be
 
 	
 
-0	
+112	
 
 When I find myself in times of trouble
 Mother Mary comes to me
@@ -17511,7 +17828,7 @@ lietuva brangi
 
 	
 
-0	
+112	
 
 Lietuva brangi, mano tėvyne,
 Šalis, kur miega kapuos didvyriai:
@@ -17570,7 +17887,7 @@ life is life
 
 	
 
-0	
+112	
 
 When we all give the power
 We all give the best
@@ -17637,7 +17954,7 @@ linksminkimos!
 
 	
 
-0	
+113	
 
 Linksminkimos! Linksminkimos,
 Pakol jauni esma,
@@ -17728,7 +18045,7 @@ liudna svente
 
 	
 
-0	
+113	
 
 Šiandien mano liūdna šventė,
 Šiandien mano gimtadienis,
@@ -17783,7 +18100,7 @@ lopsine
 
 	
 
-0	
+113	
 
 Kai aplink šalta žiema
 Ir aplink tamsu,
@@ -17864,7 +18181,7 @@ mairi‘s wedding
 
 	
 
-0	
+114	
 
 Step we gaily, on we go
 Heel for heel and toe for toe,
@@ -17911,7 +18228,7 @@ mamai
 
 	
 
-0	
+114	
 
 Vakaras tylus ir šilti namai,
 Už lango tyla.
@@ -17986,7 +18303,7 @@ mamos suknele
 
 	
 
-0	
+114	
 
 Turime palėpėj spintą,
 Daug daug metų užrakintą.
@@ -18053,7 +18370,7 @@ mano krastas
 
 	
 
-0	
+115	
 
 Šitą žemę man likimas dovanojo,
 Pilką dangų, sniego sodus ir pilis.
@@ -18126,7 +18443,7 @@ mano meiles vasara
 
 	
 
-0	
+115	
 
 O mano meilės vasara, vasara,
 Karšta, tyra kaip ašara, vasara,
@@ -18189,7 +18506,7 @@ mano zeme
 
 	
 
-0	
+115	
 
 Vėl eilinė diena, rodos nieko keisto.
 Visai nepanašu, kad kas pasikeistų.
@@ -18302,7 +18619,7 @@ margarita
 
 	
 
-0	
+116	
 
 Aš tavęs neieškojau,
 Gyvenau ir galvojau,
@@ -18365,7 +18682,7 @@ mary don‘t you weep
 
 O Marija, neverk, negėdėk, faraono armija nuskendo. Kelkis, sese, neverk, ateis geri laikai. Vieną rytą apie ketvirtą valandą šis senas miestas bus sudrebintas. Šėtonas piktas, bet aš džiaugiuosi, kad jis prarado mano sielą, kurią manė turįs.	
 
-0	
+116	
 
 Oh Mary don‘t you weep don‘t you mourn,
 Oh Mary don‘t you weep don‘t you mourn:
@@ -18418,7 +18735,7 @@ mazi jausmai
 
 	
 
-0	
+116	
 
 Maži jausmai prašo
 Valgyti, gerti, miegoti,
@@ -18463,7 +18780,7 @@ medziai be lapu
 
 	
 
-0	
+117	
 
 Medžiai be lapų, nieko jie neturi.
 Medžiai be lapų, nieks į juos nežiūri.
@@ -18520,7 +18837,7 @@ meile laisva
 
 	
 
-0	
+117	
 
 Kvailos taisyklės ir vėl mums surišo rankas,
 Bet kas, jei ne tu ir ne aš, sugalvojo tokias.
@@ -18579,7 +18896,7 @@ meiles nera
 
 	
 
-0	
+117	
 
 Pavirto pelenais
 Svajonės ir sapnai
@@ -18646,7 +18963,7 @@ melyna salis
 
 	
 
-0	
+118	
 
 Ten už girių toli aš girdėjau kadais
 Mėlynuoja šalis, mėlyna, kaip linai.
@@ -18693,7 +19010,7 @@ melynas autobusiukas
 
 	
 
-0	
+118	
 
 Mėlynas autobusiukas
 Vieną kartą atvažiuos,
@@ -18772,7 +19089,7 @@ menulis – tikras tevas jo
 
 	
 
-0	
+118	
 
 Mėnulis – tikras tėvas jo,
 sesuo – dangaus žydrynė,
@@ -18843,7 +19160,7 @@ mi sei scoppiato dentro al cuore
 
 Tai įvyko vos vakar vakare. Aš kalbėjau su draugais, o tu atėjai, pažvelgei į mane ir man viskas pasikeitė. Netikėtai man įsiplieskei širdyje, nežinau kodėl, netikėtai, nes pažvelgei į mane taip, kaip dar niekas nebuvo žiūrėjęs, ir dėl tavęs netikėtai jaučiuosi gyva. Aš dar nesupratau, nežinau, kaip gali baigtis tai, kas atsitiko, tačiau tu supratai, mačiau, kad ir tu pasikeitei.	
 
-0	
+118	
 
 Era solamente ieri sera
 io parlavo con gli amici
@@ -18910,7 +19227,7 @@ miesto stotis
 
 	
 
-0	
+119	
 
 Ar žinai, kad be tavęs dienos liūdnos vėl,
 Ar žinai, kad aš savęs klausiu vis kodėl.
@@ -18961,7 +19278,7 @@ my heart will go on
 
 	
 
-0	
+119	
 
 Every night in my dreams
 I see you, I feel you,
@@ -19040,7 +19357,7 @@ myliu
 
 	
 
-0	
+120	
 
 Niekada nepagalvočiau, nepasijuokčiau
 Turbūt iš to, kad nemiegojau jau antrą naktį,
@@ -19101,7 +19418,7 @@ muse
 
 	
 
-0	
+121	
 
 Gera pas močiutę vasarą pabūti,
 Jos gražus namelis prie tvoros darželis.
@@ -19162,7 +19479,7 @@ nakteles ziedai
 
 	
 
-0	
+121	
 
 Gyvenime būna labai šviesios naktys:
 Lig ryto siūbuoja naktelės žiedai.
@@ -19207,7 +19524,7 @@ naujieji metai
 
 	
 
-0	
+121	
 
 Naujieji metai ateis pas tave, atskubės sutema,
 O kaip sutiksi tu juos, ar su ašara, ar šypsena?
@@ -19266,7 +19583,7 @@ nebetyli sirgaliai
 
 	
 
-0	
+121	
 
 Buvau ten vakar ir eisiu ten ryt,
 Kur žmonės renkasi Europos vidury.
@@ -19351,7 +19668,7 @@ nemylejau taves
 
 	
 
-0	
+122	
 
 Tu sakai, kad aš nemoku būti paprasta,
 Išdidi esu ir paslaptinga, bet šalta,
@@ -19426,7 +19743,7 @@ ner bobu, neverk
 
 	
 
-0	
+122	
 
 Vėl prisimenu, kaip sėdėjom mes
 Visi kartu ant Tauro kalno.
@@ -19503,7 +19820,7 @@ netikek, ka priesai suoks
 
 	
 
-0	
+123	
 
 Jei jūs manim patikėsit,
 Bus gerai, gerai, gerai mums bus.
@@ -19550,7 +19867,7 @@ neuzgesk
 
 	
 
-0	
+123	
 
 Aš prisimenu gerai tave,
 Tas maištingas ir šviesias akis.
@@ -19605,7 +19922,7 @@ nieko panasaus
 
 	
 
-0	
+123	
 
 Skrendant kažkuriame keistam sapne,
 Žemė liko galbūt per daug toli.
@@ -19652,7 +19969,7 @@ o mano saule
 
 	
 
-0	
+123	
 
 Tu ateini debesų kilimais,
 Tu gyveni ten, kur paukščių takai.
@@ -19699,7 +20016,7 @@ o mes skubam
 
 	
 
-0	
+123	
 
 O mes skubam, pašėlusiai skubam užaugti,
 Kad nemokytų mūs ir nebartų.
@@ -19746,7 +20063,7 @@ o pavasari malonus
 
 	
 
-0	
+124	
 
 O pavasari, malonus, o pavasari, gražus,
 Tu toks mielas, paslaptingas, tu atgaivini jausmus.
@@ -19813,7 +20130,7 @@ o sole mio
 
 	
 
-0	
+124	
 
 Che bella cosa ‘na jurnata e sole,
 ‘n’ aria serena dopo la tempesta!
@@ -19870,7 +20187,7 @@ o surdato ‘nnamurato
 
 	
 
-0	
+124	
 
 Staje luntana da stu core
 e a te volo cù ’o penziero
@@ -19941,7 +20258,7 @@ o zvaigzde puodynej
 
 	
 
-0	
+125	
 
 O žvaigždė puodynėj, kai vaikai prie stalo,
 kai rasa ant žolės,
@@ -19980,7 +20297,7 @@ o, meile
 
 	
 
-0	
+125	
 
 Aš buvau neklaužada vaikas,
 Ant tvoros kas dieną sėdėjau,
@@ -20081,7 +20398,7 @@ oh when the saints
 
 	
 
-0	
+125	
 
 Oh, when the saints go marching in,
 oh, when the saints go marching in,
@@ -20118,7 +20435,7 @@ oh, happy day
 
 	
 
-0	
+125	
 
 Oh happy day! (Oh happy day)
 Oh happy day! (Oh happy day),
@@ -20155,7 +20472,7 @@ oi jau mano mielas
 
 	
 
-0	
+126	
 
 Oi jau mano mielas Anksti rytą kėlė -
 Ne dėl žalio vyno -dėl žalio žolyno.
@@ -20190,7 +20507,7 @@ oi neverk, motusele
 
 	
 
-0	
+126	
 
 Oi neverk, motušėle, kad jaunas sūnus
 Eis ginti brangiosios tėvynės!
@@ -20249,7 +20566,7 @@ om mani peme hum
 
 	
 
-0	
+126	
 
 Sana come un pesce sano,
 buona come un buon caffé,
@@ -20312,7 +20629,7 @@ one
 
 	
 
-0	
+126	
 
 Is it getting better
 Or do you feel the same
@@ -20437,7 +20754,7 @@ ordinary love
 
 	
 
-0	
+127	
 
 The sea wants to kiss the golden shore
 The sunlight warms your skin
@@ -20508,7 +20825,7 @@ over in the glory land
 
 Man paruošti namai, kur šventieji gyvena Šlovingoje Žemėje. Aš trokštu būti šalia Išgelbėtojo. Šlovingoje Žemėje aš prisijungsiu prie angelų būrio, stovėsiu šalia galingo šeimininko. Koks džiaugsmas, kad Šlovingoje Žemėje pamatysiu savo Viešpatį.	
 
-0	
+127	
 
 I have a home prepared where the saints abide
 Over in the Glory Land.
@@ -20571,7 +20888,7 @@ pabudome ir kelkimes
 
 	
 
-0	
+128	
 
 Iš nevilties į neviltį, per prarastąjį rojų,
 Paniekinti, pažeminti, išganymo ieškojome.
@@ -20634,7 +20951,7 @@ pakeliui namo
 
 	
 
-0	
+128	
 
 Svetimas miestas pažadina mus ir vėl savo radijo imtuvais
 Ir svetimas mums rūkas prieš paskutinį traukinį namo.
@@ -20703,7 +21020,7 @@ palaimink, dieve, mus
 
 	
 
-0	
+129	
 
 Nusilenkt noriu tau žemai,
 Mylima tėvų šalie.
@@ -20763,7 +21080,7 @@ palinko liepa
 O jeigu kartais tektų žūti nuo priešo budelio kulkos,
 Mergaite, ir mirdamas kartosiu, myliu Tėvynę ir tave. (2)	
 
-0	
+129	
 
 Palinko liepa šalia kelio, pravirko motina sena,
 Sūneli, Tėvynė tave šaukia, ir vėl bus laisva Lietuva. (2)
@@ -20790,7 +21107,7 @@ pamirsk mane
 
 	
 
-0	
+129	
 
 Pamiršk mane, pamiršk mane, svajotą ir mylėtą,
 Pamiršk mane, kaip sapną pamiršti.
@@ -20849,7 +21166,7 @@ pasaulio krastas
 
 	
 
-0	
+130	
 
 Kalbėk, kalbėk, pasakyk man, ką jauti.
 Atšals kava, liksiu aš nepaliesta,
@@ -20914,7 +21231,7 @@ pasejau lineli
 
 	
 
-0	
+130	
 
 Pasėjau linelį ant pylimo
 Dėl jauno bernelio, dėl mylimo.
@@ -20959,7 +21276,7 @@ paskutinis traukinys
 
 	
 
-0	
+130	
 
 Ar tu dar gali kentėti tas blogas mintis,
 Ar tu dar gali matyt akis visai tuščias?
@@ -21022,7 +21339,7 @@ pasveikinkit vieni kitus
 
 	
 
-0	
+130	
 
 Viens du trys mūsų būgnai skamba
 Mes ateinam garsiai kaip atominė bomba.
@@ -21109,9 +21426,9 @@ Paukščiai
 
 pauksciai	
 
-Pavasariniai žiedai	
+	
 
-0	
+131	
 
 Baltais pūkeliais krinta snaigės
 iš šviesulingų debesų,
@@ -21196,13 +21513,60 @@ sugris pavasari sauleta.
 
 		
 
+Pavasariniai žiedai	
+
+pavasariniai ziedai	
+
+	
+
+0	
+
+Nereikia laukt, pavasaris atplauks nelauktai,
+Kažką brangaus padovanos ir liks amžinai,
+Gyvenimo švelnius garsus kartoju,
+Pavasario palikti aš nenoriu.
+
+
+Pavasariniai žiedai - tai saulės ir lietaus vaikai,
+Ramybė, džiaugsmas tenegęsta amžinai.
+Pavasariniai žiedai, juos dovanoju tau tiktai
+Ir lyg lopšy supuoju laimę tolumoj.
+
+
+Aš nežinau, ką duos, žmogau, palaima dangaus,
+Gal sodą meilės amžinos, gal baimės tylios.
+Tik tavo balsą tyliai vis kartoju
+Ir sodo nuostabaus palikt nenoriu.
+
+
+	
+nereikia laukt, pavasaris atplauks nelauktai,
+kazka brangaus padovanos ir liks amzinai,
+gyvenimo svelnius garsus kartoju,
+pavasario palikti as nenoriu.
+
+
+pavasariniai ziedai - tai saules ir lietaus vaikai,
+ramybe, dziaugsmas tenegesta amzinai.
+pavasariniai ziedai, juos dovanoju tau tiktai
+ir lyg lopsy supuoju laime tolumoj.
+
+
+as nezinau, ka duos, zmogau, palaima dangaus,
+gal soda meiles amzinos, gal baimes tylios.
+tik tavo balsa tyliai vis kartoju
+ir sodo nuostabaus palikt nenoriu.
+
+
+		
+
 Pavasaris	
 
 pavasaris	
 
 	
 
-0	
+132	
 
 Ak, tie metų laikai, kaip gerai,
 Kad jie mus malonumais gaivina.
@@ -21309,7 +21673,7 @@ peliuku mokykla
 
 	
 
-0	
+132	
 
 Peliukų mokykloj, už juodų stalelių,
 Sėdi daug vaikelių su margom knygelėm.
@@ -21346,7 +21710,7 @@ per sirvinteles miesteli
 
 	
 
-0	
+132	
 
 Per Širvintėlės miestelį, sraunus upelis tekėjo
 Oj valioj valioj Lietuva, sraunus upelis tekėjo.
@@ -21421,7 +21785,7 @@ perdere l‘amore
 
 	
 
-0	
+133	
 
 E adesso... Andate via!
 Voglio restare solo
@@ -21534,7 +21898,7 @@ piene
 
 	
 
-0	
+133	
 
 Lankoj drugys drugelį vejas,
 O saulė spindi jų sparnuos.
@@ -21593,7 +21957,7 @@ pieniu vynas
 
 	
 
-0	
+134	
 
 Prisiminki tą dieną, kai braidėm abu
 Mes pienių nusėtais laukais,
@@ -21654,7 +22018,7 @@ pim pam
 
 Ten, name ant kalno, stovi didelis židinys, jame dega didelė ugnis. Todėl „pim pam“ batai trepsi akmenimis grįstu takeliu. Ten, name ant kalno, gyvena didis Viešpats. O žaliame, violetiniame, baltame kambaryje daug raudonų, geltonų kėdžių, visiems Jis duos po kėdę, kiekvienam nuaus batus, po to visi drauge šoksime.	
 
-0	
+134	
 
 Nella casa là sulla montagna
 un camino grande grande sta,
@@ -21729,7 +22093,7 @@ pokstas (nuo vilniaus ir kauno bokstu)
 
 	
 
-0	
+134	
 
 Aš nežinau, kodėl taip myliu
 Tavo romantiškas akis,
@@ -21800,7 +22164,7 @@ porompompero
 
 	
 
-0	
+135	
 
 El trigo entre “todas“ las flores
 ha elegido a la amapola,
@@ -21871,7 +22235,7 @@ prie pasaku miesto
 
 	
 
-0	
+135	
 
 Aš lauksiu prie Vilniaus,
 Prie pasakų miesto,
@@ -21942,7 +22306,7 @@ pupa
 
 	
 
-0	
+135	
 
 Tai gerai, tai gerai,
 Kad aš tave turiu, pupa, pupa.
@@ -22015,7 +22379,7 @@ purpurinis vakaras
 
 	
 
-0	
+136	
 
 Purpurinis vakaras varva
 Lyg aplietas aviečių sultimis,
@@ -22062,7 +22426,7 @@ quando quando quando
 
 	
 
-0	
+136	
 
 Dimmi quando tu verrai
 dimmi quando quando quando
@@ -22117,7 +22481,7 @@ ramune baltaja
 
 	
 
-0	
+136	
 
 Ir sutikau aš jį, kai rožės skleidėsi,
 Kai sviro po langais balti javų žiedai.
@@ -22172,7 +22536,7 @@ raskila
 
 	
 
-0	
+136	
 
 Ar pažįsti žolę, gėlę?
 Lapai kaip armonikėlės.
@@ -22215,7 +22579,7 @@ raudoni vakarai
 
 	
 
-0	
+136	
 
 Mano saujoj dūzgia bitės, tavo plaučiuose vanduo,
 Mano saujoj gęsta rytas, liūdnas kaip kareivio šuo.
@@ -22274,7 +22638,7 @@ riesutu zydejimas
 
 	
 
-0	
+137	
 
 Su mažu vaikeliu kartą vaikštinėjau,
 Riešutus pražydusius prie Neries regėjau.
@@ -22329,7 +22693,7 @@ rycka
 
 	
 
-0	
+137	
 
 Kartą sutikau vaikiną, jį visi Ryčka vadina,
 Jis nerūko, nesikeikia ir man akyte pamerkia.
@@ -22400,7 +22764,7 @@ rytoj skrisim
 
 	
 
-0	
+137	
 
 Paragaukim žalio vyno,
 Kol rasa nesugadino. Gera bus!
@@ -22459,7 +22823,7 @@ rock my soul
 
 	
 
-0	
+138	
 
 Rock my soul in the bosom of Abraham (3)
 Oh, rock my soul.
@@ -22498,7 +22862,7 @@ roma nun fa' la stupida stasera
 
 	
 
-0	
+138	
 
 Roma nun fa' la stupida stasera
 Damme na mano a faie di de si
@@ -22565,7 +22929,7 @@ rudeninis paukstis
 
 	
 
-0	
+138	
 
 Aš nežinau, ar tai lietus
 Praėjo šiąnakt mano langu.
@@ -22612,7 +22976,7 @@ salelaka mokonzi
 
 	
 
-0	
+138	
 
 Bolingo bwa Nzambe boleki bonene,
 wana tindeli briso Yesu ntobikisi
@@ -22647,7 +23011,7 @@ santechnikas is ukmerges
 
 	
 
-0	
+139	
 
 Ir niekada tikrai aš nenuskęsiu
 Tų aksominių jos akių gelmėj,
@@ -22702,7 +23066,7 @@ sara perché ti amo
 
 	
 
-0	
+139	
 
 Che confusione sarà perché ti amo
 e un'emozione che cresce piano piano
@@ -22785,7 +23149,7 @@ saules miestas
 
 	
 
-0	
+139	
 
 Jei dar nesibaigė lietus
 Ir jei dar oras ne toks gražus,
@@ -22852,7 +23216,7 @@ saulute nusileido
 
 	
 
-0	
+139	
 
 Saulutė nusileido,
 Mėnulis užtekėjo,
@@ -22911,7 +23275,7 @@ saulute tekejo
 
 	
 
-0	
+140	
 
 Saulutė tekėjo,
 Lapeliai mirgėjo,
@@ -22958,7 +23322,7 @@ se telefonando
 
 Jeigu skambindama galėčiau tau pasakyti „sudie“, tau paskambinčiau... Jeigu vėl tave pamatydama būčiau tikra, kad nekentėsiu, tave pamatyčiau... Jeigu žiūrėdama tau į akis galėčiau pasakyti „užteks“, pažiūrėčiau... Bet nežinau, kaip paaiškinti, kad mūsų vos tik prasidėjusi meilė jau baigėsi...	
 
-0	
+140	
 
 Lo stupore della notte
 spalancata sul mar
@@ -23011,7 +23375,7 @@ sedim, linguojam (draugams)
 
 	
 
-0	
+140	
 
 Ši diena prabėgo nejučia
 Lyg metų nebūtų praėję tiek daug.
@@ -23094,7 +23458,7 @@ senieji vilniaus stogai
 
 	
 
-0	
+141	
 
 Senieji Vilniaus stogai,
 Pražilę samana žalia,
@@ -23173,7 +23537,7 @@ snaiges
 
 	
 
-0	
+141	
 
 Kai vakare gęsta šviesos languose,
 Matau lauke tave, nors kyla pūga.
@@ -23232,7 +23596,7 @@ sode lakstute maza
 
 	
 
-0	
+142	
 
 Sode lakštutė maža žydinčiam vyšnių pavėsy
 Savo skambiąja daina amžiną laimę žadėjo.
@@ -23291,7 +23655,7 @@ somebody to love
 
 	
 
-0	
+142	
 
 Can anybody find me somebody to love?
 Each morning I get up I die a little
@@ -23390,7 +23754,7 @@ stand by me
 
 	
 
-0	
+142	
 
 When the night has come
 And the land is dark
@@ -23463,7 +23827,7 @@ star of the county down
 
 	
 
-0	
+143	
 
 Near Banbridge town, in the County Down
 One morning in July
@@ -23546,7 +23910,7 @@ stovi malunas
 
 	
 
-0	
+143	
 
 Stovi malūnas prie kelio,
 Saulė žemai vakaruos,
@@ -23605,7 +23969,7 @@ sudeginti tiltai
 
 	
 
-0	
+144	
 
 Tu, jau sudeginai tiltus tik tu,
 Grįžt negali, nes vienai tau sunku.
@@ -23674,7 +24038,7 @@ summer of 69
 
 	
 
-0	
+144	
 
 I got my first real six-string
 Bought it at the five-and-dime
@@ -23793,7 +24157,7 @@ svajoklis
 
 	
 
-0	
+145	
 
 Sėdėjo svajoklis tuopos viršūnėj,
 Pamatė svajoklis žibantį daiktą:
@@ -23852,7 +24216,7 @@ svirplys
 
 	
 
-0	
+145	
 
 Gyveno kartą pievoj vienišas svirplys,
 Norėjo susirasti tokią kaip ir jis,
@@ -23911,7 +24275,7 @@ swing low
 
 	
 
-0	
+145	
 
 Swing low, sweet chariot,
 Coming for to carry me home.
@@ -23954,7 +24318,7 @@ salia
 
 	
 
-0	
+146	
 
 Ar prisimeni vaikystės vėją,
 Mūsų saulę, mūsų dangų,
@@ -24025,7 +24389,7 @@ salia kelio
 
 	
 
-0	
+146	
 
 Šalia kelio, karčiama,
 Ten gyvena šinkorka.
@@ -24084,7 +24448,7 @@ siam pasauly visko buna
 
 	
 
-0	
+146	
 
 Šiam pasauly visko būna, atsimerki vieną rytą
 Ir dairaisi, ar čia juoktis, ar čia verkti - nežinai.
@@ -24139,7 +24503,7 @@ sirdele mano
 
 	
 
-0	
+147	
 
 Širdele mano, o kodėl tu liūdna?
 Širdele mano, kur jaunystė tava?
@@ -24186,7 +24550,7 @@ sirdele spaudzia
 
 	
 
-0	
+147	
 
 Saulė verkia ir neatsimerkia danguje.
 Man vienam pabūti šiandien reikia su mama.
@@ -24229,7 +24593,7 @@ siu nakteli
 
 	
 
-0	
+147	
 
 Šių naktelį, per naktelį nemigau, nemigau.
 Su broleliu obelėlę sodinau, sodinau.
@@ -24264,7 +24628,7 @@ svieciantis rytas
 
 	
 
-0	
+147	
 
 Šviečiantis rytas už lango,
 Tavo sparnai danguje.
@@ -24347,7 +24711,7 @@ svieski man vel
 
 	
 
-0	
+148	
 
 Žaros šilkinės juosia lankas,
 Jos lyg klajūnės naktį atves.
@@ -24420,7 +24784,7 @@ tai graziai graziai
 
 	
 
-0	
+148	
 
 Tai gražiai gražiai mane augino,
 Laukas, pieva, kelias, upė.
@@ -24467,7 +24831,7 @@ take me home country roads
 
 	
 
-0	
+148	
 
 Almost heaven, west virginia
 Blue ridge mountains
@@ -24536,7 +24900,7 @@ tanta voglia di lei
 
 Man gaila tave pažadinti, bet žinau, kad turiu tave palikti, už kelių minučių išvyksiu. Man gaila, bet turiu išvykti, mano vieta ten.	
 
-0	
+148	
 
 Mi dispiace di svegliarti,
 forse un uomo non sarò,
@@ -24611,7 +24975,7 @@ tanto pe’ canta
 
 	
 
-0	
+149	
 
 Pe’ fa’ la vita meno amara
 me so’ comprato ’sta chitara
@@ -24682,7 +25046,7 @@ taves ieskojo mama
 
 	
 
-0	
+149	
 
 Juodas kadilakas,
 Juodos šaltos akys,
@@ -24747,7 +25111,7 @@ tavo pasaulis
 
 	
 
-0	
+149	
 
 Kas tavo draugai, kur tavo laimė?
 Gal jau suradai žvaigždę sėkmės?
@@ -24818,7 +25182,7 @@ tavo spalvos
 
 	
 
-0	
+150	
 
 Kai tau ryte vis dar sapnuojas elektroniniai skilandžiai,
 Namų stogai jau nutaškyti violetiniais balandžiais,
@@ -24873,7 +25237,7 @@ tavo svajone
 
 	
 
-0	
+150	
 
 Tie, kurie skrenda per mėlyną dangų,
 Ir tie, kur išdrįsta nuvyt abejonę,
@@ -24932,7 +25296,7 @@ tempo di morire
 
 Mano širdis sužeista ir žinau, kad gali ją išgydyti. Nesakyk ne. Žinau, kad myli kitą, bet ką galiu padaryti? Aš beviltiškai noriu tave mylėti. Rytoj galėsi pamiršti, bet šiandien pasakyk man taip.	
 
-0	
+150	
 
 Motocicletta dieci HP
 tutta cromata è tua se dici sì
@@ -24999,7 +25363,7 @@ tevyne dainu
 
 	
 
-0	
+151	
 
 Tėvyne dainų ir artojų,
 Už ką tu mus šitaip baudi?
@@ -25070,7 +25434,7 @@ the fisherman‘s dream
 
 Kas nutiko žvejo svajonei, kai jie išmetė savo paskutinį tinklą? Kas nutiko žvejo meilei, kai ji nugabeno jį už kalvų? Kas nutiko žvejo svajonei? Ar žvejys vis dar svajoja? Pasakyk man, ar ji išblėso? Ar ji dingo vandenyne? Kas nutiko žvejo meilei, kai jie jį užkasė? Kas nutiko žvejo meilei, kai jie jį paguldė po žeme?	
 
-0	
+151	
 
 What happened to the fisherman's dream?
 When they rowed their last boat down
@@ -25133,7 +25497,7 @@ the lion sleeps tonight
 
 	
 
-0	
+152	
 
 In the jungle the mighty jungle
 the lion sleeps tonight.
@@ -25168,7 +25532,7 @@ the rose of allendale
 
 	
 
-0	
+152	
 
 The moon was bright, the night was clear
 no breeze came over the sea
@@ -25251,7 +25615,7 @@ the virgin mary had a baby boy
 
 	
 
-0	
+152	
 
 The Virgin Mary had a baby boy, (3)
 And they say that his name is Jesus.
@@ -25300,7 +25664,7 @@ the wild rover
 
 	
 
-0	
+152	
 
 I’ve been a wild rover for so many a year,
 And I’ve spent all my money in whiskey and beer;
@@ -25367,7 +25731,7 @@ tilili tilili
 
 	
 
-0	
+153	
 
 Vakarą vėsų parnešė karvutė ant ragų, pasakė mū,
 Vakarą vėsų niekas nebenori jau išeiti iš namų.
@@ -25410,7 +25774,7 @@ tyliai leidzias
 
 	
 
-0	
+153	
 
 Tyliai leidžias pavargusi saulė,
 Paskutiniai šešėliai dienos.
@@ -25469,7 +25833,7 @@ trys milijonai
 
 	
 
-0	
+154	
 
 Galbūt per daug ir per ilgai mes kariavom,
 Galbūt per ilgai kartojom žodį „šlovė“, jė ė jė ė!
@@ -25566,7 +25930,7 @@ tu ateik i pasimatyma
 
 	
 
-0	
+154	
 
 Tu ateik į pasimatymą,
 Kai skliaute išblės žara.
@@ -25605,7 +25969,7 @@ tu atnesei sviesa
 
 	
 
-0	
+154	
 
 Tu atnešei šviesą į mano pasaulį.
 Tik ištarei žodį ir dingo apgulė.
@@ -25640,7 +26004,7 @@ tu tik ateiki
 
 	
 
-0	
+155	
 
 Aš pasiryžęs perplaukti marias,
 Atleisti tau visas klaidas.
@@ -25693,7 +26057,7 @@ tu vejo paklausk
 
 	
 
-0	
+155	
 
 Klausei manęs, kiek kelių aš žinau,
 Ar daugel kadais keliavau.
@@ -25748,7 +26112,7 @@ tuk tuk tuk i medi tris kartus
 
 	
 
-0	
+155	
 
 Aš niekada nekasiau kitam duobės,
 Bijojau vilko ir į mišką nėjau,
@@ -25815,7 +26179,7 @@ tusti delnai
 
 	
 
-0	
+155	
 
 Aš galiu suprast, ką tu man sakai,
 Aš girdžiu žodžius, skambančius keistai,
@@ -25882,7 +26246,7 @@ twist and shout
 
 	
 
-0	
+156	
 
 Well shake it up baby now
 Twist and shout
@@ -25935,7 +26299,7 @@ un baccio a mezzanote
 
 	
 
-0	
+156	
 
 Non ti fidar di un bacio a mezzanotte
 se c'è la luna non ti fidar perché perché
@@ -25984,7 +26348,7 @@ un bacio piccolissimo
 
 	
 
-0	
+156	
 
 Con un bacio piccolissimo,
 con le labbra tue di zucchero,
@@ -26035,7 +26399,7 @@ un giorno di pioggia
 
 Dieną, kai lijo, susipažinau su tavim, vakarų vėjas švelniai juokėsi. Dieną, kai lijo, išmokau tave mylėti, mane paėmei už rankos ir nusivedei su savimi.	
 
-0	
+156	
 
 Addio, addio e un bicchiere levato
 al cielo d'Irlanda e alle nuvole gonfie.
@@ -26130,7 +26494,7 @@ un‘ora
 
 Aš ilgai laukiau šios valandos, kurią praleisiu su tavimi. Aš buvau visai viena, bet užteko šios valandos, jog suprasčiau, kad tu vos per valandą man suteikei tai, ko laukiau visą visą gyvenimą. Ilga valanda, bet man ji truko per trumpai. Sugrįžk, nes visas pasaulis man tarsi pradingo, pasibaigė, išsitrynė pasibaigus tai valandai su tavimi.	
 
-0	
+157	
 
 Era tanto, tanto tempo
 che aspettavo quest'ora da passare con te.
@@ -26191,7 +26555,7 @@ un’ avventura
 
 Ne, tai ne tik nuotykis, negali būti tik pavasaris, ši meilė nėra žvaigždė, dingstanti ryte. ši meilė yra tikra poezija. Tu būsi mano, kol mano akys regės tavo akis. Aš vis labiau įsimylėjęs, iki sielos gelmių tik tave. Tai nėra tik pažadas, bet išliks rytoj ir visada, ir amžinai gyvuos. Tai ne tik nuotykis, tai ne ugnis, kuri papūtus vėjui užgęsta.	
 
-0	
+157	
 
 No, non sarà un’avventura,
 Non può essere soltanto una primavera,
@@ -26258,7 +26622,7 @@ una carezza in un pugno
 
 Vidurnaktį apie tave galvosiu, kur tu bebūtum, tu mano, ieškosiu tavo veido, kuris pasirodys švytėdamas tamsoje. Tačiau nenorėčiau, kad tu trys minutės po vidurnakčio jau galvotum apie kitą. Aš jau jaučiuosi pasimetęs ir mano rankos, kuriose pirma spindėjai, tapo suspaustu kumščiu. Jeigu tikrai mane myli, bent pusvalandį apie mane pagalvok ir iš suspausto kumščio gims švelnumas.	
 
-0	
+158	
 
 A mezzanotte sai che io ti penserò,
 ovunque tu sarai sei mia.
@@ -26331,7 +26695,7 @@ uz giriu, uz kalnu...
 
 	
 
-0	
+158	
 
 Už girių, už kalnų, ant pilko lauko
 Manęs seniai jau laukia namai.
@@ -26382,7 +26746,7 @@ uz laisve
 
 	
 
-0	
+158	
 
 Dar žydėjo laukai,
 Sviro varpos rugių.
@@ -26477,7 +26841,7 @@ vabaliuku dainele per lietu
 
 	
 
-0	
+159	
 
 Tai smagu lauke per lietų, tra lia lia.
 Musė bėga, bitė bėga su pele.
@@ -26532,7 +26896,7 @@ vai, ko nusizvengei
 
 	
 
-0	
+159	
 
 Vai, ko nusižvengei, bėrasai žirgeli,
 Ko dairais aplinkui į dulkėtą kelią?
@@ -26599,7 +26963,7 @@ vakaras prie televizoriaus
 
 	
 
-0	
+159	
 
 Labai geras daiktas
 Yra televizorius,
@@ -26700,7 +27064,7 @@ vejas man pasake
 
 	
 
-0	
+160	
 
 Kai pilka kregždutė padangėm nardo,
 Jai labai pavydžiu žydrų kelių,
@@ -26775,7 +27139,7 @@ very last day
 
 	
 
-0	
+160	
 
 Everybody's gonna pray
 On the very last day
@@ -26868,7 +27232,7 @@ vienas namuose
 
 	
 
-0	
+161	
 
 Išlydėjai akimis tėvus,
 Noris pamiršti viską ir laisvę pajust.
@@ -26927,7 +27291,7 @@ voras
 
 	
 
-0	
+161	
 
 Viens, du, trys.
 
@@ -26992,7 +27356,7 @@ we are the champions
 
 	
 
-0	
+161	
 
 I've paid my dues
 Time after time.
@@ -27069,7 +27433,7 @@ we will rock you
 
 	
 
-0	
+162	
 
 Buddy you're a boy make a big noise
 Playin' in the street gonna be a big man some day
@@ -27132,7 +27496,7 @@ with or without you
 
 	
 
-0	
+162	
 
 See the stone set in your eyes
 See the thorn twist in your side
@@ -27217,7 +27581,7 @@ zalia zalia per visa dangu
 
 	
 
-0	
+162	
 
 Žalia žalia per visą dangų,
 Per visą dangų didžiausia eglė,
@@ -27248,7 +27612,7 @@ zalioj stotelej
 
 	
 
-0	
+163	
 
 Mama, lik sveika, dar apglėbk ranka,
 Dar paglostyki man plaukus...
@@ -27319,7 +27683,7 @@ ziema, ziema
 
 	
 
-0	
+163	
 
 Tokia graži žiema, tik baltos snaigės krenta
 O mes tokie jauni, tarsi šešiolikmečiai
@@ -27362,7 +27726,7 @@ ziema vasara
 
 	
 
-0	
+163	
 
 Ryto rasą nuo žiedų nubrauksiu
 Ir rasotu delnu pasigausiu vėją.
@@ -27421,7 +27785,7 @@ pavasari isaugsiu pirmaja zole.
 
 	
 
-0	
+163	
 
 Гори, гори, моя звезда,
 Гори, звезда приветная!
@@ -27528,7 +27892,7 @@ gori, siyay, moya zvezda!
 
 Viskas netikra šiame audringame pasaulyje. Yra tik akimirka, jos ir laikykis. Yra tik akimirka tarp praeities ir ateities. Būtent ji vadinama gyvenimu.	
 
-0	
+164	
 
 Призрачно все в этом мире бушующем.
 Есть только миг за него и держись.
@@ -27635,7 +27999,7 @@ imenno on nazyvaetsya zhizn'... (2)
 
 Aš geriu iki dugno už tuos, kurie – jūroje, už tuos, kuriuos myli bangas, už tuos kuriems pasiseks. Ir jeigu turi tikslą ir džiaugsme, ir varge, tada tas, kuris neišsigando ir nemetė irklų, savo žemę suras.	
 
-0	
+165	
 
 Ты помнишь, как всё начиналось,
 Всё было впервые и вновь,
@@ -27770,7 +28134,7 @@ i vyderzhat' polnyy shtil'.
 
 Baltas sniegas, pilkas ledas ant suskilinėjusios žemės. Lyg sulopyta antklodė, ant jos – miestas kelio kilpoje. O virš miesto plaukia debesys, uždengdami dangaus šviesą. Virš miesto – geltoni dūmai. Miestui du tūkstančiai metų, pragyventų šviečiant žvaigždei vardu Saulė.	
 
-0	
+165	
 
 Белый снег, серый лед,
 На растрескавшейся земле.
@@ -27925,7 +28289,7 @@ po imeni solntse...
 
 Mažoje krosnelėje plazda ugnis. Ant pliauskų sakai, kaip ašara. Ir dainuoja man žeminėje armonika. Apie tavo šypseną ir akis.	
 
-0	
+166	
 
 Бьется в тесной печурке огонь,
 На поленьях смола, как слеза.
@@ -28032,7 +28396,7 @@ ot moej negasimoj liubvi.
 
 Lyg saulėlydžio atspindys tarp pušų plazda laužas. Ko tu liūdi, valkata? Nagi, nusišypsok, ir kažkas labai artimas tau tyliai pasakys: kaip šaunu, kad visi mes čia šiandien susirinkome.	
 
-0	
+167	
 
 Изгиб гитары желтой ты обнимаешь нежно,
 Струна осколком эха пронзит тугую высь,
@@ -28115,7 +28479,7 @@ kak zdorovo chto vse my zdes‘ sevodnia sobralis‘.
 
 Pasaulis nepaprastas, labai nepaprastas. Nepasislėpsi jame nuo audrų ir griaustinio, nepasislėpsi nuo žiemos audrų ir išsiskyrimų, karčių išsiskyrimų. Bet, be nelaimių, neprašytų nelaimių, pasaulyje yra žvaigždės ir saulės šviesa, yra gimtieji namai ir ugnies šiluma, ir aš turiu, aš turiu tave.	
 
-0	
+167	
 
 Мир не прост, совсем не прост
 нельзя в нём скрыться от бурь и от гроз
@@ -28262,7 +28626,7 @@ vyed u myenya, yest ti u myenya.
 
 Į Tichoreckaja išvyks traukinys, vagoniukas pajudės, peronas – pasiliks. Plytų siena, stoties laikrodis, baltos skarelės, liūdnos akys. Viena pro langelį žiūriu neliūdna, rankoje laikau arbūzo žievelę. Kas gi tokio mergaičiukei atsitiks? Vagonėlis pajudės, o jis – pasiliks.	
 
-0	
+168	
 
 На Тихорецкую состав отправится.
 Вагончик тронется, перрон останется.
@@ -28385,7 +28749,7 @@ vagonchik tronyetsya pyerron ostanyetsya
 
 Viltis – mano žemiškasis kompasas, o sėkmė – apdovanojimas už drąsą. Dainos užtenka ir vienos, kad tik joje apie namus būtų dainuojama.	
 
-0	
+169	
 
 Светит незнакомая звезда,
 Снова мы отоpваны от дома.
@@ -28540,7 +28904,7 @@ svetit, slovno pamyatnik nadezhde
 
 Niekur mums nepasislėpti (nuo blogo oro), bet atidėlioti gyvenimo niekaip negalima. Niekur, bet žinok, kad kažkur tenai kažkas ieško tavęs lietuje.	
 
-0	
+170	
 
 Изменения в природе происходят год от года
 Непогода нынче в моде непогода непогода
@@ -28627,7 +28991,7 @@ polgoda plohaja pogoda, polgoda sovsem nikuda (2)
 
 	
 
-0	
+171	
 
 Ничего на свете лучше нету,
 Чем бродитъ друзъям по белу свету.
@@ -28714,7 +29078,7 @@ nashe schast'e - zhit' adnoy sud'boyu
 
 	
 
-0	
+171	
 
 Очи черные, очи страстные!
 Очи жгучие и прекрасные!
@@ -28819,9 +29183,9 @@ v zhertvu otdal ya ognevym glazam!
 
 тёмная ночь	
 
-	
+Tamsi naktis, tik kulkos švilpia stepėje, tik vėjas gaudžia laiduose, blankiai mirga žvaigždės. Tamsią naktį tu, mylimoji, žinau, nemiegi ir prie vaiko lovytės slapčia nubrauki ašarą.	
 
-0	
+172	
 
 Тёмная ночь, только пули свистят по степи,
 Только ветер гудит в проводах, тускло звёзды мерцают...
@@ -28918,6 +29282,133 @@ smert' ne strashna, s ney vstrechalis' ne raz my v stepi...
 vot i teper' nado mnoyu ona kruzhitsya,
 ty menya zhdyosh' i u detskoy krovatki ne spish',
 i poetomu znayu, so mnoy nichego ne sluchitsya!
+
+
+		
+
+Это всё	
+
+это всё	
+
+	
+
+0	
+
+Побледневшие листья окна
+Зарастают прозрачной водой,
+У воды нет ни смерти, ни дна,
+Я прощаюсь с тобой.
+Горсть тепла после долгой зимы
+Донесём. Пять минут до утра
+Доживём. Наше море вины
+Поглощает время – дыра…
+
+
+Это всё, что останется после меня
+Это всё, что возьму я с собой.
+
+
+С нами память сидит у стола,
+А в руке её пламя свечи,
+Ты токой хорошей была,
+Посмотри на меня, не молчи.
+Крики чайки на белой стене
+Окольцованы чёрной луной,
+Нарисуй что – нибудь на окне
+И шепни на прощанье рекой…
+
+
+Две мечты да печали стакан
+Мы воскреснув допили до дна,
+Я не знаю, зачем тебе дан,
+Правит мною дорога, луна.
+Ты не плачь, если можешь прости
+Жизнь не сахар, а смерть нам ни чай.
+Мне свою дорогу нести
+Досвидания, друг, и прощай…
+
+
+Poblednevshie list'ya okna zarastayut prozrachnoy vodoy.
+U vody net ni smerti, ni dna. Ya proshchayus' s toboy.
+Gorst' tepla posle dolgoy zimy - donesem.
+Pyat' minut do utra - dozhivem.
+Nashe more viny pogloshchaet vremya-dyra
+
+
+Eto vsio, chto ostanetsya posle menya,
+Eto vsio, chto voz'mu ya s soboy.
+
+
+Dve mechty i pechali stakan my, voskresnuv, dopili do dna.
+Ya ne znayu, zachem tebe dan pravit mnoyu doroga-voyna.
+I ne plach', esli mozhesh', prosti.
+Zhizn' - ne sakhar, a smert' nam - ne chay.
+Mne svoyu dorogu nesti. Do svidan'ya, drug, i proshchay.
+
+
+S nami pamyat' sidit u stola, a v ruke ee plamya svechi.
+Ty takoy khoroshey byla, posmotri na menya, ne molchi.
+Kriki chayki na beloy stene okol'tsovannoy chernoy lunoy.
+Narisuy chto-nibud' na okne i shepni na proshchan'e rekoy.
+
+
+	
+побледневшие листья окна
+зарастают прозрачной водой,
+у воды нет ни смерти, ни дна,
+я прощаюсь с тобой.
+горсть тепла после долгой зимы
+донесём. пять минут до утра
+доживём. наше море вины
+поглощает время – дыра…
+
+
+это всё, что останется после меня
+это всё, что возьму я с собой.
+
+
+с нами память сидит у стола,
+а в руке её пламя свечи,
+ты токой хорошей была,
+посмотри на меня, не молчи.
+крики чайки на белой стене
+окольцованы чёрной луной,
+нарисуй что – нибудь на окне
+и шепни на прощанье рекой…
+
+
+две мечты да печали стакан
+мы воскреснув допили до дна,
+я не знаю, зачем тебе дан,
+правит мною дорога, луна.
+ты не плачь, если можешь прости
+жизнь не сахар, а смерть нам ни чай.
+мне свою дорогу нести
+досвидания, друг, и прощай…
+
+
+poblednevshie list'ya okna zarastayut prozrachnoy vodoy.
+u vody net ni smerti, ni dna. ya proshchayus' s toboy.
+gorst' tepla posle dolgoy zimy - donesem.
+pyat' minut do utra - dozhivem.
+nashe more viny pogloshchaet vremya-dyra
+
+
+eto vsio, chto ostanetsya posle menya,
+eto vsio, chto voz'mu ya s soboy.
+
+
+dve mechty i pechali stakan my, voskresnuv, dopili do dna.
+ya ne znayu, zachem tebe dan pravit mnoyu doroga-voyna.
+i ne plach', esli mozhesh', prosti.
+zhizn' - ne sakhar, a smert' nam - ne chay.
+mne svoyu dorogu nesti. do svidan'ya, drug, i proshchay.
+
+
+s nami pamyat' sidit u stola, a v ruke ee plamya svechi.
+ty takoy khoroshey byla, posmotri na menya, ne molchi.
+kriki chayki na beloy stene okol'tsovannoy chernoy lunoy.
+narisuy chto-nibud' na okne i shepni na proshchan'e rekoy.
 
 
 		

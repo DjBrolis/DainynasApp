@@ -1,6 +1,7 @@
 package com.example.martynas.dainynas.Pages;
 
 import android.content.Intent;
+import android.database.Cursor;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -10,11 +11,14 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
+import com.activeandroid.Cache;
+import com.activeandroid.query.Select;
 import com.example.martynas.dainynas.Daina;
 import com.example.martynas.dainynas.DainaViewModel;
 import com.example.martynas.dainynas.Posmelis;
 import com.example.martynas.dainynas.R;
 
+import java.io.IOException;
 import java.util.List;
 
 public class EditDaina extends AppCompatActivity {
@@ -23,6 +27,9 @@ public class EditDaina extends AppCompatActivity {
     protected EditText zodziai;
     protected EditText vertimas;
     protected long id;
+    protected long[] ids;
+    protected int i;
+    protected Daina daina;
 
 
     @Override
@@ -37,7 +44,32 @@ public class EditDaina extends AppCompatActivity {
         zodziai = (EditText) findViewById(R.id.editZodziai);
         vertimas = (EditText) findViewById(R.id.editVertimas);
 
-        fillView(id);
+        String query = new Select("Id").from(Daina.class).orderBy("Id DESC").limit(1).toSql();
+        Cursor cursor = Cache.openDatabase().rawQuery(query, null);
+        cursor.moveToFirst();
+        final long maxId = cursor.getLong(0);
+        ids = new long[(int) maxId];
+        query = new Select("Id").from(Daina.class).orderBy("Pavadinimas").toSql();
+        cursor = Cache.openDatabase().rawQuery(query, null);
+        cursor.moveToFirst();
+        ids[0] = cursor.getLong(0);
+        for (i=1; i < maxId; ++i){
+            cursor.moveToNext();
+            ids[i] = cursor.getLong(0);
+        }
+        boolean found = false;
+        i = 0;
+        while (!found){
+            if (ids[i] == id){
+                found = true;
+            }
+            else {
+                ++i;
+            }
+        }
+
+
+        fillView(ids[i]);
 
         ImageButton imageButton = (ImageButton) findViewById(R.id.saveEditedDaina);
         imageButton.setOnClickListener(new Button.OnClickListener(){
@@ -51,14 +83,22 @@ public class EditDaina extends AppCompatActivity {
         nextDaina.setOnClickListener(new Button.OnClickListener(){
             @Override
             public void onClick(View v) {
-                fillView(++id);
+                ++i;
+                if (i == (int) maxId){
+                    i=0;
+                }
+                fillView(ids[i]);
             }
         });
         ImageButton previousDaina = (ImageButton) findViewById(R.id.goPreviousDaina);
         previousDaina.setOnClickListener(new Button.OnClickListener(){
             @Override
             public void onClick(View v) {
-                fillView(--id);
+                --i;
+                if (i == -1){
+                    i = (int) maxId - 1;
+                }
+                fillView(ids[i]);
             }
         });
     }
@@ -68,11 +108,11 @@ public class EditDaina extends AppCompatActivity {
         dainaViewModel.puslapis = Integer.parseInt(puslapis.getText().toString());
         dainaViewModel.vertimas = vertimas.getText().toString();
         dainaViewModel.zodziai = zodziai.getText().toString();
-        new Daina(dainaViewModel);
+        daina.updateDaina (daina, dainaViewModel);
     }
 
     protected void fillView (long id){
-        final Daina daina = Daina.load(Daina.class, id);
+        daina = Daina.load(Daina.class, id);
         getSupportActionBar().setTitle(daina.pavadinimas);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
@@ -83,7 +123,11 @@ public class EditDaina extends AppCompatActivity {
             builder.append(posmelis.zodziai + '\n');
         }
         pavadinimas.setText(daina.pavadinimas);
-        puslapis.setText("1");
+        if (daina.puslapis != 0){
+            puslapis.setText(String.valueOf(daina.puslapis));
+        }else {
+            puslapis.setText("");
+        }
         zodziai.setText(builder.toString());
         vertimas.setText(daina.vertimas);
     }

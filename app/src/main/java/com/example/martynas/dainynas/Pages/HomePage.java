@@ -183,14 +183,14 @@ public class HomePage extends AppCompatActivity {
         String outputConcat = "";
         if (newInstall){
             for (int i = 1; i < outputTest.length; i = i+2) {
-                new Daina(outputTest[i], this);
+                new Daina(outputTest[i],this);
             }
         }
         else {
             int j = 0;
             for (int i = 1; i < outputTest.length; i = i + 2) {
                 if (newVersions[j] == Integer.parseInt(outputTest[i-1].trim())) {
-                    new Daina(outputTest[i], this);
+                    new Daina(outputTest[i],this);
                     j++;
                 }
             }

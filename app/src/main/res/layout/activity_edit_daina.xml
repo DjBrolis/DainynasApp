@@ -14,15 +14,16 @@
     android:scrollbarAlwaysDrawVerticalTrack="true"
     android:scrollbars="vertical"
     android:scrollbarStyle="outsideOverlay">
+
     <android.support.v4.widget.NestedScrollView
         android:id="@+id/SCROLLER_ID"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:scrollbars="vertical"
         android:fillViewport="true"
-        android:layout_alignParentStart="false"
-        android:layout_alignParentTop="false"
-        android:layout_alignParentLeft="false">
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -38,24 +39,27 @@
                 android:layout_height="60dp"
                 app:srcCompat="@mipmap/left_arrow"
                 android:id="@+id/goPreviousDaina"
-                android:scaleType="fitXY"
-                android:backgroundTint="@android:color/transparent" />
+                android:scaleType="fitCenter"
+                android:background="@android:color/transparent"
+                android:layout_weight="1" />
 
             <ImageButton
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 app:srcCompat="@mipmap/save_button"
                 android:id="@+id/saveEditedDaina"
-                android:scaleType="fitXY"
-                android:backgroundTint="@android:color/transparent" />
+                android:scaleType="fitCenter"
+                android:background="@android:color/transparent"
+                android:layout_weight="1" />
 
             <ImageButton
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 app:srcCompat="@mipmap/right_arrow"
                 android:id="@+id/goNextDaina"
-                android:scaleType="fitXY"
-                android:backgroundTint="@android:color/transparent" />
+                android:scaleType="fitCenter"
+                android:background="@android:color/transparent"
+                android:layout_weight="1" />
         </LinearLayout>
 
         <TextView
@@ -85,7 +89,9 @@
         android:inputType="number"
         android:ems="10"
         android:id="@+id/editPuslapis"
-        android:textColor="@android:color/white" />
+        android:textColor="@android:color/white"
+        android:hint="Dainyno puslapis, kuriame yra ši daina"
+        android:textColorHint="@color/listItem1" />
 
     <TextView
         android:text="Zodziai"
@@ -108,22 +114,20 @@
         android:layout_height="wrap_content"
         android:id="@+id/vertimas" />
 
-    <EditText
-        android:text=""
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:id="@+id/editVertimas"
-        android:inputType="textMultiLine"
-        android:hint="Čia įveskite dainos vertimą"
-        android:textColorHint="@android:color/white"
-        android:textColor="@android:color/white" />
-
+        <EditText
+            android:text=""
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:id="@+id/editVertimas"
+            android:inputType="textMultiLine"
+            android:hint="Čia įveskite dainos vertimą"
+            android:textColorHint="@android:color/white"
+            android:textColor="@android:color/white" />
 
 
     </LinearLayout>
     </android.support.v4.widget.NestedScrollView>
-
 
 
 </RelativeLayout>
