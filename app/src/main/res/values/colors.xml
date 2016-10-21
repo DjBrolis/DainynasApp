@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">#212121</color>
     <color name="colorPrimaryDark">#212121</color>
-    <color name="colorAccent">#BD6602</color>
+    <color name="colorAccent">#bd6602</color>
     <color name="listItem1">#ffffff</color>
     <color name="listItem2">#e8eefe</color>
     <color name="listItemSelected">#3F51B5</color>

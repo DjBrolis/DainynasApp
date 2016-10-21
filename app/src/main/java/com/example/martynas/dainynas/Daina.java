@@ -43,7 +43,6 @@ public class Daina extends Model{
     }
 
     public Daina (DainaViewModel dainaViewModel){
-        super();
         Daina dainaTemp = new Daina();
         dainaTemp.pavadinimas = dainaViewModel.pavadinimas;
         dainaTemp.vertimas = dainaViewModel.vertimas;

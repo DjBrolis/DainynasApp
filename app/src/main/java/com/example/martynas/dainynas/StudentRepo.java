@@ -51,7 +51,10 @@ public class StudentRepo {
             if (search.length() > 0){
                 searchAlt = search.substring(0,1).toUpperCase() + search.substring(1);
                 selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
-                        .where("(Pavadinimas  LIKE " + searchQuery(search, "Pavadinimas") + ')').or("(PavOnlyENLetters  LIKE " + searchQuery(search, "PavOnlyENLetters") + ')').orderBy("Favorite DESC, Pavadinimas ASC").toSql();}
+                        .where("(Pavadinimas  LIKE " + searchQuery(search, "Pavadinimas") + ')')
+                        .or("(PavOnlyENLetters  LIKE " + searchQuery(search, "PavOnlyENLetters") + ')')
+                        .or("(Puslapis = '" + search.trim() + "')")
+                        .orderBy("Favorite DESC, Pavadinimas ASC").toSql();}
             else{
                 selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
                         .where("Pavadinimas  LIKE " + searchQuery(search, "Pavadinimas")).orderBy("Pavadinimas").toSql();}
@@ -60,7 +63,9 @@ public class StudentRepo {
             if (search.length() > 0){
                 searchAlt = search.substring(0,1).toUpperCase() + search.substring(1);
                 selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
-                        .where("(Pavadinimas  LIKE " + searchQuery(search, "Pavadinimas")+ ')').or("(PavOnlyENLetters  LIKE " + searchQuery(search, "PavOnlyENLetters") + ')').and("Favorite=1").orderBy("Favorite DESC, Pavadinimas ASC").toSql();}
+                        .where("(Pavadinimas  LIKE " + searchQuery(search, "Pavadinimas")+ ')')
+                        .or("(PavOnlyENLetters  LIKE " + searchQuery(search, "PavOnlyENLetters") + ')')
+                        .or("Puslapis = '" + search.trim() + "'").orderBy("Favorite DESC, Pavadinimas ASC").toSql();}
             else{
                 selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class)
                         .where("Pavadinimas  LIKE " + searchQuery(search, "Pavadinimas")).and("Favorite=1").orderBy("Pavadinimas").toSql();}

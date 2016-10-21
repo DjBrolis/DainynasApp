@@ -31,6 +31,13 @@ public class ViewDaina extends AppCompatActivity {
         TextView textView = (TextView) findViewById(R.id.viewDainaZodziai);
         textView.setTextSize(settingsDB.zodziaiDydis);
         TextView textView1 = (TextView) findViewById(R.id.viewVertimas);
+        if (daina.puslapis != 0){
+            TextView textView2 = (TextView) findViewById(R.id.viewPuslapis);
+            textView2.setVisibility(textView2.VISIBLE);
+            textView2.setText(String.valueOf(daina.puslapis) + " psl.");
+
+        }
+
 
         //Pakeicia toolbar uzrasa i dainos pavadinima
         Toolbar viewDainaToolbar = (Toolbar) findViewById(R.id.toolbar);

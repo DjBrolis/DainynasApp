@@ -17,31 +17,38 @@
         android:scrollbars="vertical"
         android:fillViewport="true"
         android:layout_alignParentStart="false"
-        android:layout_alignParentTop="false">
+        android:layout_alignParentTop="false"
+        android:layout_alignParentLeft="false">
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Medium Text"
-        android:id="@+id/viewDainaZodziai"
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/viewPuslapis"
+                android:textColor="@android:color/darker_gray"
+                android:textAlignment="textEnd"
+                android:gravity="end"
+                android:layout_marginTop="@dimen/fab_margin"
+                android:visibility="gone"/>
 
-        android:layout_alignParentStart="true"
-        android:layout_alignParentBottom="true"
-        android:layout_alignEnd="@+id/viewDainaPavadinimas"
-        android:textSize="20dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Medium Text"
+                android:id="@+id/viewDainaZodziai"
+                android:textSize="20dp" />
 
-    <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="Medium Text"
-            android:id="@+id/viewVertimas"
-            />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Medium Text"
+                android:id="@+id/viewVertimas" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -53,7 +60,8 @@
                 android:onClick="editDaina"
                 android:textAlignment="center"
                 android:paddingTop="16dp"
-                android:paddingBottom="16dp" />
+                android:paddingBottom="16dp"
+                android:textColor="@color/colorAccent" />
         </LinearLayout>
     </android.support.v4.widget.NestedScrollView>
 
