@@ -73,6 +73,9 @@ public class SearchList extends AppCompatActivity implements View.OnClickListene
     @Override
     public void onResume() {
         super.onResume();
+        cursor=studentRepo.getStudentList(false);
+        customAdapter = new CustomAdapter(SearchList.this,  cursor, 0);
+        listView.setAdapter(customAdapter);
     }
 
     @Override

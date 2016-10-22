@@ -89,7 +89,8 @@
         android:text="Puslapis"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/puslapis" />
+        android:id="@+id/puslapis"
+        android:visibility="gone"/>
 
     <EditText
         android:layout_width="match_parent"
@@ -99,7 +100,8 @@
         android:id="@+id/editPuslapis"
         android:textColor="@android:color/white"
         android:hint="Dainyno puslapis, kuriame yra ši daina"
-        android:textColorHint="@color/listItem1" />
+        android:textColorHint="@color/listItem1"
+        android:visibility="gone"/>
 
     <TextView
         android:text="Zodziai"

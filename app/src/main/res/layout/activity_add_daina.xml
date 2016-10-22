@@ -51,7 +51,8 @@
             android:text="Puslapis"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/puslapis" />
+            android:id="@+id/puslapis"
+            android:visibility="gone"/>
 
         <EditText
             android:layout_width="fill_parent"
@@ -61,7 +62,8 @@
             android:id="@+id/savePuslapis"
             android:textColor="@android:color/white"
             android:hint="Jei daina yra dainyne"
-            android:textColorHint="@android:color/darker_gray" />
+            android:textColorHint="@android:color/darker_gray"
+            android:visibility="gone"/>
 
         <TextView
             android:text="Žodziai"

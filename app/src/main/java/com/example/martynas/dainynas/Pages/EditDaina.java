@@ -1,7 +1,9 @@
 package com.example.martynas.dainynas.Pages;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.format.Time;
@@ -30,9 +32,9 @@ public class EditDaina extends AppCompatActivity {
     protected EditText puslapis;
     protected EditText zodziai;
     protected EditText vertimas;
-    protected long id;
+    protected long id, maxId;
     protected long[] ids;
-    protected int i;
+    protected int i, j;
     protected Daina daina;
 
 
@@ -48,19 +50,7 @@ public class EditDaina extends AppCompatActivity {
         zodziai = (EditText) findViewById(R.id.editZodziai);
         vertimas = (EditText) findViewById(R.id.editVertimas);
 
-        String query = new Select("Id").from(Daina.class).orderBy("Id DESC").limit(1).toSql();
-        Cursor cursor = Cache.openDatabase().rawQuery(query, null);
-        cursor.moveToFirst();
-        final long maxId = cursor.getLong(0);
-        ids = new long[(int) maxId];
-        query = new Select("Id").from(Daina.class).orderBy("Pavadinimas").toSql();
-        cursor = Cache.openDatabase().rawQuery(query, null);
-        cursor.moveToFirst();
-        ids[0] = cursor.getLong(0);
-        for (i=1; i < maxId; ++i){
-            cursor.moveToNext();
-            ids[i] = cursor.getLong(0);
-        }
+        createIds();
         boolean found = false;
         i = 0;
         while (!found){
@@ -110,14 +100,8 @@ public class EditDaina extends AppCompatActivity {
         deleteDaina.setOnClickListener(new Button.OnClickListener(){
             @Override
             public void onClick(View v) {
-                --i;
-                if (i == -1){
-                    i = i + 2;
-                    if (i == (int) maxId){ // Šiuo atveju vis tiek nulūš
-                        Toast.makeText(EditDaina.this, "Jūs ištrynėte visas dainas", Toast.LENGTH_LONG).show();
-                    }
-                }
-                fillView(ids[i]);
+                AlertDialog diaBox = AskOption();
+                diaBox.show();
             }
         });
         ImageButton nextDaina = (ImageButton) findViewById(R.id.goNextDaina);
@@ -216,5 +200,70 @@ public class EditDaina extends AppCompatActivity {
         }else {
             return true;
         }
+    }
+
+    private AlertDialog AskOption()
+    {
+        AlertDialog myQuittingDialogBox =new AlertDialog.Builder(this, R.style.YourDialogStyle)
+                //set message, title, and icon
+                .setTitle("Atsargiai!")
+                .setMessage("Ar tikrai norite ištrinti šią dainą?")
+
+                //.setIcon(R.drawable.delete)
+
+                .setPositiveButton("Taip", new DialogInterface.OnClickListener() {
+
+                    public void onClick(DialogInterface dialog, int whichButton) {
+                        //your deleting code
+                        daina = Daina.load(Daina.class, ids[i]);
+                        List<Posmelis> posmeliai = daina.posmeliai();
+                        for (Posmelis posmelis: posmeliai
+                                ) {
+                            posmelis.delete();
+                        }
+                        daina.delete();
+                        createIds();
+                        --i;
+                        if (i == -1){
+                            i = i + 1;
+                            if (i == (int) maxId){ // Šiuo atveju vis tiek nulūš
+                                Toast.makeText(EditDaina.this, "Jūs ištrynėte visas dainas", Toast.LENGTH_LONG).show();
+                            }
+                        }
+                        fillView(ids[i]);
+                        dialog.dismiss();
+                    }
+
+                })
+
+
+
+                .setNegativeButton("Atšaukti", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+
+                        dialog.dismiss();
+
+                    }
+                })
+                .create();
+        return myQuittingDialogBox;
+
+    }
+    public void createIds (){
+        maxId = new Select().from(Daina.class).count();
+       // Cursor cursor = Cache.openDatabase().rawQuery(query, null);
+        //cursor.moveToFirst();
+       // maxId = cursor.getLong(0);
+        ids = new long[(int) maxId];
+        j = i;  //cia kvailas sprendimas, bet dabar per daug pavarges, kad galvociau
+        String query = new Select("Id").from(Daina.class).orderBy("Pavadinimas").toSql();
+        Cursor cursor = Cache.openDatabase().rawQuery(query, null);
+        cursor.moveToFirst();
+        ids[0] = cursor.getLong(0);
+        for (i=1; i < maxId; i++){
+            cursor.moveToNext();
+            ids[i] = cursor.getLong(0);
+        }
+        i=j;
     }
 }

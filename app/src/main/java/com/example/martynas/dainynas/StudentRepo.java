@@ -21,10 +21,10 @@ public class StudentRepo {
         String tableName = Cache.getTableInfo(Daina.class).getTableName();
        // String selectQuery = new Select().from(Daina.class).toSql();
         if (!favorite){
-        selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class).orderBy("Pavadinimas").toSql();
+        selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class).orderBy("PavOnlyENLetters").toSql();
         }
         else {
-            selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class).where("Favorite=1").orderBy("Pavadinimas").toSql();
+            selectQuery = new Select(tableName + ".*, " + tableName + ".Id as _id").from(Daina.class).where("Favorite=1").orderBy("PavOnlyENLetters").toSql();
 
         }
         Cursor cursor = Cache.openDatabase().rawQuery(selectQuery, null);

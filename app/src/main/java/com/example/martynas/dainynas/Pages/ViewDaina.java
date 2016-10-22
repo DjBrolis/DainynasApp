@@ -64,5 +64,4 @@ public class ViewDaina extends AppCompatActivity {
         intent.putExtra("DainaId", daina.getId());
         startActivity(intent);
     }
-
 }

@@ -33,6 +33,8 @@ public class Daina extends Model{
     public int favorite;
     @Column (name = "Puslapis")
     public int puslapis;
+    @Column (name = "Nuoroda")
+    public String nuoroda;
 
     public List<Posmelis> posmeliai () {
         return getMany(Posmelis.class,"Daina");
@@ -43,28 +45,28 @@ public class Daina extends Model{
     }
 
     public Daina (DainaViewModel dainaViewModel){
-        Daina dainaTemp = new Daina();
-        dainaTemp.pavadinimas = dainaViewModel.pavadinimas;
-        dainaTemp.vertimas = dainaViewModel.vertimas;
-        dainaTemp.pavOnlyENLetters = LietRaidPanaik(dainaViewModel.pavadinimas);
-        dainaTemp.puslapis = dainaViewModel.puslapis;
+        super();
+        this.pavadinimas = dainaViewModel.pavadinimas;
+        this.vertimas = dainaViewModel.vertimas;
+        this.pavOnlyENLetters = LietRaidPanaik(dainaViewModel.pavadinimas);
+        this.puslapis = dainaViewModel.puslapis;
         String[] zodziaiTemp = dainaViewModel.zodziai.trim().split("\n");
         Posmelis posmelisTemp = new Posmelis();
-        posmelisTemp.daina = dainaTemp;
-        dainaTemp.save();
+        posmelisTemp.daina = this;
+        this.save();
 
         boolean naujasStulpelis = false;
         for (String eilute: zodziaiTemp
                 ) {
             if (eilute.isEmpty() && !posmelisTemp.zodziai.isEmpty()) {
-                posmelisTemp.daina = dainaTemp;
+                posmelisTemp.daina = this;
                 posmelisTemp.save();
                 naujasStulpelis = true;
             }
             else if (naujasStulpelis && !eilute.isEmpty()){
                 naujasStulpelis = false;
                 posmelisTemp = new Posmelis();
-                posmelisTemp.daina = dainaTemp;
+                posmelisTemp.daina = this;
                 posmelisTemp.zodziai += eilute + "\n";
                 posmelisTemp.zodziaiOnlyENLetters += LietRaidPanaik(eilute) + "\n";
             }
@@ -73,9 +75,9 @@ public class Daina extends Model{
                 posmelisTemp.zodziaiOnlyENLetters += LietRaidPanaik(eilute) + "\n";
             }
         }
-        posmelisTemp.daina = dainaTemp;
+        posmelisTemp.daina = this;
         posmelisTemp.save();
-        dainaTemp.save();
+        this.save();
 
     }
 

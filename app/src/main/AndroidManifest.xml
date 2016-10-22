@@ -17,7 +17,7 @@
             android:value="DainynasDB.db" />
         <meta-data
             android:name="AA_DB_VERSION"
-            android:value="14" />
+            android:value="15" />
         <meta-data
             android:name="AA_MODELS"
             android:value="com.example.martynas.dainynas.Daina, com.example.martynas.dainynas.Posmelis, com.example.martynas.dainynas.SettingsDB" />
@@ -71,7 +71,8 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.martynas.dainynas.Pages.HomePage" />
         </activity>
-        <activity android:name=".Pages.EditDaina">
+        <activity android:name=".Pages.EditDaina"
+            android:theme="@style/AppTheme">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.martynas.dainynas.Pages.SearchList" />
