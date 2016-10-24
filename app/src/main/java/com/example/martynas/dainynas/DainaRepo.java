@@ -9,10 +9,10 @@ import android.icu.text.StringSearch;
 import com.activeandroid.Cache;
 import com.activeandroid.query.Select;
 
-public class StudentRepo {
+public class DainaRepo {
     private String selectQuery;
 
-    public StudentRepo() {
+    public DainaRepo() {
         super();
     }
 

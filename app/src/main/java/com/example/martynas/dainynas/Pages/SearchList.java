@@ -7,17 +7,14 @@ import android.content.Intent;
 import android.database.Cursor;
 import android.os.Build;
 import android.support.v4.view.MenuItemCompat;
-import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.SearchView;
 import android.util.Log;
-import android.view.FocusFinder;
 import android.view.Menu;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.CheckBox;
-import android.widget.CompoundButton;
 import android.widget.ListView;
 import android.widget.Toast;
 
@@ -25,17 +22,17 @@ import com.activeandroid.ActiveAndroid;
 import com.example.martynas.dainynas.CustomAdapterP;
 import com.example.martynas.dainynas.CustomAdapter;
 import com.example.martynas.dainynas.Daina;
+import com.example.martynas.dainynas.DainaRepo;
 import com.example.martynas.dainynas.Posmelis;
 import com.example.martynas.dainynas.PosmelisRepo;
 import com.example.martynas.dainynas.R;
-import com.example.martynas.dainynas.StudentRepo;
 
 public class SearchList extends AppCompatActivity implements View.OnClickListener{
 
     private CustomAdapter customAdapter;
     ListView listView;
     Cursor cursor;
-    StudentRepo studentRepo ;
+    DainaRepo studentRepo ;
     private final static String TAG= SearchList.class.getName().toString();
     Long dainaId;
     Long posmelisId;
@@ -54,7 +51,7 @@ public class SearchList extends AppCompatActivity implements View.OnClickListene
         ActiveAndroid.initialize(this);
         intent = getIntent();
 
-        studentRepo = new StudentRepo();
+        studentRepo = new DainaRepo();
         cursor=studentRepo.getStudentList(false);
         customAdapter = new CustomAdapter(SearchList.this,  cursor, 0);
         listView = (ListView) findViewById(R.id.lstStudent);
@@ -73,9 +70,9 @@ public class SearchList extends AppCompatActivity implements View.OnClickListene
     @Override
     public void onResume() {
         super.onResume();
-        cursor=studentRepo.getStudentList(false);
+      /*  cursor=studentRepo.getStudentList(false);
         customAdapter = new CustomAdapter(SearchList.this,  cursor, 0);
-        listView.setAdapter(customAdapter);
+        listView.setAdapter(customAdapter);*/
     }
 
     @Override

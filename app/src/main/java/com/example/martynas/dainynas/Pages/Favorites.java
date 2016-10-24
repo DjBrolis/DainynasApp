@@ -21,16 +21,16 @@ import com.activeandroid.ActiveAndroid;
 import com.example.martynas.dainynas.CustomAdapterF;
 import com.example.martynas.dainynas.CustomAdapterPF;
 import com.example.martynas.dainynas.Daina;
+import com.example.martynas.dainynas.DainaRepo;
 import com.example.martynas.dainynas.Posmelis;
 import com.example.martynas.dainynas.PosmelisRepo;
 import com.example.martynas.dainynas.R;
-import com.example.martynas.dainynas.StudentRepo;
 
 public class Favorites extends AppCompatActivity implements View.OnClickListener {
     private CustomAdapterF customAdapterF;
     ListView listView;
     Cursor cursor;
-    StudentRepo studentRepo ;
+    DainaRepo studentRepo ;
     private final static String TAG= Favorites.class.getName().toString();
     Long dainaId;
     Long posmelisId;
@@ -49,7 +49,7 @@ public class Favorites extends AppCompatActivity implements View.OnClickListener
         ActiveAndroid.initialize(this);
         intent = getIntent();
 
-        studentRepo = new StudentRepo();
+        studentRepo = new DainaRepo();
         cursor=studentRepo.getStudentList(true);
         customAdapterF = new CustomAdapterF(Favorites.this,  cursor, 0);
         listView = (ListView) findViewById(R.id.lstFavorite);
